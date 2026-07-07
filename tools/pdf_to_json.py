@@ -33,7 +33,8 @@ def parse(txt, default_ctx=("", "", "")):
     livro, titulo, capitulo = default_ctx
     arts = []
     cur = None            # dict being built
-    started = False       # only capture after first Art.
+    maxkey = None         # maior (num, sufixo) já aceito
+    last_num = 0          # número do último artigo aceito
     i = 0
     while i < len(lines):
         ln = lines[i]
@@ -60,15 +61,23 @@ def parse(txt, default_ctx=("", "", "")):
             i += 1
             continue
         a = ART_RE.match(ln)
-        if a:
-            started = True
+        # Só inicia um novo artigo se o número/sufixo for estritamente maior que
+        # o máximo já visto e sem salto absurdo (>30). Isso descarta artigos
+        # CITADOS de outras leis (comum em leis que "alteram" outras) e funde as
+        # redações repetidas do mesmo artigo que a versão compilada exibe.
+        is_new = False
+        if a is not None:
+            num = int(a.group(1)); suf = (a.group(2) or "").upper()
+            key = (num, suf)
+            if maxkey is None or (key > maxkey and num <= last_num + 30):
+                is_new = True
+        if is_new:
             if cur:
                 arts.append(cur)
-            num = a.group(1)
-            suf = a.group(2)
-            art = "Art. " + num + ("-" + suf.upper() if suf else "")
+            art = "Art. " + str(num) + ("-" + suf if suf else "")
             cur = {"art": art, "livro": livro, "titulo": titulo,
                    "capitulo": capitulo, "buf": [ln]}
+            maxkey = key; last_num = num
         elif cur is not None:
             if SKIP.match(ln):
                 i += 1; continue
