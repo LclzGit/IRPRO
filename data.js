@@ -4,14 +4,14 @@ window.IRPRO_DATA = {
   "meta": {
     "date": "2026-07-07",
     "app": "IR Pro",
-    "note": "Catálogo das legislações de IR/CSLL para estudo. Confira sempre o texto oficial vigente no Planalto/Receita Federal."
+    "note": "Base de estudo das legislações de IR/CSLL. Confira sempre o texto oficial vigente no Planalto/Receita Federal."
   },
   "sources": [
     {
       "key": "CF/88",
       "short": "CF/88",
       "name": "Constituição Federal de 1988",
-      "sub": "Dispositivos sobre o imposto de renda (art. 153, III e §2º; art. 150; art. 195)",
+      "sub": "Dispositivos sobre o imposto de renda (arts. 145, §1º e 153, III/§2º)",
       "icon": "📕",
       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
     },
@@ -19,7 +19,7 @@ window.IRPRO_DATA = {
       "key": "CTN",
       "short": "CTN",
       "name": "Código Tributário Nacional",
-      "sub": "Lei nº 5.172/1966 (compilado) — arts. 43 a 45: imposto sobre a renda",
+      "sub": "Lei nº 5.172/1966 — arts. 43 a 45: imposto sobre a renda",
       "icon": "📕",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
     },
@@ -51,7 +51,7 @@ window.IRPRO_DATA = {
       "key": "Lei 9.249/95",
       "short": "Lei 9.249",
       "name": "Lei nº 9.249/1995",
-      "sub": "IRPJ e CSLL — apuração, JCP, isenção de lucros/dividendos",
+      "sub": "IRPJ e CSLL — alíquota, JCP, isenção de lucros/dividendos",
       "icon": "📜",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm"
     },
@@ -115,8 +115,13 @@ window.IRPRO_DATA = {
   "chunks": [
     {
       "s": "CF/88",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Constituição Federal de 1988 — Dispositivos sobre o imposto de renda (art. 153, III e §2º; art. 150; art. 195).\nTexto oficial: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 145",
+      "t": "Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:\nI - impostos;\nII - taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição;\nIII - contribuição de melhoria, decorrente de obras públicas.\n§ 1º Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultado à administração tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte."
+    },
+    {
+      "s": "CF/88",
+      "a": "Art. 153",
+      "t": "Art. 153. Compete à União instituir impostos sobre:\nI - importação de produtos estrangeiros;\nII - exportação, para o exterior, de produtos nacionais ou nacionalizados;\nIII - renda e proventos de qualquer natureza;\nIV - produtos industrializados;\nV - operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários;\nVI - propriedade territorial rural;\nVII - grandes fortunas, nos termos de lei complementar.\n§ 2º O imposto previsto no inciso III:\nI - será informado pelos critérios da generalidade, da universalidade e da progressividade, na forma da lei."
     },
     {
       "s": "CTN",
@@ -135,13 +140,18 @@ window.IRPRO_DATA = {
     },
     {
       "s": "DL 1.598/77",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Decreto-Lei nº 1.598/1977 — Base do IRPJ / lucro real e escrituração.\nTexto oficial: https://www.planalto.gov.br/ccivil_03/decreto-lei/del1598.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 6",
+      "t": "Art. 6º - Lucro real é o lucro líquido do exercício ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas pela legislação tributária.\n§ 1º - O lucro líquido do exercício é a soma algébrica de lucro operacional (art. 11), dos resultados não operacionais e das participações, e deverá ser determinado com observância dos preceitos da lei comercial.\n§ 2º - Na determinação do lucro real serão adicionados ao lucro líquido do exercício:\na) os custos, despesas, encargos, perdas, provisões, participações e quaisquer outros valores deduzidos na apuração do lucro líquido que, de acordo com a legislação tributária, não sejam dedutíveis na determinação do lucro real;\nb) os resultados, rendimentos, receitas e quaisquer outros valores não incluídos na apuração do lucro líquido que, de acordo com a legislação tributária, devam ser computados na determinação do lucro real.\n§ 3º - Na determinação do lucro real poderão ser excluídos do lucro líquido do exercício:\na) os valores cuja dedução seja autorizada pela legislação tributária e que não tenham sido computados na apuração do lucro líquido do exercício;\nb) os resultados, rendimentos, receitas e quaisquer outros valores incluídos na apuração do lucro líquido que, de acordo com a legislação tributária, não sejam computados no lucro real;\nc) os prejuízos de exercícios anteriores, observado o disposto no artigo 64."
     },
     {
       "s": "Lei 7.689/88",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Lei nº 7.689/1988 — Institui a Contribuição Social sobre o Lucro (CSLL).\nTexto oficial: https://www.planalto.gov.br/ccivil_03/leis/l7689.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 1",
+      "t": "Art. 1º Fica instituída contribuição social sobre o lucro das pessoas jurídicas, destinada ao financiamento da seguridade social."
+    },
+    {
+      "s": "Lei 7.689/88",
+      "a": "Art. 2",
+      "t": "Art. 2º A base de cálculo da contribuição é o valor do resultado do exercício, antes da provisão para o imposto de renda."
     },
     {
       "s": "Lei 8.981/95",
@@ -150,18 +160,28 @@ window.IRPRO_DATA = {
     },
     {
       "s": "Lei 9.249/95",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Lei nº 9.249/1995 — IRPJ e CSLL — apuração, JCP, isenção de lucros/dividendos.\nTexto oficial: https://www.planalto.gov.br/ccivil_03/leis/l9249.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 3",
+      "t": "Art. 3º A alíquota do imposto de renda das pessoas jurídicas é de quinze por cento.\n§ 1º A parcela do lucro real, presumido ou arbitrado, que exceder o valor resultante da multiplicação de R$ 20.000,00 (vinte mil reais) pelo número de meses do respectivo período de apuração, sujeita-se à incidência de adicional de imposto de renda à alíquota de dez por cento.\n§ 2º O disposto no parágrafo anterior aplica-se, inclusive, nos casos de incorporação, fusão ou cisão e de extinção da pessoa jurídica pelo encerramento da liquidação.\n§ 3º O disposto neste artigo aplica-se, igualmente, à pessoa jurídica que explore atividade rural de que trata a Lei nº 8.023, de 12 de abril de 1990.\n§ 4º O valor do adicional será recolhido integralmente, não sendo permitidas quaisquer deduções."
+    },
+    {
+      "s": "Lei 9.249/95",
+      "a": "Art. 9",
+      "t": "Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados à variação, pro rata dia, da Taxa de Juros de Longo Prazo - TJLP.\n§ 1º O efetivo pagamento ou crédito dos juros fica condicionado à existência de lucros, computados antes da dedução dos juros, ou de lucros acumulados e reservas de lucros, em montante igual ou superior ao valor de duas vezes os juros a serem pagos ou creditados."
+    },
+    {
+      "s": "Lei 9.249/95",
+      "a": "Art. 10",
+      "t": "Art. 10. Os lucros ou dividendos calculados com base nos resultados apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, não ficarão sujeitos à incidência do imposto de renda na fonte, nem integrarão a base de cálculo do imposto de renda do beneficiário, pessoa física ou jurídica, domiciliado no País ou no exterior."
     },
     {
       "s": "Lei 9.316/96",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Lei nº 9.316/1996 — Veda a dedução da CSLL na apuração do lucro real.\nTexto oficial: https://www.planalto.gov.br/ccivil_03/leis/l9316.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 1",
+      "t": "Art. 1º O valor da contribuição social sobre o lucro líquido não poderá ser deduzido para efeito de determinação do lucro real, nem de sua própria base de cálculo.\nParágrafo único. Os valores da contribuição social a que se refere este artigo, registrados como custo ou despesa, deverão ser adicionados ao lucro líquido do respectivo período de apuração para efeito de determinação do lucro real e de sua própria base de cálculo."
     },
     {
       "s": "Lei 9.430/96",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Lei nº 9.430/1996 (compilada) — Legislação tributária federal — IRPJ/CSLL, preços de transferência.\nTexto oficial: https://www.planalto.gov.br/ccivil_03/leis/l9430compilada.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 1",
+      "t": "Art. 1º A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base no lucro real, presumido, ou arbitrado, por períodos de apuração trimestrais, encerrados nos dias 31 de março, 30 de junho, 30 de setembro e 31 de dezembro de cada ano-calendário, observada a legislação vigente, com as alterações desta Lei."
     },
     {
       "s": "Lei 12.973/14",
@@ -194,11 +214,19 @@ window.IRPRO_DATA = {
       "source": "CF/88",
       "articles": [
         {
-          "art": "(a preencher)",
-          "livro": "",
-          "titulo": "Constituição Federal de 1988",
-          "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "art": "Art. 145",
+          "livro": "TÍTULO VI — Da Tributação e do Orçamento",
+          "titulo": "CAPÍTULO I — Do Sistema Tributário Nacional",
+          "capitulo": "SEÇÃO I — Dos Princípios Gerais",
+          "preview": "Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:\nI -",
+          "s": "CF/88"
+        },
+        {
+          "art": "Art. 153",
+          "livro": "TÍTULO VI — Da Tributação e do Orçamento",
+          "titulo": "CAPÍTULO I — Do Sistema Tributário Nacional",
+          "capitulo": "SEÇÃO III — Dos Impostos da União",
+          "preview": "Art. 153. Compete à União instituir impostos sobre:\nI - importação de produtos estrangeiros;\nII - exportação, ",
           "s": "CF/88"
         }
       ]
@@ -236,11 +264,11 @@ window.IRPRO_DATA = {
       "source": "DL 1.598/77",
       "articles": [
         {
-          "art": "(a preencher)",
+          "art": "Art. 6",
           "livro": "",
-          "titulo": "Decreto-Lei nº 1.598/1977",
-          "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "titulo": "TÍTULO I — Imposto sobre o Lucro das Pessoas Jurídicas",
+          "capitulo": "Lucro Real",
+          "preview": "Art. 6º - Lucro real é o lucro líquido do exercício ajustado pelas adições, exclusões ou compensações prescrit",
           "s": "DL 1.598/77"
         }
       ]
@@ -249,11 +277,19 @@ window.IRPRO_DATA = {
       "source": "Lei 7.689/88",
       "articles": [
         {
-          "art": "(a preencher)",
+          "art": "Art. 1",
           "livro": "",
-          "titulo": "Lei nº 7.689/1988",
+          "titulo": "Contribuição Social sobre o Lucro",
           "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "preview": "Art. 1º Fica instituída contribuição social sobre o lucro das pessoas jurídicas, destinada ao financiamento da",
+          "s": "Lei 7.689/88"
+        },
+        {
+          "art": "Art. 2",
+          "livro": "",
+          "titulo": "Contribuição Social sobre o Lucro",
+          "capitulo": "",
+          "preview": "Art. 2º A base de cálculo da contribuição é o valor do resultado do exercício, antes da provisão para o impost",
           "s": "Lei 7.689/88"
         }
       ]
@@ -275,11 +311,27 @@ window.IRPRO_DATA = {
       "source": "Lei 9.249/95",
       "articles": [
         {
-          "art": "(a preencher)",
+          "art": "Art. 3",
           "livro": "",
-          "titulo": "Lei nº 9.249/1995",
+          "titulo": "IRPJ — Disposições Gerais",
           "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "preview": "Art. 3º A alíquota do imposto de renda das pessoas jurídicas é de quinze por cento.\n§ 1º A parcela do lucro re",
+          "s": "Lei 9.249/95"
+        },
+        {
+          "art": "Art. 9",
+          "livro": "",
+          "titulo": "Juros sobre o Capital Próprio",
+          "capitulo": "",
+          "preview": "Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados",
+          "s": "Lei 9.249/95"
+        },
+        {
+          "art": "Art. 10",
+          "livro": "",
+          "titulo": "Lucros e Dividendos",
+          "capitulo": "",
+          "preview": "Art. 10. Os lucros ou dividendos calculados com base nos resultados apurados a partir do mês de janeiro de 199",
           "s": "Lei 9.249/95"
         }
       ]
@@ -288,11 +340,11 @@ window.IRPRO_DATA = {
       "source": "Lei 9.316/96",
       "articles": [
         {
-          "art": "(a preencher)",
+          "art": "Art. 1",
           "livro": "",
-          "titulo": "Lei nº 9.316/1996",
+          "titulo": "CSLL — não dedutibilidade",
           "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "preview": "Art. 1º O valor da contribuição social sobre o lucro líquido não poderá ser deduzido para efeito de determinaç",
           "s": "Lei 9.316/96"
         }
       ]
@@ -301,11 +353,11 @@ window.IRPRO_DATA = {
       "source": "Lei 9.430/96",
       "articles": [
         {
-          "art": "(a preencher)",
+          "art": "Art. 1",
           "livro": "",
-          "titulo": "Lei nº 9.430/1996 (compilada)",
+          "titulo": "Apuração do IRPJ e da CSLL",
           "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "preview": "Art. 1º A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base",
           "s": "Lei 9.430/96"
         }
       ]

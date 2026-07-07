@@ -55,12 +55,22 @@ basta editar o catálogo e regerar o `data.js`.
 
 ## Populando as legislações
 
-O `data.js` versionado já traz:
+O `data.js` versionado já traz **texto real, conferido à mão**, dos dispositivos
+fundamentais do arcabouço de IR/CSLL:
 
-- **CTN — arts. 43 a 45** (fato gerador, base de cálculo e contribuinte do IR):
-  texto **verificado manualmente**.
-- Todas as demais normas com um **placeholder** e o link oficial, aguardando
-  importação.
+| Fonte | Artigos com texto verificado |
+|-------|------------------------------|
+| **CF/88** | art. 145 (§1º) · art. 153 (III e §2º) |
+| **CTN** | arts. 43 a 45 (fato gerador, base de cálculo, contribuinte) |
+| **DL 1.598/77** | art. 6º (lucro real; adições e exclusões) |
+| **Lei 7.689/88** | arts. 1º e 2º (instituição e base de cálculo da CSLL) |
+| **Lei 9.249/95** | art. 3º (alíquota + adicional) · art. 9º (JCP) · art. 10 (isenção de lucros/dividendos) |
+| **Lei 9.316/96** | art. 1º (CSLL não dedutível) |
+| **Lei 9.430/96** | art. 1º (apuração trimestral) |
+
+As demais normas (Lei 8.981/95, Lei 12.973/14, Lei 15.079/24, LC 224,
+IN RFB 1.700/17 e a norma LegisWeb) trazem um **placeholder** com o link oficial,
+aguardando importação do texto integral.
 
 Para importar o texto real, rode num ambiente **com acesso à internet**:
 
