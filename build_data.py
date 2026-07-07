@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-build_data.py — gera o arquivo `data.js` consumido pelo IR Pro.
+build_data.py — gera o arquivo `data.js` consumido pelo IRCSPro.
 
-O IR Pro é um app estático (HTML + data.js). Este script monta o `data.js`
+O IRCSPro é um app estático (HTML + data.js). Este script monta o `data.js`
 a partir do catálogo de fontes abaixo, quebrando o texto de cada norma em
 artigos no formato que o app espera:
 
@@ -309,7 +309,7 @@ def main():
         structure.append({"source": key, "articles": a})
 
     data = {
-        "meta": {"date": time.strftime("%Y-%m-%d"), "app": "IR Pro",
+        "meta": {"date": time.strftime("%Y-%m-%d"), "app": "IRCSPro",
                  "note": "Base de estudo das legislações de IR/CSLL. Confira sempre "
                          "o texto oficial vigente no Planalto/Receita Federal."},
         "sources": [{"key": k, "short": sh, "name": n, "sub": s, "icon": ic, "url": u}
@@ -318,7 +318,7 @@ def main():
         "structure": structure,
     }
     body = json.dumps(data, ensure_ascii=False, indent=2)
-    out = ("// IR Pro — base de dados das legislações de IR/CSLL.\n"
+    out = ("// IRCSPro — base de dados das legislações de IR/CSLL.\n"
            "// Gerado por build_data.py. Formato documentado no topo de build_data.py.\n"
            "window.IRPRO_DATA = " + body + ";\n")
     with io.open(args.out, "w", encoding="utf-8") as f:

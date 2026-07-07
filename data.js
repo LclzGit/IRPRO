@@ -1,9 +1,9 @@
-// IR Pro — base de dados das legislações de IR/CSLL.
+// IRCSPro — base de dados das legislações de IR/CSLL.
 // Gerado por build_data.py. Formato documentado no topo de build_data.py.
 window.IRPRO_DATA = {
   "meta": {
     "date": "2026-07-07",
-    "app": "IR Pro",
+    "app": "IRCSPro",
     "note": "Base de estudo das legislações de IR/CSLL. Confira sempre o texto oficial vigente no Planalto/Receita Federal."
   },
   "sources": [

@@ -1,4 +1,4 @@
-# IR Pro
+# IRCSPro
 
 Plataforma de estudos da legislação do **Imposto de Renda** (IRPF / IRPJ / IRRF)
 e da **Contribuição Social sobre o Lucro Líquido (CSLL)**.
@@ -30,7 +30,7 @@ data.js         Base de dados das legislações (window.IRPRO_DATA)
 build_data.py   Gera o data.js baixando o texto oficial das normas
 ```
 
-> As anotações ficam no `localStorage` do domínio. Como IR Pro e ReformaPro
+> As anotações ficam no `localStorage` do domínio. Como IRCSPro e ReformaPro
 > compartilhariam o mesmo domínio (`lclzgit.github.io`), as chaves aqui usam o
 > prefixo `irp_` (o ReformaPro usa `rp_`), então as anotações **não colidem**.
 

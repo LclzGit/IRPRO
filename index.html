@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IR Pro — Legislação do Imposto de Renda e CSLL</title>
+<title>IRCSPro — Legislação do Imposto de Renda e CSLL</title>
 <style>
 @font-face {
   font-family: 'GlobotipoCorporativa';
@@ -466,7 +466,7 @@ body.dark .mob-nav-btn{background:var(--wh);border-color:var(--bo)}
 <!-- TOPBAR -->
 <div class="topbar">
   <div class="topbar-inner">
-    <div class="logo" onclick="go('menu')">IR<span>Pro</span></div>
+    <div class="logo" onclick="go('menu')">IRCS<span>Pro</span></div>
     <div class="nav-tabs">
       <button class="nt on" onclick="go('menu')">🏠 Menu</button>
       <button class="nt" onclick="go('busca')">🔍 Busca</button>
@@ -489,7 +489,7 @@ body.dark .mob-nav-btn{background:var(--wh);border-color:var(--bo)}
 <!-- ══ MENU ══ -->
 <div class="page on" id="pg-menu">
   <div class="menu-hero">
-    <h1>IR<span>Pro</span></h1>
+    <h1>IRCS<span>Pro</span></h1>
     <p>Sua plataforma de estudos da legislação do Imposto de Renda (IRPF/IRPJ/IRRF) e da Contribuição Social sobre o Lucro Líquido (CSLL). Busca inteligente, mapa de artigos e leitor de legislação com anotações.</p>
     <div class="mpills" id="menuPills"></div>
   </div>
@@ -521,7 +521,7 @@ body.dark .mob-nav-btn{background:var(--wh);border-color:var(--bo)}
   </div>
   <div class="menu-stats" id="menuStats"></div>
   <div style="text-align:center;padding:4px 28px 18px">
-    <a href="index.html" download="IRPro.html" class="btn bo_ bsm" style="text-decoration:none;font-size:.68rem">⬇️ Baixar app atualizado</a>
+    <a href="index.html" download="IRCSPro.html" class="btn bo_ bsm" style="text-decoration:none;font-size:.68rem">⬇️ Baixar app atualizado</a>
   </div>
 </div>
 <div class="page" id="pg-busca">
@@ -1304,7 +1304,7 @@ function rdImport(input){
       // Refresh current article if open
       if(rdIdx!==null)rdOpenFromPool(rdIdx);
       rdToast(`✓ ${count} anotaç${count===1?'ão':'ões'} importada${count===1?'':'s'}!`,'ok');
-    }catch(err){rdToast('Erro ao ler o arquivo. Verifique se é um JSON válido do IR Pro.','err')}
+    }catch(err){rdToast('Erro ao ler o arquivo. Verifique se é um JSON válido do IRCSPro.','err')}
     input.value='';
   };
   reader.readAsText(file);
