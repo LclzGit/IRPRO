@@ -5,9 +5,10 @@ import re, json, io, sys
 
 HEADING_RE = re.compile(r'^(LIVRO|T[ÍI]TULO|CAP[ÍI]TULO|SUBSE[ÇC][ÃA]O|SE[ÇC][ÃA]O)\b'
                         r'\s*([IVXLCDM0-9]+[ºªA-Z\-]*)?\s*$', re.IGNORECASE)
-# número, ordinal opcional (º/ª/o/a) colado, e sufixo "-A" só quando o hífen
-# está imediatamente colado (evita confundir "Art 1º - O imposto" com sufixo).
-ART_RE = re.compile(r'^Art\.?\s*(\d+)(?:[ºªoa])?(?:-([A-Z]))?(?=[\s\.\-º]|$)', re.IGNORECASE)
+# Início de artigo: exige "Art" com A MAIÚSCULO (as referências cruzadas usam
+# "art." minúsculo, então ficam de fora), tolera a vírgula do OCR ("Art, 11"),
+# ordinal opcional, e sufixo "-A" só com hífen colado (evita "Art 1º - O imposto").
+ART_RE = re.compile(r'^Art[\.,]?\s*(\d+)(?:[ºªoa°])?(?:-([A-Z]))?(?=[\s\.\,\-º]|$)')
 
 # Linhas de cabeçalho/rodapé do Planalto a ignorar
 SKIP = re.compile(
@@ -28,7 +29,12 @@ def clean_lines(txt):
 def is_heading(ln):
     return HEADING_RE.match(ln) is not None
 
-def parse(txt, default_ctx=("", "", "")):
+def parse(txt, default_ctx=("", "", ""), monotonic=True):
+    # monotonic=True: só inicia novo artigo se o número/sufixo for estritamente
+    #   maior (ótimo para leis normais; descarta artigos citados/repetidos).
+    # monotonic=False: aceita todo marcador "Art. N" em ordem do documento — use
+    #   para leis que REESCREVEM outras (ex.: Lei 12.973), onde os artigos
+    #   inseridos em outras leis aparecem intercalados e não devem ser descartados.
     lines = clean_lines(txt)
     livro, titulo, capitulo = default_ctx
     arts = []
@@ -69,7 +75,9 @@ def parse(txt, default_ctx=("", "", "")):
         if a is not None:
             num = int(a.group(1)); suf = (a.group(2) or "").upper()
             key = (num, suf)
-            if maxkey is None or (key > maxkey and num <= last_num + 30):
+            if not monotonic:
+                is_new = True
+            elif maxkey is None or (key > maxkey and num <= last_num + 30):
                 is_new = True
         if is_new:
             if cur:

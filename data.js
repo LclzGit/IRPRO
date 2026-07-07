@@ -66,8 +66,8 @@ window.IRPRO_DATA = {
     {
       "key": "Lei 9.430/96",
       "short": "Lei 9.430",
-      "name": "Lei nº 9.430/1996 (compilada)",
-      "sub": "Legislação tributária federal — IRPJ/CSLL, preços de transferência",
+      "name": "Lei nº 9.430/1996",
+      "sub": "IRPJ/CSLL, preços de transferência (texto por OCR — revisar)",
       "icon": "📜",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9430compilada.htm"
     },
@@ -75,7 +75,7 @@ window.IRPRO_DATA = {
       "key": "Lei 12.973/14",
       "short": "Lei 12.973",
       "name": "Lei nº 12.973/2014",
-      "sub": "Adequação da legislação tributária às normas contábeis (fim do RTT)",
+      "sub": "Adequação às normas contábeis / fim do RTT (texto por OCR — revisar)",
       "icon": "📜",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12973.htm"
     },
@@ -2404,12 +2404,1122 @@ window.IRPRO_DATA = {
     {
       "s": "Lei 9.430/96",
       "a": "Art. 1",
-      "t": "Art. 1º A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base no lucro real, presumido, ou arbitrado, por períodos de apuração trimestrais, encerrados nos dias 31 de março, 30 de junho, 30 de setembro e 31 de dezembro de cada ano-calendário, observada a legislação vigente, com as alterações desta Lei."
+      "t": "Art. 1º A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base no lucro real, presumido, ou arbitrado, por períodos de apuração trimestrais, encerrados nos dias 31 de março, 30 de junho, 30 de setembro e 31 de dezembro de cada ano-calendário, observada a legislação vigente, com as alterações desta Lei. 8 1º Nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo e do imposto de renda devido será efetuada na data do evento, observado o disposto no art. 21 da Lei nº 9.249, de 26 de dezembro de 1995. $ 2º Na extinção da pessoa jurídica, pela encerramento da liquidação, a apuração da base de cálculo e do imposto devido será efetuada na data desse evento. Pagamento por Estimativa"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 2",
+      "t": "Art. 2º. A pessoa jurídica sujeita a tributação com base no lucro real poderá optar pela pagamento do imposto, em cada mês, determinado sobre base de cálculo estimada, mediante a aplicação dos percentuais de que trata o art. 15 da Lei nº 9,249, de 26 de dezembro de 1995, sobre a receita bruta definida pela art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, auferida mensalmente, deduzida das devoluções, vendas canceladas e dos descontos incondicionais concedidos, observado o disposto nos 88 1º e 2º do art. 29 e nos arts. 30, 32, 34 e 35 da Lei no 8.981, de 20 de janeiro de 1995. (Redação dada pela Lei nº 12.973, de 2014) (Vigência) $ 1º O imposto a ser pago mensalmente na forma deste artigo será determinado mediante a aplicação, sobre a base de cálculo, da alíquota de quinze por cento. $2º A parcela da base de cálculo, apurada mensalmente, que exceder a R$ 20.000,00 (vinte mil reais) ficará sujeita à incidência de adicional de imposto de renda à alíquota de dez por cento. 8 3º A pessoa jurídica que optar pela pagamento do imposto na forma deste artigo deverá apurar o lucro real em 31 de dezembro de cada ano, exceto nas hipóteses de que tratam os 88 1º e 2º do artigo anterior. 8 4º Para efeito de determinação do saldo de imposto a pagar ou a ser compensado, a pessoa jurídica poderá deduzir do imposto devido o valor: | - dos incentivos fiscais de dedução do imposto, observados os limites e prazos fixados na legislação vigente, bem como o disposto no $. 4º do art, 3º da Lei nº 9.249, de 26 de dezembro de 1995; I1- dos incentivos fiscais de redução e isenção do imposto, calculados com base no lucro da exploração;\n11 - do imposto de renda pago ou retido na fonte, incidente sobre receitas computadas na determinação do lucro real;\nIV- do imposto de renda pago na forma deste artigo. Escolha da Forma de Pagamento"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 3",
+      "t": "Art. 3º A adoção da forma de pagamento do imposto prevista no art. 1º, pelas pessoas jurídicas sujeitas ao regime do lucro real, ou a opção pela forma do art. 2º será irretratável para todo o ano-calendário.\nParágrafo único. A opção pela forma estabelecida no art. 2º será manifestada com o pagamento do imposto correspondente ao mês de janeiro ou de início de atividade. Adicional do Imposto de Renda"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 4",
+      "t": "Art. 4º Os 88 1º e 2º do art, 3º da Lei nº 9,249, de 26 de dezembro de 1995, passam a vigorar com a seguinte redação: CARS ienes $ 1º A parcela do lucro real, presumido ou arbitrado, que exceder o valor resultante da multiplicação de R$ 20.000,00 (vinte mil reais) pela número de meses do respectivo período de apuração, sujeita-se à incidência de adicional de imposto de renda à alíquota de dez por cento. $ 2º O disposto no parágrafo anterior aplica-se, inclusive, nos casos de incorporação, fusão ou cisão e de extinção da pessoa jurídica pela encerramento da liquidação. Imposto Correspondente a Período Trimestral"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 5",
+      "t": "Art. 5º O imposto de renda devido, apurado na forma do art. 1º, será pago em quota única, até o último dia útil do mês subsegilente ao do encerramento do período de apuração. $ 1º À opção da pessoa jurídica, o imposto devido poderá ser pago em até três quotas mensais, iguais e sucessivas, vencíveis no último dia útil dos três meses subsequentes ao de encerramento do período de apuração a que corresponder. $ 2º Nenhuma quota poderá ter valor inferior a R$ 1.000,00 (mil reais) e o imposto de valor inferior a R$ 2.000,00 (dois mil reais) será pago em quota única, até o último dia útil do mês subsequente ao do encerramento do periodo de apuração. $ 3º As quotas do imposto serão acrescidas de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, para títulos federais, acumulada mensalmente, calculados a partir do primeiro dia do segundo mês subsequente ao do encerramento do período de apuração até o último dia do mês anterior ao do pagamento e de um por cento no mês do pagamento. $ 4º Nos casos de incorporação, fusão ou cisão e de extinção da pessoa jurídica pela encerramento da liquidação, o imposto devido deverá ser pago até o último dia útil do mês subsequente ao do evento, não se lhes aplicando a opção prevista no $ 1º. Pagamento por Estimativa"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 6",
+      "t": "Art. 6º O imposto devido, apurado na forma do art. 2º, deverá ser pago até o último dia útil do mês subsequente àquele a que se referir. 81º O saldo do imposto apurado em 31 de dezembro receberá o seguinte tratamento: (Redação dada pela Lei nº 12.844, de 2013)\n1- se positivo, será pago em quota única, até o último dia útil do mês de março do ano subsequente, observado o disposto no $ 2º; ou (Redação dada pela Lei nº 12.844, de 2013)\n11- se negativo, poderá ser objeto de restituição ou de compensação nos termos do art. 74. (Redação dada pela Lei nº 12,844, de 2013) $ zo saldo do imposto a pagar de que trata o inciso | do parágrafo anterior será acrescido de juros calculados à taxa a que se refere o $ 3º do art. 5º, a partir de 1º de fevereiro até o último dia do mês anterior ao do pagamento e de um por cento no mês do pagamento, 83º O prazo a que se refere o inciso | do $ 1º não se aplica ao imposto relativo ao mês de dezembro, que deverá ser pago até o último dia útil do mês de janeiro do ano subsequente. Disposições Transitórias"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 7",
+      "t": "Art. 7º Alternativamente ao disposto no art. 40 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995, a pessoa jurídica tributada com base no lucro real ou presumido poderá efetuar o pagamento do saldo do imposto devido, apurado em 31 de dezembro de 1996, em até quatro quotas mensais, iguais e sucessivas, devendo a primeira ser paga até o último dia útil do mês de março de 1997 e as demais no último dia útil dos meses subsequentes. 8 1º Nenhuma quota poderá ter valor inferior a R$ 1.000,00 (mil reais) e o imposto de valor inferior a R$ 2.000,00 (dois mil reais) será pago em quota única, até o último dia útil do mês de março de 1997. 82º As quotas do imposto serão acrescidas de juros calculados à taxa a que se refere o $ 3º do art. 5º, a partir de 1º de abril de 1997 até o último dia do mês anterior ao do pagamento e de um por cento no mês do pagamento. $ 3º Havendo saldo de imposto pago a maior, a pessoa jurídica poderá compensá-lo com o imposto devido, correspondente aos períodos de apuração subsequentes, facultado o pedido de restituição."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 8",
+      "t": "Art. 8º As pessoas jurídicas, mesmo as que não tenham optado pela forma de pagamento do art. 2º, deverão calcular e pagar o imposto de renda relativo aos meses de janeiro e fevereiro de 1997 de conformidade com o referido dispositivo. Parágraio único, Para as empresas submetidas às normas do art. 1º o imposto pago com base na receita bruta auferida nos meses de janeiro e fevereiro de 1997 será deduzido do que for devido em relação ao período de apuração encerrado no dia 31 de março de 1997. Dedução"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 9",
+      "t": "Art. 9º As perdas no recebimento de créditos decorrentes das atividades da pessoa jurídica poderão ser deduzidas como despesas, para determinação do lucro real, observado o disposto neste artigo. $ 1º Poderão ser registrados como perda os créditos:\n1 - em relação aos quais tenha havido a declaração de insolvência do devedor, em sentença emanada do Poder Judiciário;\n11- sem garantia, de valor:\na) até R$ 5.000,00 (cinco mil reais), por operação, vencidos há mais de seis meses, independentemente de iniciados os procedimentos judiciais para o seu recebimento;\nb) acima de R$ 5.000,00 (cinco mil reais) até R$ 30.000,00 (trinta mil reais), por operação, vencidos há mais de um ano, independentemente de iniciados os procedimentos judiciais para o seu recebimento, porém, mantida a cobrança administrativa;\no) superior a R$ 30.000,00 (trinta mil reais), vencidos há mais de um ano, desde que iniciados e mantidos os procedimentos judiciais para o seu recebimento; Ill - com garantia, vencidos há mais de dois anos, desde que iniciados e mantidos os procedimentos judiciais para o seu recebimento ou o arresto das garantias;\nIV - contra devedor declarado falido ou pessoa jurídica em concordata ou recuperação judicial, relativamente à parcela que exceder o valor que esta tenha se comprometido a pagar, observado o disposto no $ 5º. (Redação dada pela Lei nº 13.097, de 2015) 82º No caso de contrato de crédito em que o não pagamento de uma ou mais parcelas implique o vencimento automático de todas as demais parcelas vincendas, os limites a que se referem as alíneas a e b do inciso II do $ 1º e as alineas a e b do inciso Il do 8 7º serão considerados em relação ao total dos créditos, por operação, com o mesmo devedor. (Redação dada pela Lei nº 13.097, de 2015) 853º Para os fins desta Lei, considera-se crédito garantido o proveniente de vendas com reserva de domínio, de alienação fiduciária em garantia ou de operações com outras garantias reais. $4º No caso de crédito com pessoa jurídica em processo falimentar, em concordata ou em recuperação judicial, a dedução da perda será admitida a partir da data da decretação da falência ou do deferimento do processamento da concordata ou recuperação judicial, desde que a credora tenha adotado os procedimentos judiciais necessários para o recebimento do crédito. “(Redação dada pela Lei nº 13.097, de 2015) $5º A parcela do crédito cujo compromisso de pagar não houver sido honrado pela pessoa jurídica em concordata ou recuperação judicial poderá, também, ser deduzida como perda, observadas as condições previstas neste artigo. Redação dada pela Lei nº 13.097, de 2015) $ 6º Não será admitida a dedução de perda no recebimento de créditos com pessoa jurídica que seja controladora, controlada, coligada ou interligada, bem como com pessoa física que seja acionista controlador, sócio, titular ou administrador da pessoa jurídica credora, ou parente até o terceiro grau dessas pessoas físicas. 87º, Para os contratos inadimplidos a partir da data de publicação da Medida Provisória nº 656, de 7 de outubro de 2014, poderão ser registrados como perda os créditos: “(Incluído pela Lei nº 13.097, de 2015) |- em relação aos quais tenha havido a declaração de insolvência do devedor, em sentença emanada do Poder Judiciário; “(Incluído pela Lei nº 13.097, de 2015) Il - sem garantia, de valor. (Incluído pela Lei nº 13.097, de 2015)\na) até R$ 15.000,00 (quinze mil reais), por operação, vencidos há mais de seis meses, independentemente de iniciados os procedimentos judiciais para o seu recebimento;\nb) acima de R$ 15.000,00 (quinze mil reais) até R$ 100.000,00 (cem mil reais), por operação, vencidos há mais de um ano, independentemente de iniciados os procedimentos judiciais para o seu recebimento, mantida a cobrança administrativa; e “(Incluído pela Lei nº 13.097, de 2015)\nc) superior a R$ 100.000,00 (cem mil reais), vencidos há mais de um ano, desde que iniciados e mantidos os procedimentos judiciais para o seu recebimento; “(Incluído pela Lei nº 13,097, de 2015)\nIII - com garantia, vencidos há mais de dois anos, de valor: “Incluído pela Lei nº 13.097, de 2015)\na) até R$ 50.000,00 (cinquenta mil reais), independentemente de iniciados os procedimentos judiciais para o seu recebimento ou o arresto das garantias; e “(Incluído pela Lei nº 13.097, de 2015)\nb) superior a R$ 50.000,00 (cinquenta mil reais), desde que iniciados e mantidos os procedimentos judiciais para o seu recebimento ou o arresto das garantias; e “Incluído pela Lei nº 13.097, de 2015) Iv - contra devedor declarado falido ou pessoa jurídica em concordata ou recuperação judicial, relativamente à parcela que exceder o valor que esta tenha se comprometido a pagar, observado o disposto no $ 5º. “Incluído pela Lei nº 13.097, de 2015) Registro Contábil das Perdas"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 9-A",
+      "t": "Art. 9º-A. Na hipótese de inadimplência do débito, as exigências de judicialização de que tratam a alínea c do inciso Il e a alinea b do inciso III do $ 7º do art. 9º e o art. 11 desta Lei poderão ser substituídas pelo instrumento de que trata a Lei nº 9.492, de 10 de setembro de 1997, e os credores deverão arcar, nesse caso, com o pagamento antecipado de taxas, de emolumentos, de acréscimos legais e de demais despesas por ocasião da protocolização e dos demais atos. (Incluído pela Lei nº 14.043, de 2020)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 10",
+      "t": "Art. 10. Os registros contábeis das perdas admitidas nesta Lei serão efetuados a débito de conta de resultado e a crédito: |- da conta que registra o crédito de que trata a alínea a do inciso Il do $ 1º do art. 9º e a alínea a do inciso Il do 8 7º do art. 9º; (Redação dada pela Lei nº 13.097, de 2015) Il - de conta redutora do crédito, nas demais hipóteses. $ 1º Ocorrendo a desistência da cobrança pela via judicial, antes de decorridos cinco anos do vencimento do crédito, a perda eventualmente registrada deverá ser estornada ou adicionada ao lucro líquido, para determinação do lucro real correspondente ao período de apuração em que se der a desistência. $ 2º Na hipótese do parágrafo anterior, o imposto será considerado como postergado desde o período de apuração em que tenha sido reconhecida a perda. $ 3º Se a solução da cobrança se der em virtude de acordo homologado por sentença judicial, o valor da perda a ser estornado ou adicionado ao lucro líquido para determinação do lucro real será igual à soma da quantia recebida com o saldo a receber renegociado, não sendo aplicável o disposto no parágrafo anterior. 84º Os valores registrados na conta redutora do crédito referida no inciso Il do caput poderão ser baixados definitivamente em contrapartida à conta que registre o crédito, a partir do período de apuração em que se completar cinco anos do vencimento do crédito sem que o mesmo tenha sido liquidado pela devedor. Encargos Financeiros de Créditos Vencidos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 11",
+      "t": "Art, 11. Após dois meses do vencimento do crédito, sem que tenha havido o seu recebimento, a pessoa jurídica credora poderá excluir do lucro líquido, para determinação do lucro real, o valor dos encargos financeiros incidentes sobre o crédito, contabilizado como receita, auferido a partir do prazo definido neste artigo. $ 1º Ressalvadas as hipóteses das alíneas a e b do inciso II do $ 1º do art. 9º, das alíneas a e b do inciso II do $ 7º do art. 9º e da alinea a do inciso II do $ 7º do art. 9º, o disposto neste artigo somente se aplica quando a pessoa jurídica houver tomado as providências de caráter judicial necessárias ao recebimento do crédito. (Redação dada pela Lei nº 13.097, de 2015) 82º Os valores excluídos deverão ser adicionados no periodo de apuração em que, para os fins legais, se tornarem disponíveis para a pessoa jurídica credora ou em que reconhecida a respectiva perda. & 3º A partir da citação inicial para o pagamento do débito, a pessoa jurídica devedora deverá adicionar ao lucro líquido, para determinação do lucro real, os encargos incidentes sobre o débito vencido e não pago que tenham sido deduzidos como despesa ou custo, incorridos a partir daquela data. $ 4º Os valores adicionados a que se refere o parágrafo anterior poderão ser excluídos do lucro líquido, para determinação do lucro real, no período de apuração em que ocorra a quitação do débito por qualquer forma. Créditos Recuperados"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 12",
+      "t": "Art. 12. Deverá ser computado na determinação do lucro real o montante dos créditos deduzidos que tenham sido recuperados, em qualquer época ou a qualquer título, inclusive nos casos de novação da divida ou do arresto dos bens recebidos em garantia real, $1º Os bens recebidos a título de quitação do débito serão escriturados pela valor do crédito ou avaliados pela valor definido na decisão judicial que tenha determinado sua incorporação ao patrimônio do credor. (Incluído pela Lei nº 12.431, de 2011). 82º Nas operações de crédito realizadas por instituições financeiras autorizadas a funcionar pela Banco Central do Brasil, nos casos de renegociação de divida, o reconhecimento da receita para fins de incidência de imposto sobre a renda e da Contribuição Social sobre o Lucro Líquido ocorrerá no momento do efetivo recebimento do crédito. (Redação dada pela nº 12.715. de 2012) (Vigência) Disposição Transitória"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 13",
+      "t": "Art. 13, No balanço levantado para determinação do lucro real em 31 de dezembro de 1996, a pessoa jurídica poderá optar pela constituição de provisão para créditos de liquidação duvidosa na forma do art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 2 junhe 1995, ou pelas critérios de perdas a que se referem os arts. 9º a 12. Saldo de Provisões Existente em 31.12.96"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 14",
+      "t": "Art, 14. A partir do ano-calendário de 1997, ficam revogadas as normas previstas no art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065. de 20 de junho de 1995, bem como a autorização para a constituição de provisão nos termos dos artigos citados, contida no inciso | do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995. 8 1º A pessoa jurídica que, no balanço de 31 de dezembro de 1996, optar pelas critérios de dedução de perdas de que tratam os arts. 9º a 12 deverá, nesse mesmo balanço, reverter os saldos das provisões para créditos de liquidação duvidosa, constituídas na forma do art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995. $ 2º Para a pessoa jurídica que, no balanço de 31 de dezembro de 1996, optar pela constituição de provisão na forma do art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995, a reversão a que se refere o parágrafo anterior será efetuada no balanço correspondente ao primeiro período de apuração encerrado em 1997, se houver adotado o regime de apuração trimestral, ou no balanço de 31 de dezembro de 1997 ou da data da extinção, se houver optado pela pagamento mensal de que trata o art. 2º. $ 3º Nos casos de incorporação, fusão ou cisão, a reversão de que trata o parágrafo anterior será efetuada no balanço que servir de base à apuração do lucro real correspondente. Compensação de Imposto Pago"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 15",
+      "t": "Art. 15. A pessoa jurídica domiciliada no Brasil que auferir, de fonte no exterior, receita decorrente da prestação de serviços efetuada diretamente poderá compensar o imposto pago no país de domicílio da pessoa física ou jurídica contratante, observado o disposto no art. 26 da Lei nº 9,249, de 26 de dezembro de 1995. Lucros e Rendimentos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 16",
+      "t": "Art. 16. Sem prejuizo do disposto nos arts, 25, 26 e 27 da Lei nº 9.249, de 26 de dezembro de 1995, os lucros auferidos por filiais, sucursais, controladas e coligadas, no exterior, serão:\n1 - considerados de forma individualizada, por filial, sucursal, controlada ou coligada; Il- arbitrados, os lucros das filiais, sucursais e controladas, quando não for possível a determinação de seus resultados, com observância das mesmas normas aplicáveis às pessoas jurídicas domiciliadas no Brasil e computados na determinação do lucro real. $ 1º Os resultados decorrentes de aplicações financeiras de renda variável no exterior, em um mesmo país, poderão ser consolidados para efeito de cômputo do ganho, na determinação do lucro real. $ 2º Para efeito da compensação de imposto pago no exterior, a pessoa jurídica:\n1- com relação aos lucros, deverá apresentar as demonstrações financeiras correspondentes, exceto na hipótese do inciso II do caput deste artigo; Il - fica dispensada da obrigação a que se refere o $.2º do art. 26 da Lei nº 9.249, de 26 de dezembro de 1995, quando comprovar que a legislação do país de origem do lucro, rendimento ou ganho de capital prevé a incidência do imposto de renda que houver sido pago, por meio do documento de arrecadação apresentado. & 3º Na hipótese de arbitramento do lucro da pessoa jurídica domiciliada no Brasil, os lucros, rendimentos e ganhos de capital oriundos do exterior serão adicionados ao lucro arbitrado para determinação da base de cálculo do imposto. $ 4º Do imposto devido correspondente a lucros, rendimentos ou ganhos de capital oriundos do exterior não será admitida qualquer destinação ou dedução a título de incentivo fiscal. Operações de Cobertura em Bolsa do Exterior"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 17",
+      "t": "Art. 17. Serão computados na determinação do lucro real e na base de cálculo da Contribuição Social sobre o Lucro Liquido (CSLL) os resultados líquidos, positivos ou negativos, obtidos em operações de cobertura de riscos (hedge) por meio de contratos derivativos com contrapartes no exterior. (Redação dada pela Lei nº 15.265, de 2025) $ 1º Os resultados negativos somente poderão ser computados caso as operações de que trata o caput sejam: — (Incluído pela Lei nº 15.265, de 2025) | realizadas a preços de mercado; e (Incluído pela Lei nº 15.265. de 2025) 1! registradas em mercados de bolsa ou de balcão, organizado ou não, no País ou no exterior. (Incluído pela Lei nº 15.265. de 2025) $ 2º Para fins do registro de que trata o 8 1º, as instituições registradoras, no País ou no exterior, deverão dispor de sistemas que permitam aferir se os preços na abertura e no encerramento são consistentes com os praticados no mercado. — (Incluído pela Lei nº 15.265, de 2025) 5 3º Somente será admitido o cômputo de resultados negativos na determinação do lucro real e da base de cálculo da CSLL nos casos em que o preço for formado em mercado respaldado por quantidade suficiente de operações entre terceiros realizadas com o respectivo ativo, nos termos de regulamentação editada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda. (Incluído pela Lei nº 15.265, de 2025) $ 4º O cumprimento do disposto nos 88 1º a 3º não dispensa a observância às regras de preços de transferência de que trata a Lei nº 14.596, de 14 de junho de 2023. — (Incluído pela Lei nº 15.265, de 2025) Bens, Serviços e Direitos Adquiridos no Exterior"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 18",
+      "t": "Art, 18. (Revogado pela Lei nº 14,596, de 2023) Vigência"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 18-A",
+      "t": "Art. 18-A. (Revogado pela Lei nº 14.596, de 2023) Vigência Receitas Oriundas de Exportações para o Exterior"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 19",
+      "t": "Art. 19. (Revogado pela Lei nº 14.596, de 2023) Vigência"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 19-A",
+      "t": "Art. 19-A. (Revogado pela Lei nº 14.596, de 2023) Vigência"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 20",
+      "t": "Art. 20. (Revogado pela Lei nº 14.596, de 2023). Vigência"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 20-A",
+      "t": "Art. 20-A. (Revogado pela Lei nº 14.596, de 2023). Vigência"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 20-B",
+      "t": "Art. 20-B. (Revogado pela Lei nº 14.596, de 2023) Vigência Apuração dos Preços Médios"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 21",
+      "t": "Art. 21. (Revogado pela Lei nº 14.596, de 2023) Vigência Juros"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 22",
+      "t": "Art. 22. (Revogado pela Lei nº 14.596, de 2023). Vigência Pessoa Vinculada - Conceito"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 23",
+      "t": "Art. 23. (Revogado pela Lei nº 14.596, de 2023). Vigência Países com Tributação Favorecida"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 24",
+      "t": "Art. 24. As disposições previstas nos arts. 1º a 37 da lei decorrente da conversão da Medida Provisória nº 1.152, de 28 de dezembro de 2022, aplicam-se também às transações efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil com qualquer entidade, ainda que parte não relacionada, residente ou domiciliada em país que não tribute a renda ou que a tribute a alíquota máxima inferior a 17% (dezessete por cento). (Redação dada pela Lei nº 14.596, de 2023) Vigência 8 1º Para efeito do disposto na parte final deste artigo, será considerada a legislação tributária do referido país, aplicável às pessoas físicas ou às pessoas jurídicas, conforme a natureza do ente com o qual houver sido praticada a operação. 5 2º (Revogado). (Redação dada pela Lei nº 14.596, de 2023). Vigência |-o valor apurado segundo os métodos de que trata o art. 18 será considerado como custo de aquisição para efeito de apuração de ganho de capital na alienação do bem ou direito; Il- 0 preço relativo ao bem ou direito alienado, para efeito de apuração de ganho de capital, será o apurado de conformidade com o disposto no art. 19;\nII - será considerado como rendimento tributável o preço dos serviços prestados apurado de conformidade com o disposto no art. 19;\nIV - serão considerados como rendimento tributável os juros determinados de conformidade com o art, 22. g 3º Para os fins do disposto neste artigo, considerar-se-á separadamente a tributação do trabalho e do capital, bem como as dependências do país de residência ou domicílio. Incluído pela Lei nº 10.451, de 2002) $4º Considera-se também país ou dependência com tributação favorecida aquele cuja legislação não permita o acesso a informações relativas à composição societária de pessoas jurídicas, à sua titularidade ou à identificação do beneficiário efetivo de rendimentos atribuídos a não residentes. (Incluído pela Lei nº 11,727, de 2008)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 24-A",
+      "t": "Art. 24-A, As disposições previstas nos arts. 1º a 37 da lei decorrente da conversão da Medida Provisória nº 1.152, de 28 de dezembro de 2022, aplicam-se também às transações efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil com qualquer entidade residente ou domiciliada no exterior que seja beneficiária de regime fiscal privilegiado, inclusive na hipótese de parte não relacionada. (Redação dada pela Lei nº 14.596, de 2023). Vigência\nParágrafo único, Para fins do disposto neste artigo, considera-se regime fiscal privilegiado aquele que apresentar, no mínimo, uma das seguintes caracteristicas: (Redação dada pela Lei nº 14.596, de 2023) Vigência\n1 - não tribute a renda ou que o faça a alíquota máxima inferior a 17% (dezessete por cento); (Redação dada pela Lei nº 14.596, de 2023) Vigência 1! - conceda vantagem de natureza fiscal a pessoa física ou jurídica não residente: (Incluído pela Lei nº 11.727, de 2008)\na) sem exigência de realização de atividade econômica substantiva no país ou dependência; (Incluído pela Lei nº 11.727, de 2008)\nb) condicionada ao não exercício de atividade econômica substantiva no país ou dependência; (Incluído pela Lei nº 11.727, de 2008) 1 — não tribute os rendimentos auferidos fora de seu território ou o faça a alíquota máxima inferior a 17% (dezessete por cento); (Redação dada pela Lei nº 14.596, de 2023) Vigência IV = não permita o acesso a informações relativas à composição societária, titularidade de bens ou direitos ou às operações econômicas realizadas. (Incluído pela Lei nº 11.727, de 2008)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 24-B",
+      "t": "Art. 24-B. O Poder Executivo poderá reduzir ou restabelecer os percentuais de que tratam o caput do art. 24 e os incisos | e III do parágrafo único do art. 24-A, ambos desta Lei. (Incluído pela Lei nº 11.727, de 2008)\nParágrafo único. O uso da faculdade prevista no caput deste artigo poderá também ser aplicado, de forma excepcional e restrita, a países que componham blocos econômicos dos quais o País participe. (Incluído pela Lei nº 11.727, de 2008)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 24-C",
+      "t": "Art. 24-C. A qualificação de país ou dependência com tributação favorecida ou de regime fiscal privilegiado prevista, respectivamente, nos arts. 24 e 24-A desta Lei, que decorra exclusivamente da não tributação da renda à aliquota máxima de 17% (dezessete por cento), poderá ser afastada excepcionalmente para países que fomentem de forma relevante o desenvolvimento nacional por meio de investimentos significativos no Brasil. (Incluído pela Lei nº 15.079, de 2024) Produção de efeitos\nParágrafo único. O Poder Executivo federal disciplinará o disposto no caput deste artigo, inclusive os investimentos que poderão ser considerados, seus patamares, critérios e periodicidade. — (Incluído pela Lei nº 15.079, de 2024) Produção de efeitos Determinação"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 25",
+      "t": "Art. 25. O lucro presumido será o montante determinado pela soma das seguintes parcelas: 1-0 valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta definida pela art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, auferida no período de apuração de que trata o art. 1º, deduzida das devoluções e vendas canceladas e dos descontos incondicionais concedidos; (Redação dada pela Lei nº 12.973, de 2014) (Vigência) Il - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pela inciso |, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIlLdo caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período. (Redação dada pela Lei nº 12.973, de 2014) (Vigência) $1º, O ganho de capital nas alienações de investimentos, imobilizados e intangíveis corresponderá à diferença positiva entre o valor da alienação e o respectivo valor contábil. (Incluído pela Lei nº 12.973, de 2014) (Vigência) 82º Para fins do disposto no $ 1º, poderão ser considerados no valor contábil, e na proporção deste, os respectivos valores decorrentes dos efeitos do ajuste a valor presente de que trata o inciso II do caput do art, 184 da Lei nº 6,404, de 15 de dezembro de a976. (Incluído pela Lei nº 12.973, de 2014) (Vigência) $3º Os ganhos decorrentes de avaliação de ativo ou passivo com base no valor justo não integrarão a base de cálculo do imposto, no momento em que forem apurados. incluído pela Lei nº 12.973. de 2014) (Vigência) 84º Para fins do disposto no inciso Il do caput, os ganhos e perdas decorrentes de avaliação do ativo com base em valor justo não serão considerados como parte integrante do valor contábil. (Incluído pela Lei nº 12.973, de 2014) (Vigência) 85º O disposto no 8 4º não se aplica aos ganhos que tenham sido anteriormente computados na base de cálculo do imposto. (Incluído pela Lei nº 12.973, de 2014) (Vigência) Opção"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 26",
+      "t": "Art. 26. A opção pela tributação com base no lucro presumido será aplicada em relação a todo o período de atividade da empresa em cada ano-calendário. $1º A opção de que trata este artigo será manifestada com o pagamento da primeira ou única quota do imposto devido correspondente ao primeiro período de apuração de cada ano-calendário. $ 2º A pessoa jurídica que houver iniciado atividade a partir do segundo trimestre manifestará a opção de que trata este artigo com o pagamento da primeira ou única quota do imposto devido relativa ao período de apuração do início de atividade. $ 3º A pessoa jurídica que houver pago o imposto com base no lucro presumido e que, em relação ao mesmo ano-calendário, alterar a opção, passando a ser tributada com base no lucro real, ficará sujeita ao pagamento de multa e juros moratórios sobre a diferença de imposto paga a menor. 8 4º A mudança de opção a que se refere o parágrafo anterior somente será admitida quando formalizada até a entrega da correspondente declaração de rendimentos e antes de iniciado procedimento de ofício relativo a qualquer dos períodos de apuração do respectivo ano-calendário. Determinação"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 27",
+      "t": "Art, 27. O lucro arbitrado será o montante determinado pela soma das seguintes parcelas:\n1- o valor resultante da aplicação dos percentuais de que trata o art, 16 da Lei nº 9,249, de 26 de dezembro de 1995, sobre a receita bruta definida pela art. 12 do Decreto-Lei nº 1,598, de 26 de dezembro de 1977, auferida no período de apuração de que trata o art. 1º, deduzida das devoluções e vendas canceladas e dos descontos incondicionais concedidos; e (Redação dada pela Lei nº 12.973, de 2014) (Vigência) Il - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pela inciso | do caput, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIIL do caput do art. 183 da Lei nº 6,404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período. (Redação dada pela Lei nº 12,973, de 2014) (Vigência) & 1º Na apuração do lucro arbitrado, quando não conhecida a receita bruta, os coeficientes de que tratam os incisos IL IILe IV do art. 51 da Lei nº 8.981, de 20 de ianeiro de 1995, deverão ser multiplicados pela número de meses do período de apuração. 8 2º Na hipótese de utilização das alternativas de cálculo previstas nos incisos V a Vill do art. 51 da Lei nº 8.981, de 20 de janeiro de 1995, o lucro arbitrado será o valor resultante da soma dos valores apurados para cada mês do período de apuração. $3º O ganho de capital nas alienações de investimentos, imobilizados e intangíveis corresponderá à diferença positiva entre o valor da alienação e o respectivo valor contábil. (Incluído pela Lei nº 12.973. de 2014) (Vigência) 84º, Para fins do disposto no $ 3º, poderão ser considerados no valor contábil, e na proporção deste, os respectivos valores decorrentes dos efeitos do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 4976. (Incluído pela Lei nº 12.973, de 2014) (Vigência) 85º. Os ganhos decorrentes de avaliação de ativo ou passivo com base no valor justo não integrarão a base de cálculo do imposto, no momento em que forem apurados. (Incluído pela Lei nº 12.973, de 2014) (Vigência) 86º Para fins do disposto no inciso II do caput, os ganhos e perdas decorrentes de avaliação do ativo com base em valor justo não serão considerados como parte integrante do valor contábil. (Incluído pela Lei nº 12.973, de 2014) (Vigência) 87º, O disposto no 8 6º não se aplica aos ganhos que tenham sido anteriormente computados na base de cálculo do imposto. (Incluído pela Lei nº 12.973, de 2014) (Vigência) o Capítulo Il , CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO Seção | Apuração da Base de Cálculo e Pagamento Normas Aplicáveis mad 28. Aplicam-se à apuração da base de cálculo e ao pagamento da contribuição social sobre o lucro líquido as normas da legislação vigente e as correspondentes aos aris. 1º a 3º, 5º. a 14, 17 a 24-B, 26,556 71. (Redação dada pela Lei nº 12.715, de Empresas sem Escrituração Contábil"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 29",
+      "t": "Art. 29. A base de cálculo da contribuição social sobre o lucro líquido, devida pelas pessoas jurídicas tributadas com base no lucro presumido ou arbitrado e pelas demais empresas dispensadas de escrituração contábil, corresponderá à soma dos valores\n1 - de que trata o art, 20 da Lei nº 9,249, de 26 de dezembro de 1995; Il - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pela inciso | do caput, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período. (Redação dada pela Lei nº 12.973, de 2014) (Vigência) Pagamento Mensal Estimado"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 30",
+      "t": "Art. 30. A pessoa jurídica que houver optado pela pagamento do imposto de renda na forma do art. 2º fica, também, sujeita ao pagamento mensal da contribuição social sobre o lucro líquido, determinada mediante a aplicação da alíquota a que estiver sujeita sobre a base de cálculo apurada na forma dos incisos | e Il do artigo anterior. Contribuinte Substituto"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 31",
+      "t": "Art. 31. O art. 35 da Lei nº 4,502, de 30 de novembro de 1964, passa a vigorar com a seguinte redação: DN\n11 - como contribuinte substituto:\nc) o industrial ou equiparado, mediante requerimento, nas operações anteriores, concomitantes ou posteriores às saídas que promover, nas hipóteses e condições estabelecidas pela Secretaria da Receita Federal. $ 1º Nos casos das alíneas a e b do inciso Il deste artigo, o pagamento do imposto não exclui a responsabilidade por infração do contribuinte originário quando este for identificado, e será considerado como efetuado fora do prazo, para todos os efeitos legais. $ 2º Para implementar o disposto na alinea c do inciso Il, a Secretaria da Receita Federal poderá instituir regime especial de suspensão do imposto.\" Seção | Suspensão da Imunidade e da Isenção"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 32",
+      "t": "Art. 32, A suspensão da imunidade tributária, em virtude de falta de observância de requisitos legais, deve ser procedida de conformidade com o disposto neste artigo. $ 1º Constatado que entidade beneficiária de imunidade de tributos federais de que trata a alinea c do inciso VI do art. 150 da Constituição Federal não está observando requisito ou condição previsto nos arts. 9º, 8 1º, e 14, da Lei nº 5.172, de 25 de outubro de\n1966 - Código Tributário Nacional, a fiscalização tributária expedirá notificação fiscal, na qual relatará os fatos que determinam a suspensão do benefício, indicando inclusive a data da ocorrência da infração. $ 2º A entidade poderá, no prazo de trinta dias da ciência da notificação, apresentar as alegações e provas que entender necessárias. $ 3º O Delegado ou Inspetor da Receita Federal decidirá sobre a procedência das alegações, expedindo o ato declaratório suspensivo do benefício, no caso de improcedência, dando, de sua decisão, ciência à entidade. 8 4º Será igualmente expedido o ato suspensivo se decorrido o prazo previsto no $ 2º sem qualquer manifestação da parte interessada. 8 5º A suspensão da imunidade terá como termo inicial a data da prática da infração. & 6º Efetivada a suspensão da imunidade: | - a entidade interessada poderá, no prazo de trinta dias da ciência, apresentar impugnação ao ato declaratório, a qual será objeto de decisão pela Delegacia da Receita Federal de Julgamento competente; la fiscalização de tributos federais lavrará auto de infração, se for o caso. 8 7º A impugnação relativa à suspensão da imunidade obedecerá às demais normas reguladoras do processo administrativo fiscal. $ 8º A impugnação e o recurso apresentados pela entidade não terão efeito suspensivo em relação ao ato declaratório contestado. 8 9º Caso seja lavrado auto de infração, as impugnações contra o ato declaratório e contra a exigência de crédito tributário serão reunidas em um único processo, para serem decididas simultaneamente. 8 10. Os procedimentos estabelecidos neste artigo aplicam-se, também, às hipóteses de suspensão de isenções condicionadas, quando a entidade beneficiária estiver descumprindo as condições ou requisitos impostos pela legislação de regência. sn. (Revogado pela Lei nº 13.165, de 20150) $12. A entidade interessada disporá de todos os meios legais para impugnar os fatos que determinam a suspensão do benefício. (Incluído pela Lei nº 11.941, de 2009)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 33",
+      "t": "Art. 33, A Secretaria da Receita Federal pode determinar regime especial para cumprimento de obrigações, pela sujeito passivo, nas seguintes hipóteses:\n1 - embaraço à fiscalização, caracterizado pela negativa não justificada de exibição de livros e documentos em que se assente a escrituração das atividades do sujeito passivo, bem como pela não fornecimento de informações sobre bens, movimentação financeira, negócio ou atividade, próprios ou de terceiros, quando intimado, e demais hipóteses que autorizam a requisição do auxílio da força pública, nos termos do art. 200 da Lei nº 5.172, de 25 de outubro de 1966; Il resistência à fiscalização, caracterizada pela negativa de acesso ao estabelecimento, ao domicilio fiscal ou a qualquer outro local onde se desenvolvam as atividades do sujeito passivo, ou se encontrem bens de sua posse ou propriedade; Il - evidências de que a pessoa jurídica esteja constituída por interpostas pessoas que não sejam os verdadeiros sócios ou acionistas, ou o titular, no caso de firma individual;\nIV- realização de operações sujeitas à incidência tributária, sem a devida inscrição no cadastro de contribuintes apropriado;\nV - prática reiterada de infração da legislação tributária;\nVI - comercialização de mercadorias com evidências de contrabando ou descaminho;\nVII - incidência em conduta que enseje representação criminal, nos termos da legislação que rege os crimes contra a ordem tributária. 8 1º O regime especial de fiscalização será aplicado em virtude de ato do Secretário da Receita Federal. $ 2º O regime especial pode consistir, inclusive, em: | - manutenção de fiscalização ininterrupta no estabelecimento do sujeito passivo; Il - redução, à metade, dos períodos de apuração e dos prazos de recolhimento dos tributos;\n1 - utilização compulsória de controle eletrônico das operações realizadas e recolhimento diário dos respectivos tributos;\nIV- exigência de comprovação sistemática do cumprimento das obrigações tributárias;\nV- controle especial da impressão e emissão de documentos comerciais e fiscais e da movimentação financeira. $ 3º As medidas previstas neste artigo poderão ser aplicadas isolada ou cumulativamente, por tempo suficiente à normalização do cumprimento das obrigações tributárias. 84º A imposição do regime especial não elide a aplicação de penalidades previstas na legislação tributária. $5º Às infrações cometidas pela contribuinte durante o período em que estiver submetido a regime especial de fiscalização será aplicada a multa de que trata o inciso | do caput do art. 44 desta Lei, duplicando-se o seu percentual. (Redação dada Lei nº 11.488, de 2007) Acesso à Documentação"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 34",
+      "t": "Art. 34. São também passíveis de exame os documentos do sujeito passivo, mantidos em arquivos magnéticos ou assemelhados, encontrados no local da verificação, que tenham relação direta ou indireta com a atividade por ele exercida. Retenção de Livros e Documentos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 35",
+      "t": "Art. 35. Os livros e documentos poderão ser examinados fora do estabelecimento do sujeito passivo, desde que lavrado termo escrito de retenção pela autoridade fiscal, em que se especifique a quantidade, espécie, natureza e condições dos livros e documentos retidos. 1º Constituindo os livros ou documentos prova da prática de ilícito penal ou tributário, os originais retidos não serão devolvidos, extraindo-se cópia para entrega ao interessado. 8 2º Excetuado o disposto no parágrafo anterior, devem ser devolvidos os originais dos documentos retidos para exame, mediante recibo. Lacração de Arquivos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 36",
+      "t": "Art. 36. A autoridade fiscal encarregada de diligência ou fiscalização poderá promover a lacração de móveis, caixas, cofres ou depósitos onde se encontram arquivos e documentos, toda vez que ficar caracterizada a resistência ou o embaraço à fiscalização, ou ainda quando as circunstâncias ou a quantidade de documentos não permitirem sua identificação e conferência no local ou no momento em que foram encontrados.\nParágrafo único. O sujeito passivo e demais responsáveis serão previamente notificados para acompanharem o procedimento de rompimento do lacre e identificação dos elementos de interesse da fiscalização. Guarda de Documentos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 37",
+      "t": "Art. 37. Os comprovantes da escrituração da pessoa jurídica, relativos a fatos que repercutam em lançamentos contábeis de exercícios futuros, serão conservados até que se opere a decadência do direito de a Fazenda Pública constituir os créditos tributários relativos a esses exercícios. Arquivos Magnéticos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 38",
+      "t": "Art. 38. O sujeito passivo usuário de sistema de processamento de dados deverá manter documentação técnica completa e atualizada do sistema, suficiente para possibilitar a sua auditoria, facultada a manutenção em meio magnético, sem prejuízo da sua emissão gráfica, quando solicitada. Extravio de Livros e Documentos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 39",
+      "t": "Art. 39. (Revogado pela Lei nº 9.532, de 1997) Falta de Escrituração de Pagamentos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 40",
+      "t": "Art. 40. A falta de escrituração de pagamentos efetuados pela pessoa jurídica, assim como a manutenção, no passivo, de obrigações cuja exigibilidade não seja comprovada, caracterizam, também, omissão de receita. Levantamento Quantitativo por Espécie"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 41",
+      "t": "Art. 41. A omissão de receita poderá, também, ser determinada a partir de levantamento por espécie das quantidades de matérias-primas e produtos intermediários utilizados no processo produtivo da pessoa jurídica. $ 1º Para os fins deste artigo, apurar-se-á a diferença, positiva ou negativa, entre a soma das quantidades de produtos em estoque no início do período com a quantidade de produtos fabricados com as matérias-primas e produtos intermediários utilizados e a soma das quantidades de produtos cuja venda houver sido registrada na escrituração contábil da empresa com as quantidades em estoque, no final do período de apuração, constantes do livro de Inventário. $ 2º Considera-se receita omitida, nesse caso, o valor resultante da multiplicação das diferenças de quantidades de produtos ou de matérias-primas e produtos intermediários pelas respectivos preços médios de venda ou de compra, conforme o caso, em cada período de apuração abrangido pela levantamento. 8 3º Os critérios de apuração de receita omitida de que trata este artigo aplicam-se, também, às empresas comerciais, relativamente às mercadorias adquiridas para revenda. Depósitos Bancários"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 42",
+      "t": "Art. 42, Caracterizam-se também omissão de receita ou de rendimento os valores creditados em conta de depósito ou de investimento mantida junto a instituição financeira, em relação aos quais o titular, pessoa física ou jurídica, regularmente intimado, não comprove, mediante documentação hábil e idônea, a origem dos recursos utilizados nessas operações. $ 1º O valor das receitas ou dos rendimentos omitido será considerado auferido ou recebido no mês do crédito efetuado pela instituição financeira. $ 2º Os valores cuja origem houver sido comprovada, que não houverem sido computados na base de cálculo dos impostos e contribuições a que estiverem sujeitos, submeter-se-ão às normas de tributação específicas, previstas na legislação vigente à época em que auferidos ou recebidos. 853º Para efeito de determinação da receita omitida, os créditos serão analisados individualizadamente, observado que não serão considerados: 1-0s decorrentes de transferências de outras contas da própria pessoa física ou jurídica; Il - no caso de pessoa física, sem prejuízo do disposto no inciso anterior, os de valor individual igual ou inferior a R$ 1.000,00 (mil reais), desde que o seu somatório, dentro do ano-calendário, não ultrapasse o valor de R$ 12.000,00 (doze mil reais). (Vide Medida Provisória nº 1.563-7, de 1997) (Vide Lei nº 9.481, de 1997) $ 4º Tratando-se de pessoa física, os rendimentos omitidos serão tributados no mês em que considerados recebidos, com base na tabela progressiva vigente à época em que tenha sido efetuado o crédito pela instituição financeira. $ 5º Quando provado que os valores creditados na conta de depósito ou de investimento pertencem a terceiro, evidenciando interposição de pessoa, a determinação dos rendimentos ou receitas será efetuada em relação ao terceiro, na condição de efetivo titular da conta de depósito ou de investimento. (Incluído pela Lei nº 10.637. de 2002) $ 6º Na hipótese de contas de depósito ou de investimento mantidas em conjunto, cuja declaração de rendimentos ou de informações dos titulares tenham sido apresentadas em separado, e não havendo comprovação da origem dos recursos nos termos deste artigo, o valor dos rendimentos ou receitas será imputado a cada titular mediante divisão entre o total dos rendimentos ou receitas pela quantidade de titulares. (Incluído pela Lei nº 10.637. de 2002) Auto de Infração sem Tributo"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 43",
+      "t": "Art. 43, Poderá ser formalizada exigência de crédito tributário correspondente exclusivamente a multa ou a juros de mora, isolada ou conjuntamente.\nParágrafo único. Sobre o crédito constituído na forma deste artigo, não pago no respectivo vencimento, incidirão juros de mora, calculados à taxa a que se refere o $ 3º do art. 5º, a partir do primeiro dia do mês subsequente ao vencimento do prazo até o mês anterior ao do pagamento e de um por cento no mês de pagamento. Multas de Lançamento de Ofício"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 44",
+      "t": "Art. 44. Nos casos de lançamento de ofício, serão aplicadas as seguintes multas: (Vide Lei nº 10.892, de 2004) (Redação dada pela Lei nº 11.488, de 2007) | - de 75% (setenta e cinco por cento) sobre a totalidade ou diferença de imposto ou contribuição nos casos de falta de pagamento ou recolhimento, de falta de declaração e nos de declaração inexata; (Vide Lei nº 10.892, de 2004) (Redação dada pela Lei nº 11.488, de 2007)\n11 - de 50% (cingienta por cento), exigida isoladamente, sobre o valor do pagamento mensal (Redação dada pela Lei nº 11.488, de 2007)\na) na forma do art, 8º da Lei nº 7.713, de 22 de dezembro de 1988, que deixar de ser efetuado, ainda que não tenha sido apurado imposto a pagar na declaração de ajuste, no caso de pessoa física; (Redação dada pela Lei nº 11,488, de 2007)\nb) na forma do art. 2º desta Lei, que deixar de ser efetuado, ainda que tenha sido apurado prejuizo fiscal ou base de cálculo negativa para a contribuição social sobre o lucro liquido, no ano-calendário correspondente, no caso de pessoa jurídica. (Redação dada pela Lei nº 11,488, de 2007) $ 1º O percentual de multa de que trata o inciso | do caput deste artigo será majorado nos casos previstos nos arts. 71, 72 e 73 da Lei nº 4,502, de 30 de novembro de 1964, independentemente de outras penalidades administrativas ou criminais cabíveis, e passará a ser de: (Redação dada pela Lei nº 14.689, de 2023\n1- (revogado); — (Redação dada pela Lei nº 11.488, de 2007) Il - (revogado); — (Redação dada pela Lei nº 11.488, de 2007)\nIII - (revogado); (Redação dada pela Lei nº 11.488, de 2007)\nIV- (revogado); — (Redação dada pela Lei nº 11.488, de 2007)\nV - (revogado pela Lei nº 9.716, de 26 de novembro de 1998). (Redação dada pela Lei nº 11.488, de 2007) VI — 100% (cem por cento) sobre a totalidade ou a diferença de imposto ou de contribuição objeto do lançamento de ofício; (Incluído pela Lei nº 14.689, de 2023) VII— 150% (cento e cinquenta por cento) sobre a totalidade ou a diferença de imposto ou de contribuição objeto do lançamento de ofício, nos casos em que verificada a reincidência do sujeito passivo. (Incluído pela Lei nº 14,689, de 2023) $ 1º-A, Verifica-se a reincidência prevista no inciso VII do $ 1º deste artigo quando, no prazo de 2 (dois) anos, contado do ato de lançamento em que tiver sido imputada a ação ou omissão tipificada nos arts. 71, 72 e 73 da Lei nº 4.502, de 30 de novembro de 41964, ficar comprovado que o sujeito passivo incorreu novamente em qualquer uma dessas ações ou omissões. (Incluído pela Lei nº 14,689, de 2023) $ 1º-B. (VETADO). (Incluído pela Lei nº 14.689, de 2023) 8 1º-C, A qualificação da multa prevista no $ 1º deste artigo não se aplica quando: (Incluído pela Lei nº 14.689, de 2023) | não restar configurada, individualizada e comprovada a conduta dolosa a que se referem os arts. 71, 72 e 73 da Lei nº 4.502, de 30 de novembro de 1964; (Incluído pela Lei nº 14.689, de 2023) Il — houver sentença penal de absolvição com apreciação de mérito em processo do qual decorra imputação criminal do sujeito passivo; e (Incluído pela Lei nº 14.689, de 2023) Hll— (VETADO). (Incluído pela Lei nº 14.689, de 2023) 85 1º-D. (VETADO); (Incluído pela Lei nº 14.689, de 2023) 82º Os percentuais de multa a que se referem o inciso | do caput e o $ 1º deste artigo serão aumentados de metade, nos casos de não atendimento pela sujeito passivo, no prazo marcado, de intimação para: (Redação dada pela Lei nº 11.488, de 2007)\n1- prestar esclarecimentos; (Redação dada pela Lei nº 11.488, de 2007)\n1 - apresentar os arquivos ou sistemas de que tratam os arts. 11 a 13 da Lei no 8.218, de 29 de agosto de 1991; (Redação dada pela Lei nº 11.488, de 2007\n1 - apresentar a documentação técnica de que trata o art. 38 desta Lei. (Redação dada pela Lei nº 11.488, de 2007) $ 3º Aplicam-se às multas de que trata este artigo as reduções previstas no art. 6º da Lei nº 8.218, de 29 de agosto de 1991, e no art. 60 da Lei nº 8.383, de 30 de dezembro de 1991. (Vide Decreto nº 7.212, de 2010) 84º As disposições deste artigo aplicam-se, inclusive, aos contribuintes que derem causa a ressarcimento indevido de tributo ou contribuição decorrente de qualquer incentivo ou benefício fiscal. 85º Aplica-se também, no caso de que seja comprovadamente constatado dolo ou má-fé do contribuinte, a multa de que trata o inciso | do caput sobre: (Redação dada pela Lei nº 12.249, de 2010) |- a parcela do imposto a restituir informado pela contribuinte pessoa física, na Declaração de Ajuste Anual, que deixar de ser restituída por infração à legislação tributária; (Incluído pela Lei nº 12.249, de 2010) ||- (VETADO). (Redação dada pela Lei nº 12.249, de 2010)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 45",
+      "t": "Art. 45. (Revogado pela Lei nº 11.488, de 2007)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 46",
+      "t": "Art 46. (Revogado pela Lei nº 11.488, de 2007)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 47",
+      "t": "Art. 47, A pessoa física ou jurídica submetida a ação fiscal por parte da Secretaria da Receita Federal poderá pagar, até o vigésimo dia subsequente à data de recebimento do termo de início de fiscalização, os tributos e contribuições já declarados, de que for sujeito passivo como contribuinte ou responsável, com os acréscimos legais aplicáveis nos casos de procedimento espontâneo. (Redação dada pela Lei nº 9,532, de 1997) (Produção de efeito) Seção | Processo Administrativo de Consulta"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 48",
+      "t": "Art. 48. No âmbito da Secretaria da Receita Federal, os processos administrativos de consulta serão solucionados em instância única. 81º A competência para solucionar a consulta ou declarar sua ineficácia, na forma disciplinada pela Secretaria da Receita Federal do Brasil, poderá ser atribuída: (Redação dada pela Lei nº 12.788, de 2013) |- a unidade central; ou (Redação dada pela Lei nº 12.788, de 2013) 1! - a unidade descentralizada. (Redação dada pela Lei nº 12,788, de 2013) $ 2º Os atos normativos expedidos pelas autoridades competentes serão observados quando da solução da consulta. & 3º Não cabe recurso nem pedido de reconsideração da solução da consulta ou do despacho que declarar sua ineficácia. $ 4º As soluções das consultas serão publicadas pela imprensa oficial, na forma disposta em ato normativo emitido pela Secretaria da Receita Federal. 5º Havendo diferença de conclusões entre soluções de consultas relativas a uma mesma matéria, fundada em idêntica norma jurídica, cabe recurso especial, sem efeito suspensivo, para o órgão de que trata o inciso | do 8 1º. 8 6º O recurso de que trata o parágrafo anterior pode ser interposto pela destinatário da solução divergente, no prazo de trinta dias, contados da ciência da solução. 8 7º Cabe a quem interpuser o recurso comprovar a existência das soluções divergentes sobre idênticas situações. 88º O juízo de admissibilidade do recurso será realizado na forma disciplinada pela Secretaria da Receita Federal do Brasil. (Redação dada pela Lei nº 12.788, de 2013) $ 9º Qualquer servidor da administração tributária deverá, a qualquer tempo, formular representação ao órgão que houver proferido a decisão, encaminhando as soluções divergentes sobre a mesma matéria, de que tenha conhecimento. $ 10. O sujeito passivo que tiver conhecimento de solução divergente daquela que esteja observando em decorrência de resposta a consulta anteriormente formulada, sobre idêntica matéria, poderá adotar o procedimento previsto no 8 5º, no prazo de trinta dias contados da respectiva publicação. 8 11.A solução da divergência acarretará, em qualquer hipótese, a edição de ato específico, uniformizando o entendimento, com imediata ciência ao destinatário da solução reformada, aplicando-se seus efeitos a partir da data da ciência. $ 12. Se, após a resposta à consulta, a administração alterar o entendimento nela expresso, a nova orientação atingirá, apenas, os fatos geradores que ocorram após dado ciência ao consulente ou após a sua publicação pela imprensa oficial. $ 13. A partir de 1º de janeiro de 1997, cessarão todos os efeitos decorrentes de consultas não solucionadas definitivamente, ficando assegurado aos consulentes, até 31 de janeiro de 1997: |- a não instauração de procedimento de fiscalização em relação à matéria consultada; Il- a renovação da consulta anteriormente formulada, à qual serão aplicadas as normas previstas nesta Lei. $ 14. A consulta poderá ser formulada por meio eletrônico, na forma disciplinada pela Secretaria da Receita Federal do Brasil. (Incluído pela Lei nº 12.788, de 2013) $ 15. O Poder Executivo regulamentará prazo para solução das consultas de que trata este artigo. (Incluído pela Lei nº 12.788, de 2013)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 49",
+      "t": "Art. 49. Não se aplicam aos processos de consulta no âmbito da Secretaria da Receita Federal as disposições dos arts. 54 a 58 do Decreto nº 70.235, de 6 de março de 1972,"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 50",
+      "t": "Art. 50. Aplicam-se aos processos de consulta relativos à classificação de mercadorias as disposições dos arts. 46 a 53 do Decreto nº 70.235, de 6 de março de 1972 e do art. 48 desta Lei. $ 1º O órgão de que trata o inciso | do $ 1º do art. 48 poderá alterar ou reformar, de ofício, as decisões proferidas nos processos relativos à classificação de mercadorias. & 2º Da alteração ou reforma mencionada no parágrafo anterior, deverá ser dada ciência ao consulente. $ 3º Em relação aos atos praticados até a data da ciência ao consulente, nos casos de que trata o $ 1º deste artigo, aplicam-se as conclusões da decisão proferida pela órgão regional da Secretaria da Receita Federal. na Ê 4º O envio de conclusões decorrentes de decisões proferidas em processos de consulta sobre classificação de mercadorias, para órgãos do Mercado Comum do Sul - MERCOSUL, será efetuado exclusivamente pela órgão de que trata o inciso | do $ 1º do art. 48."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 51",
+      "t": "Art. 51. Os juros de que trata o art. 9º da Lei nº 9.249, de 26 de dezembro de 1995, bem como os rendimentos e ganhos líquidos decorrentes de quaisquer operações financeiras, serão adicionados ao lucro presumido ou arbitrado, para efeito de determinação do imposto de renda devido.\nParágrafo único. O imposto de renda incidente na fonte sobre os rendimentos de que trata este artigo será considerado como antecipação do devido na declaração de rendimentos."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 52",
+      "t": "Art. 52. Na apuração de ganho de capital de pessoa jurídica tributada pela lucro presumido ou arbitrado, os valores acrescidos em virtude de reavaliação somente poderão ser computados como parte integrante dos custos de aquisição dos bens e direitos se a empresa comprovar que os valores acrescidos foram computados na determinação da base de cálculo do imposto de renda."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 53",
+      "t": "Art. 53, Os valores recuperados, correspondentes a custos e despesas, inclusive com perdas no recebimento de créditos, deverão ser adicionados ao lucro presumido ou arbitrado para determinação do imposto de renda, salvo se o contribuinte comprovar não os ter deduzido em período anterior no qual tenha se submetido ao regime de tributação com base no lucro real ou que se refiram a período no qual tenha se submetido ao regime de tributação com base no lucro presumido ou arbitrado."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 54",
+      "t": "Art. 54. A pessoa jurídica que, até o ano-calendário anterior, houver sido tributada com base no lucro real deverá adicionar à base de cálculo do imposto de renda, correspondente ao primeiro período de apuração no qual houver optado pela tributação com base no lucro presumido ou for tributada com base no lucro arbitrado, os saldos dos valores cuja tributação havia diferido, independentemente da necessidade de controle no livro de que trata o 1 Regns de ar Sehos gos Sociedades Civis"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 55",
+      "t": "Art. 55. As sociedades civis de prestação de serviços profissionais relativos ao exercício de profissão legalmente regulamentada de que trata o art. 1º do Decreto-lei nº 2.397, de 21 de dezembro de 1987, passam, em relação aos resultados auferidos a partir de 1º de janeiro de 1997, a ser tributadas pela imposto de renda de conformidade com as normas aplicáveis às demais pessoas jurídicas."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 56",
+      "t": "Art. 56. As sociedades civis de prestação de serviços de profissão legalmente regulamentada passam a contribuir para a seguridade social com base na receita bruta da prestação de serviços, observadas as normas da Lei Complementar nº 70. de 30 de dezembro de 1991.\nParágrafo único. Para efeito da incidência da contribuição de que trata este artigo, serão consideradas as receitas auferidas a partir do mês de abril de 1997."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 56-A",
+      "t": "Art. 56-A. A entidade privada de abrangência nacional e sem fins lucrativos, constituída pela conjunto das cooperativas de crédito e dos bancos cooperativos, na forma da legislação e regulamentação próprias, destinada a administrar mecanismo de proteção a titulares de créditos contra essas instituições e a contribuir para a manutenção da estabilidade e a prevenção de insolvência e de outros riscos dessas instituições, é isenta do imposto de renda, inclusive do incidente sobre ganhos líquidos mensais e do retido na fonte sobre os rendimentos de aplicação financeira de renda fixa e de renda variável, bem como da contribuição social sobre o lucro líquido. (Incluído pela Lei nº 12.873, de 2013 8 1º Para efeito de gozo da isenção, a referida entidade deverá ter seu estatuto e seu regulamento aprovados pela Conselho Monetário Nacional. (Incluído pela Lei nº 12.873, de 2013) s 2º Ficam autorizadas as transferências, para a entidade mencionada no caput, de recursos oriundos de recolhimentos realizados pelas cooperativas de crédito e bancos cooperativos, de forma direta ou indireta, ao Fundo Garantidor de Crédito de que trata o art. 4º da Leinº 9.710, de 19 de novembro de 1998. (Incluído pela Lei nº 12,873, de 2013) $3º As transferências dos recursos de que trata o $ 2º não serão tributadas, nos termos deste artigo. (Incluído pela Lei nº 12.873, de 2013) paiÊ se Em soco de dissolução, por qualquer motivo, da entidade de que trata o caput, os recursos eventualmente devolvidos às associadas estarão sujeitos à tributação na instituição recebedora, na forma da legislação vigente. (Incluído pela Leine 12.875, de 4015) 85º O disposto neste artigo entra em vigor no dia seguinte ao da aprovação pela Conselho Monetário Nacional do estatuto e do regulamento da entidade de que trata o caput. (Incluído pela Lei nº 12.873. de 2013) Associações de Poupança e Empréstimo"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 57",
+      "t": "Art. 57. As Associações de Poupança e Empréstimo pagarão o imposto de renda correspondente aos rendimentos e ganhos líquidos, auferidos em aplicações financeiras, à alíquota de quinze por cento, calculado sobre vinte e oito por cento do valor dos referidos rendimentos e ganhos líquidos. fide-ledida Provisória-nt-1303-de 2025) Produção de-efeitos Vigência encerrada\nParágrafo único. O imposto incidente na forma deste artigo será considerado tributação definitiva. Empresas de Factoring"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 58",
+      "t": "Art. 58. Fica incluído no art. 36 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995, o seguinte inciso XV: PAR 36. erra\nXV - que explorem as atividades de prestação cumulativa e contínua de serviços de assessoria creditícia, mercadológica, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, compras de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring) \" Atividade Florestal"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 59",
+      "t": "Art. 59. Considera-se, também, como atividade rural o cultivo de florestas que se destinem ao corte para comercialização, consumo ou industrialização. Liquidação Extra-Judicial e Falência"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 60",
+      "t": "Art. 60. As entidades submetidas aos regimes de liquidação extrajudicial e de falência sujeitam-se às normas de incidência dos impostos e contribuições de competência da União aplicáveis às pessoas jurídicas, em relação às operações praticadas durante o período em que perdurarem os procedimentos para a realização de seu ativo e o pagamento do passivo. Multas e Juros"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 61",
+      "t": "Art. 61. Os débitos para com a União, decorrentes de tributos e contribuições administrados pela Secretaria da Receita Federal, cujos fatos geradores ocorrerem a partir de 1º de janeiro de 1997, não pagos nos prazos previstos na legislação especifica, serão acrescidos de multa de mora, calculada à taxa de trinta e três centésimos por cento, por dia de atraso. 5 1º A multa de que trata este artigo será calculada a partir do primeiro dia subsequente ao do vencimento do prazo previsto para o pagamento do tributo ou da contribuição até o dia em que ocorrer o seu pagamento. $2º O percentual de multa a ser aplicado fica limitado a vinte por cento. $ 3º Sobre os débitos a que se refere este artigo incidirão juros de mora calculados à taxa a que se refere o 8 3º do art. 5º, a partir do primeiro dia do mês subsegiiente ao vencimento do prazo até o mês anterior ao do pagamento e de um por cento no mês de pagamento. (Vide Medida Provisória nº 1.725, de 1998) (Vide Lei nº 9.716, de 1998) Pagamento em Quotas-Juros"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 62",
+      "t": "Art. 62. Os juros a que se referem o inciso Ill 14 e 0 art. 16, ambos da Lei nº 9.250, de 26 de dezembro de 1995, serão calculados à taxa a que se refere o $ 3º do art. 5º, a partir do primeiro dia do mês subsequente ao previsto para a entrega tempestiva da declaração de rendimentos.\nParágrafo único. As quotas do imposto sobre a propriedade territorial rural a que se refere a alínea \"c” do parágrafo único do art. 14 da Lei nº 8.847, de 28 de janeiro de 1994, serão acrescidas de juros calculados à taxa a que se refere o $ 3º do art. 5º, a partir do primeiro dia do mês subsegiente âquele em que o contribuinte for notificado até o último dia do mês anterior ao do pagamento e de um por cento no mês do pagamento. Débitos com Exigibilidade Suspensa"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 63",
+      "t": "Art. 63. Na constituição de crédito tributário destinada a prevenir a decadência, relativo a tributo de competência da União, cuja exigibilidade houver sido suspensa na forma dos incisos IV e V do art. 151 da Lei nº 5.172, de 25 de outubro de 1966, não caberá lançamento de multa de ofício. (Redação dada pela Medida Provisória nº 2.158-35, de 2001) $ 1º O disposto neste artigo aplica-se, exclusivamente, aos casos em que a suspensão da exigibilidade do débito tenha ocorrido antes do início de qualquer procedimento de ofício a ele relativo. fitide-Medida Provisória no-25 de 2002) $ 2º A interposição da ação judicial favorecida com a medida liminar interrompe a incidência da multa de mora, desde a concessão da medida judicial, até 30 dias após a data da publicação da decisão judicial que considerar devido o tributo ou contribuição. fiide-ptecica Provisória n-5 de-2060) g3º Retenção de Tributos e Contribuições"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 64",
+      "t": "Art. 64, Os pagamentos efetuados por órgãos, autarquias e fundações da administração pública federal a pessoas jurídicas, pela fornecimento de bens ou prestação de serviços, estão sujeitos à incidência, na fonte, do imposto sobre a renda, da contribuição social sobre o lucro líquido, da contribuição para seguridade social - COFINS e da contribuição para o PIS/PASEP. 81º Aobrigação pela retenção é do órgão ou entidade que efetuar o pagamento. $ 2º O valor retido, correspondente a cada tributo ou contribuição, será levado a crédito da respectiva conta de receita da União. $ 3º O valor do imposto e das contribuições sociais retido será considerado como antecipação do que for devido pela contribuinte em relação ao mesmo imposto e às mesmas contribuições. $4º O valor retido correspondente ao imposto de renda e a cada contribuição social somente poderá ser compensado com o que for devido em relação à mesma espécie de imposto ou contribuição. $ 5º O imposto de renda a ser retido será determinado mediante a aplicação da aliquota de quinze por cento sobre o resultado da multiplicação do valor a ser pago pela percentual de que trata o art. 15 da Lei nº 9,249, de 2º zembro de 1995, aplicável à espécie de receita correspondente ao tipo de bem fornecido ou de serviço prestado. 856º O valor da contribuição social sobre o lucro líquido, a ser retido, será determinado mediante a aplicação da alíquota de um por cento, sobre o montante a ser pago. 8 7º O valor da contribuição para a seguridade social - COFINS, a ser retido, será determinado mediante a aplicação da alíquota respectiva sobre o montante a ser pago. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos 88º O valor da contribuição para o PIS/PASEP, a ser retido, será determinado mediante a aplicação da alíquota respectiva sobre o montante a ser pago. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos 8 9º Até 31 de dezembro de 2017, fica dispensada a retenção dos tributos na fonte de que trata o caput sobre os pagamentos efetuados por órgãos ou entidades da administração pública federal, mediante a utilização do Cartão de Pagamento do Governo Federal - CPGF, no caso de compra de passagens aéreas diretamente das companhias aéreas prestadoras de serviços de transporte aéreo. (Incluído pela Lei nº 13.043, de 2014)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 65",
+      "t": "Art. 65. O Banco do Brasil S.A. deverá reter, no ato do pagamento ou crédito, a contribuição para o PIS/PASEP incidente nas transferências voluntárias da União para suas autarquias e fundações e para os Estados, Distrito Federal e Municípios, suas autarquias e fundações."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 66",
+      "t": "Art. 66. As cooperativas que se dedicam a vendas em comum, referidas no art. 82 da Lei nº 5.764, de 16 de dezembro de 1971, que recebam para comercialização a produção de suas associadas, são responsáveis pela recolhimento da Contribuição para Financiamento da Seguridade Social - COFINS, instituída pela Lei Complementar nº 70, de 30 de dezembro de 1991 e da Contribuição para o Programa de Integração Social - PIS, criada pela Lei Complementar nº 7, de 7 de setembro de 1970, com suas posteriores modificações. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos $ 1º O valor das contribuições recolhidas pelas cooperativas mencionadas no caput deste artigo, deverá ser por elas informado, individualizadamente, às suas filiadas, juntamente com o montante do faturamento relativo às vendas dos produtos de cada uma delas, com vistas a atender aos procedimentos contábeis exigidos pela legislação. 8 2º O disposto neste artigo aplica-se a procedimento idêntico que, eventualmente, tenha sido anteriormente adotado pelas cooperativas centralizadoras de vendas, inclusive quanto ao recolhimento da Contribuição para o Fundo de Investimento Social - FINSOCIAL, criada pela Decreto-lei nº 1.940, de 25 de maio de 1982, com suas posteriores modificações. $3º A Secretaria da Receita Federal poderá baixar as normas necessárias ao cumprimento e controle das disposições contidas neste artigo. Dispensa de Retenção de Imposto de Renda"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 67",
+      "t": "Art. 67. Fica dispensada a retenção de imposto de renda, de valor igual ou inferior a R$ 10,00 (dez reais), incidente na fonte sobre rendimentos que devam integrar a base de cálculo do imposto devido na declaração de ajuste anual. Utilização de DARF"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 68",
+      "t": "Art. 68. É vedada a utilização de Documento de Arrecadação de Receitas Federais para o pagamento de tributos e contribuições de valor inferior a R$ 10,00 (dez reais). $ 1º O imposto ou contribuição administrado pela Secretaria da Receita Federal, arrecadado sob um determinado código de receita, que, no período de apuração, resultar inferior a R$ 10,00 (dez reais), deverá ser adicionado ao imposto ou contribuição de mesmo código, correspondente aos períodos subsequentes, até que o total seja igual ou superior a R$ 10,00 (dez reais), quando, então, será pago ou recolhido no prazo estabelecido na legislação para este último período de apuração. & 2º O critério a que se refere o parágrafo anterior aplica-se, também, ao imposto sobre operações de crédito, câmbio e seguro e sobre operações relativas a títulos e valores mobiliários - IOF."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 68-A",
+      "t": "Art. 68-A. O Poder Executivo poderá elevar para até R$ 100,00 (cem reais) os limites e valores de que tratam os arts. 67 e 68 desta Lei, inclusive de forma diferenciada por tributo, regime de tributação ou de incidência, relativos à utilização do Documento de Arrecadação de Receitas Federais, podendo reduzir ou restabelecer os limites e valores que vier a fixar. (Incluído pela Lei nº 11.941, de 2009) Imposto Retido na Fonte - Responsabilidade"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 69",
+      "t": "Art. 69. É responsável pela retenção e recolhimento do imposto de renda na fonte, incidente sobre os rendimentos auferidos pelas fundos, sociedades de investimentos e carteiras de que trata o art. 81 da Lei nº 8.981, de 20 de janeiro de 1995, a pessoa jurídica que efetuar o pagamento dos rendimentos. fvide-Medida-Provisória-n-4303-de-2025) Produção-de-efeitos Vigência encerrada Multas por Rescisão de Contrato"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 70",
+      "t": "Art. 70. A multa ou qualquer outra vantagem paga ou creditada por pessoa jurídica, ainda que a título de indenização, a beneficiária pessoa física ou jurídica, inclusive isenta, em virtude de rescisão de contrato, sujeitam-se à incidência do imposto de renda na fonte à alíquota de quinze por cento. $ 1º A responsabilidade pela retenção e recolhimento do imposto de renda é da pessoa jurídica que efetuar o pagamento ou crédito da multa ou vantagem. $ 2º O imposto será retido na data do pagamento ou crédito da multa ou vantagem. (Redação dada pela Lei nº 11.196, de 2005) $ 3º O valor da multa ou vantagem será:\n1 - computado na apuração da base de cálculo do imposto devido na declaração de ajuste anual da pessoa física;\n11- computado como receita, na determinação do lucro real;\n1 - acrescido ao lucro presumido ou arbitrado, para determinação da base de cálculo do imposto devido pela pessoa jurídica. $ 4º O imposto retido na fonte, na forma deste artigo, será considerado como antecipação do devido em cada período de apuração, nas hipóteses referidas no parágrafo anterior, ou como tributação definitiva, no caso de pessoa jurídica isenta. 85º O disposto neste artigo não se aplica às indenizações pagas ou creditadas em conformidade com a legislação trabalhista e àquelas destinadas a reparar danos patrimoniais. Ganhos em Mercado de Balcão"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 71",
+      "t": "Art. 71. Sem prejuízo do disposto no art. 74 da Lei nº 8.981, de 20 de janeiro de 1995, os ganhos auferidos por qualquer beneficiário, inclusive pessoa jurídica isenta, nas demais operações realizadas em mercados de liquidação futura, fora de bolsa, serão tributados de acordo com as normas aplicáveis aos ganhos líquidos auferidos em operações de natureza semelhante realizadas em bolsa. Vigência encerrada $ 1º Não se aplica aos ganhos auferidos nas operações de que trata este artigo o disposto no 8 1º do art. 81 da Lei nº 8.981, de 20 de janeiro de 1995. 8 2º Somente será admitido o reconhecimento de perdas nas operações registradas nos termos da legislação vigente. (Redação dada pela Lei nº 10.833, de 2003) Remuneração de Direitos"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 72",
+      "t": "Art. 72, Estão sujeitas à incidência do imposto na fonte, à aliquota de quinze por cento, as importâncias pagas, creditadas, entregues, empregadas ou remetidas para o exterior pela aquisição ou pela remuneração, a qualquer título, de qualquer forma de direito, inclusive à transmissão, por meio de rádio ou televisão ou por qualquer outro meio, de quaisquer filmes ou eventos, mesmo os de competições desportivas das quais faça parte representação brasileira."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 73",
+      "t": "Art. 73. A restituição e o ressarcimento de tributos administrados pela Secretaria da Receita Federal do Brasil ou a restituição de pagamentos efetuados mediante DARF e GPS cuja receita não seja administrada pela Secretaria da Receita Federal do Brasil será efetuada depois de verificada a ausência de débitos em nome do sujeito passivo credor perante a Fazenda Nacional. (Redação dada pela Lei nº 12.844, de 2013) |- (revogado); (Redação dada pela Lei nº 12.844, de 2013)\nII - (revogado). (Redação dada pela Lei nº 12,844, de 2013)\nParágrafo único. Existindo débitos, não parcelados strparcetados-semr-garantia, inclusive inscritos em Dívida Ativa da União, os créditos serão utilizados para quitação desses débitos, observado o seguinte: (Incluído pela Lei nº 12.844, de 2013) (Vide RE 917285) 1-0 valor bruto da restituição ou do ressarcimento será debitado à conta do tributo a que se referir; (Incluído pela Lei nº 12.844, de 2013) 1l- a parcela utilizada para a quitação de débitos do contribuinte ou responsável será creditada à conta do respectivo tributo. (Incluído pela Lei nº 12.844, de 2013)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 74",
+      "t": "Art. 74. O sujeito passivo que apurar crédito, inclusive os judiciais com trânsito em julgado, relativo a tributo ou contribuição administrado pela Secretaria da Receita Federal, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados por aquele Órgão. — (Redação dada pela Lei nº 10.637, de 2002) (Vide Decreto nº 7.212, de 2010) (Vide Medida Provisória nº 608, de 2013) (Vide Lei nº 12.838, de 2013) (Vide Lei nº 14.690, de 2023) (Vide Medida Provisória nº 1.314, de 2025) $ 12 A compensação de que trata o caput será efetuada mediante a entrega, pela sujeito passivo, de declaração na qual constarão informações relativas aos créditos utilizados e aos respectivos débitos compensados. (Incluído pela Lei nº 10.637. de 2002) $ 22 A compensação declarada à Secretaria da Receita Federal extingue o crédito tributário, sob condição resolutória de sua ulterior homologação. (Incluído pela Lei nº 10.637. de 2002) $ 3º Além das hipóteses previstas nas leis específicas de cada tributo ou contribuição, não poderão ser objeto de compensação mediante entrega, pela sujeito passivo, da declaração referida no $ 1º: (Redação dada pela Lei nº 10.833, de 2003) 1-0 saldo a restituir apurado na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Fisica; (Incluído pela Lei nº 10.637, de 2002) ll- os débitos relativos a tributos e contribuições devidos no registro da Declaração de Importação. (Incluído pela Lei nº 10.637, de 2002)\n11 - os débitos relativos a tributos e contribuições administrados pela Secretaria da Receita Federal que já tenham sido encaminhados à Procuradoria-Geral da Fazenda Nacional para inscrição em Divida Ativa da União; (Redação dada pela Lei nº 10.833, de 2003)\nIV - o débito consolidado em qualquer modalidade de parcelamento concedido pela Secretaria da Receita Federal - SRF; (Redação dada pela Lei nº 11,051, de 2004)\nV- o débito que já tenha sido objeto de compensação não homologada, ainda que a compensação se encontre pendente de decisão definitiva na esfera administrativa; (Redação dada pela Lei nº 13.670, de 2018)\nVI - o valor objeto de pedido de restituição ou de ressarcimento já indeferido pela autoridade competente da Secretaria da Receita Federal do Brasil, ainda que o pedido se encontre pendente de decisão definitiva na esfera administrativa; (Redação dada pela Lei nº 13.670, de 2018)\nVII - o crédito objeto de pedido de restituição ou ressarcimento e o crédito informado em declaração de compensação cuja confirmação de liquidez e certeza esteja sob procedimento fiscal; (Redação dada pela Lei nº 13.670. de 2018)\nVIII - os valores de quotas de salário-família e salário-maternidade; e (Redação dada pela Lei nº 13.670. de 2018)\nIX- os débitos relativos ao recolhimento mensal por estimativa do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Liquido (CSLL) apurados na forma do art. 2º desta Lei. (Redação dada pela Lei nº 13.670, de 2018) X-o valor do crédito utilizado na compensação que superar o limite mensal de que trata o art. 74-A desta Lei. (Incluído pela Lei nº 14.873, de 2024)\nXI- (Incluído pela Medida Provisória nº 1.227, de 2024) (Vide Ato Declaratório nº 36, de 2024) Vigência encerrada $ 4º Os pedidos de compensação pendentes de apreciação pela autoridade administrativa serão considerados declaração de compensação, desde o seu protocolo, para os efeitos previstos neste artigo. (Redação dada pela Lei nº 10.637, de 2002) $ 520 prazo para homologação da compensação declarada pela sujeito passivo será de 5 (cinco) anos, contado da data da entrega da declaração de compensação. (Redação dada pela Lei nº 10.833, de 2003) $ 62 A declaração de compensação constitui confissão de divida e instrumento hábil e suficiente para a exigência dos débitos indevidamente compensados. (Redação dada pela Lei nº 10.833, de 2003) 5 72 Não homologada a compensação, a autoridade administrativa deverá cientificar o sujeito passivo e intimá-lo a efetuar, no prazo de 30 (trinta) dias, contado da ciência do ato que não a homologou, o pagamento dos débitos indevidamente compensados, Redaçã Lein?1 2 $ 8º Não efetuado o pagamento no prazo previsto no $ 72, o débito será encaminhado à Procuradoria-Geral da Fazenda Nacional para inscrição em Divida Ativa da União, ressalvado o disposto no $ 9º. (Redação dada pela Lei nº 10.833, de 2003) $ 9º É facultado ao sujeito passivo, no prazo referido no $ 7º, apresentar manifestação de inconformidade contra a não-homologação da compensação. (Redação dada pela Lei nº 10.833, de 2003) $ 10. Da decisão que julgar improcedente a manifestação de inconformidade caberá recurso ao Conselho de Contribuintes. (Redação dada pela Lei nº 10.833, de 2003) $ 11. A manifestação de inconformidade e o recurso de que tratam os 85 9º e 10 obedecerão ao rito processual do Decreto nº 70.235, de 6 de março de 1972, e enquadram-se no disposto no inciso Ill do art, 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, relativamente ao débito objeto da compensação. (Redação dada pela Lei nº 10.833, de 2003) $ 12. Será considerada não declarada a compensação nas hipóteses: (Redação dada pela Lei nº 11.051, de 2004) |- previstas no $ 3º deste artigo; (Incluído pela Lei nº 11.051, de 2004) Il - em que o crédito: (Incluído pela Lei nº 11.051, de 2004)\na) seja de terceiros; (Incluída pela Lei nº 11.051, de 2004)\nb) refira-se a \"crédito-prêmio\" instituído pela art. 12 do Decreto-Lei nº 491, de 5 de março de 1969; fIncluída pela Lei nº 11,051, de 2004)\nc) refira-se a título público; (incluída pela Lei nº 11.051, de 2004)\nd) seja decorrente de decisão judicial não transitada em julgado; ou (incluída pela Lei nº 11.051, de 2004)\ne) não se refira a tributos e contribuições administrados pela Secretaria da Receita Federal - SRF. (Incluída pela Lei nº 11.051, de 2004) f)tiver como fundamento a alegação de inconstitucionalidade de lei, exceto nos casos em que a lei: (Redação dada pela Lei nº 11.941, de 2009 1 — tenha sido declarada inconstitucional pela Supremo Tribunal Federal em ação direta de inconstitucionalidade ou em ação declaratória de constitucionalidade; (Incluído pela Lei nº 11.941, de 2009) 2 — tenha tido sua execução suspensa pela Senado Federal; (Incluído pela Lei nº 11,941, de 2009) 3 — tenha sido julgada inconstitucional em sentença judicial transitada em julgado a favor do contribuinte; ou (Incluído pela Lei nº 11.941, de 2009) 4 seja objeto de súmula vinculante aprovada pela Supremo Tribunal Federal nos termos do art. 103-A da Constituição Federal. (Incluído pela Lei nº 11.941, de 2009)\n9) seja decorrente de pagamento indevido ou a maior que o devido, com fundamento em documento de arrecadação que se verifique inexistente; ou (Redação dada pela Lei nº 15.265, de 2025)\nh) seja decorrente do regime de incidência não cumulativa da Contribuição para o PIS/Pasep ou da Cofins, cujo crédito não guarde qualquer relação com quaisquer atividades econômicas do sujeito passivo, excetuados os casos de transformação, incorporação ou fusão, em que podem ser consideradas as atividades da empresa originária. (Redação dada pela Lei nº 15.265, de 2025) $ 13. O disposto nos $8 2º e 52 a 11 deste artigo não se aplica às hipóteses previstas no $ 12 deste artigo. (Incluído pela Lei nº 11.051. de 2004) 8 14. A Secretaria da Receita Federal - SRF disciplinará o disposto neste artigo, inclusive quanto à fixação de critérios de prioridade para apreciação de processos de restituição, de ressarcimento e de compensação. (Incluído pela Lei nº 11.051, de 2004) 815. — (Revogado pela Lei nº 13.137, de 2015) (Vigência) 516. (Revogado pela Lei nº 13.137, de 2015) (Vigência) $ 17. Será aplicada multa isolada de 50% (cinquenta por cento) sobre o valor do débito objeto de declaração de compensação não homologada, salvo no caso de falsidade da declaração apresentada pela sujeito passivo. (Redação dada pela Lei nº 13.097, de\n2015) (Vide ADI 4905) $ 18. No caso de apresentação de manifestação de inconformidade contra a não homologação da compensação, fica suspensa a exigibilidade da multa de ofício de que trata o $ 17, ainda que não impugnada essa exigência, enquadrando-se no disposto no inciso IL do art. 151 da Lei no 5.172, de 25 de outubro de 1966 - Código Tributário Nacional. fIncluído pela Lei nº 12.844, de 2013)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 74-A",
+      "t": "Art. 74-A. A compensação de crédito decorrente de decisão judicial transitada em julgado observará o limite mensal estabelecido em ato do Ministro de Estado da Fazenda. (Incluído pela Lei nº 14.873, de 2024) $ 1º O limite mensal a que se refere o caput deste artigo: (Incluído pela Lei nº 14.873, de 2024)\n1 - será graduado em função do valor total do crédito decorrente de decisão judicial transitada em julgado; (Incluído pela Lei nº 14.873, de 2024)\n11 - não poderá ser inferior a 1/60 (um sessenta avos) do valor total do crédito decorrente de decisão judicial transitada em julgado, demonstrado e atualizado na data da entrega da primeira declaração de compensação; e (Incluído pela Lei nº 14.873, de 2024)\n1 - não poderá ser estabelecido para crédito decorrente de decisão judicial transitada em julgado cujo valor total seja inferior a R$ 10.000.000,00 (dez milhões de reais). (Incluído pela Lei nº 14.873, de 2024) $ 2º Para fins do disposto neste artigo, a primeira declaração de compensação deverá ser apresentada no prazo de até 5 (cinco) anos, contado da data do trânsito em julgado da decisão ou da homologação da desistência da execução do título judicial. (Incluído pela Lei nº 14.873, de 2024)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 75",
+      "t": "Art. 75. A partir de 1º de janeiro de 1997, a atualização do valor da Unidade Fiscal de Referência - UFIR, de que trata o art. 1º da Lei nº 8.383, de 30 de dezembro de 1991, com as alterações posteriores, será efetuada por períodos anuais, em 1º de janeiro.\nParágrafo único. No âmbito da legislação tributária federal, a UFIR será utilizada exclusivamente para a atualização dos créditos tributários da União, objeto de parcelamento concedido até 31 de dezembro de 1994."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 76",
+      "t": "Art. 76. Fica o Poder Executivo autorizado a alterar as competências relativas às matérias objeto de julgamento pelas Conselhos de Contribuintes do Ministério da Fazenda."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 77",
+      "t": "Art. 77. Fica o Poder Executivo autorizado a disciplinar as hipóteses em que a administração tributária federal, relativamente aos créditos tributários baseados em dispositivo declarado inconstitucional por decisão definitiva do Supremo Tribunal Federal, possa (Regulamento) | - abster-se de constituí-los;\n11- retificar o seu valor ou declará-los extintos, de ofício, quando houverem sido constituídos anteriormente, ainda que inscritos em dívida ativa; Il - formular desistência de ações de execução fiscal já ajuizadas, bem como deixar de interpor recursos de decisões judiciais."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 78",
+      "t": "Art. 78. O 5.1º do art, 9º da Lei nº 9.249, de 26 de dezembro de 1995, passa a vigorar com a seguinte redação: CAR ereta $ 1º O efetivo pagamento ou crédito dos juros fica condicionado à existência de lucros, computados antes da dedução dos juros, ou de lucros acumulados e reservas de lucros, em montante igual ou superior ao valor de duas vezes os juros a serem pagos ou creditados."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 79",
+      "t": "Art. 79. Os bens admitidos temporariamente no País, para utilização econômica, ficam sujeitos ao pagamento dos impostos incidentes na importação proporcionalmente ao tempo de sua permanência em território nacional, nos termos e condições estabelecidos em regulamento.\nParágrafo único. O Poder Executivo poderá excepcionar, em caráter temporário, a aplicação do disposto neste artigo em relação a determinados bens. (Incluído pela Medida Provisória nº 2.189-49, de 2001) Empresa Inidônea"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 80",
+      "t": "Art. 80. As inscrições no Cadastro Nacional da Pessoa Jurídica (CNPJ) serão suspensas quando se enquadrarem nas hipóteses de suspensão definidas pela Secretaria Especial da Receita Federal do Brasil. (Redação dada pela Lei nº 14.195, de 2021) $ 1º (Revogado). (Redação dada pela Lei nº 14.195, de 2021) |- (revogado); (Redação dada pela Lei nº 14.195, de 2021) Il - (revogado). (Redação dada pela Lei nº 14.195, de 2021) $ 2º (Revogado). (Redação dada pela Lei nº 14.195, de 2021) $ 3º (Revogado). — (Redação dada pela Lei nº 14.195, de 2021) 54º (Revogado). — (Redação dada pela Lei nº 14.195, de 2021)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 80-A",
+      "t": "Art. 80-A, (Revogado pela Lei nº 14.195, de 2021)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 80-B",
+      "t": "Art. 80-B. (Revogado pela Lei nº 14.195, de 2021)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 80-C",
+      "t": "Art. 80-C. (Revogado pela Lei nº 14,195, de 2021)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 81",
+      "t": "Art. 81. As inscrições no CNPJ serão declaradas inaptas, nos termos e nas condições definidos pela Secretaria Especial da Receita Federal do Brasil, quando a pessoa jurídica: (Redação dada pela Lei nº 14,195, de 2021) |- deixar de apresentar obrigações acessórias, por, no mínimo, 90 (noventa) dias a contar da omissão; — (Incluído pela Lei nº 14.195, de 2021)\n11- não comprovar a origem, a disponibilidade e a efetiva transferência, se for o caso, dos recursos empregados em operações de comércio exterior; — (Incluído pela Lei nº 14.195, de 2021)\n11 - for inexistente de fato, assim considerada a entidade que: (Incluído pela Lei nº 14.195, de 2021)\na) não dispuser de patrimônio ou de capacidade operacional necessários à realização de seu objeto, inclusive a que não comprovar o capital social integralizado; — (Incluída pela Lei nº 14.195, de 2021)\nb) não for localizada no endereço informado no CNPJ; (incluída pela Lei nº 14.195, de 2021)\nc) quando intimado, o seu representante legal: (Incluída pela Lei nº 14.195, de 2021) 1. não for localizado ou alegar falsidade ou simulação de sua participação na referida entidade ou não comprovar legitimidade para representá-la; ou (Incluído pela Lei nº 14.195, de 2021) 2. não indicar, depois de intimado, seu novo domicílio tributário; (Incluído pela Lei nº 14.195, de 2021)\nd) for domiciliada no exterior e não tiver indicado seu procurador ou seu representante legalmente constituído no CNPJ ou, se indicado, não tiver sido localizado; ou — (Incluído pela Lei nº 14.195, de 2021)\ne) encontrar-se com as atividades paralisadas, salvo quando a paralisação for comunicada; (Incluído pela Lei nº 14.195, de 2021)\nIV - realizar operações de terceiros, com intuito de acobertar seus reais beneficiários; (Incluído pela Lei nº 14.195, de 2021)\nV - tiver participado, segundo evidências, de organização constituída com o propósito de não recolher tributos ou de burlar os mecanismos de cobrança de débitos fiscais, inclusive por meio de emissão de documentos fiscais que relatem operações fictícias ou cessão de créditos inexistentes ou de terceiros; . (Incluído pela Lei nº 14.195, de 2021)\nVI - tiver sido constituída, segundo evidências, para a prática de fraude fiscal estruturada, inclusive em proveito de terceiras empresas; ou (Incluído pela Lei nº 14.195, de 2021)\nVII - encontrar-se suspensa por no, minimo, 1 (um) ano. (Incluído pela Lei nº 14.195, de 2021)\nVIII - praticar reiteradamente as infrações de que trata o art, 471-D, nos termos do art, 471-E, ambos da Lei Complementar nº 214, de 16 de janeiro de 2025. (Incluído pela Lei Complementar nº 227, de 2026) $ 1º (Revogado). (Redação dada pela Lei nº 14,195, de 2021) $ 2º Para fins do disposto no inciso II do caput deste artigo, a comprovação da origem de recursos provenientes do exterior dar-se-á mediante, cumulativamente: (Redação dada pela Lei nº 14.195, de 2021)\n1- prova do regular fechamento da operação de câmbio, inclusive com a identificação da instituição financeira no exterior encarregada da remessa dos recursos para o País; (Redação dada pela Lei nº 10.637, de 2002)\n11 - identificação do remetente dos recursos, assim entendido como a pessoa física ou jurídica titular dos recursos remetidos. (Redação dada pela Lei nº 10.637, de 2002 $ 3º No caso de o remetente referido no inciso II do $ 2º ser pessoa jurídica deverão ser também identificados os integrantes de seus quadros societário e gerencial. (Incluído pela Lei nº 10.637, de 2002) $ 4º 0 disposto nos 88 2º e 3º aplica-se, também, na hipótese de que trata o $ 2º do art. 23 do Decreto-Lei nº 1.455, de 7 de abril de 1976. (Incluído pela Lei nº 10,637, de 2002) 5 5º (Revogado). (Redação dada pela Lei nº 14.195, de 2021)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 81-A",
+      "t": "Art. 81-A. As inscrições no CNPJ serão declaradas baixadas após 180 (cento e oitenta) dias contados da declaração de inaptidão. (Incluído pela Lei nº 14.195, de 2021) & 1º Poderão ainda ter a inscrição no CNPJ baixada as pessoas jurídicas que estejam extintas, canceladas ou baixadas nos respectivos órgãos de registro. (Incluído pela Lei nº 14.195, de 2021) 8 2º O ato de baixa da inscrição no CNPJ não impede que, posteriormente, sejam lançados ou cobrados os débitos de natureza tributária da pessoa jurídica. (Incluído pela Lei nº 14.195, de 2021) 5 3º Mediante solicitação da pessoa jurídica, poderá ser restabelecida a inscrição no CNPJ, observados os termos e as condições definidos pela Secretaria Especial da Receita Federal do Brasil. (Incluído pela Lei nº 14.195, de 2021)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 82",
+      "t": "Art, 82. Além das demais hipóteses de inidoneidade de documentos previstas na legislação, não produzirá efeitos tributários em favor de terceiros interessados o documento emitido por pessoa jurídica cuja inscrição no CNPJ tenha sido considerada ou declarada inapta, (Redação dada pela Lei nº 14.195, de 2021)\nParágrafo único. O disposto neste artigo não se aplica aos casos em que o adquirente de bens, direitos e mercadorias ou o tomador de serviços comprovarem a efetivação do pagamento do preço respectivo e o recebimento dos bens, direitos e mercadorias ou utilização dos serviços. Crime contra a Ordem Tributária"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 83",
+      "t": "Art. 83. A representação fiscal para fins penais relativa aos crimes contra a ordem tributária previstos nos arts. 1º e 2º da Lei nº 8.137, de 27 de dezembro de 1990, e aos crimes contra a Previdência Social, previstos nos arts. 168-A e 337-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), será encaminhada ao Ministério Público depois de proferida a decisão final, na esfera administrativa, sobre a exigência fiscal do crédito tributário correspondente. (Redação dada pela Lei nº 12.350, de 2010) 81º Na hipótese de concessão de parcelamento do crédito tributário, a representação fiscal para fins penais somente será encaminhada ao Ministério Público após a exclusão da pessoa física ou jurídica do parcelamento. (Incluído pela Lei nº 12.382, de 2011). 82º É suspensa a pretensão punitiva do Estado referente aos crimes previstos no caput, durante o período em que a pessoa física ou a pessoa jurídica relacionada com o agente dos aludidos crimes estiver incluída no parcelamento, desde que o pedido de parcelamento tenha sido formalizado antes do recebimento da denúncia criminal. (Incluído pela Lei nº 12.382, de 2011). 83º A prescrição criminal não corre durante o período de suspensão da pretensão punitiva. (Incluído pela Lei nº 12.382, de 2011). $4º Extingue-se a punibilidade dos crimes referidos no caput quando a pessoa física ou a pessoa jurídica relacionada com o agente efetuar o pagamento integral dos débitos oriundos de tributos, inclusive acessórios, que tiverem sido objeto de concessão de parcelamento. — (Incluído pela Lei nº 12,382, de 2011). $ 5º O disposto nos 88 1º a 4º não se aplica: (Redação dada pela Lei Complementar nº 225, de 2026) |- às hipóteses de vedação legal de parcelamento; e (Incluído pela Lei Complementar nº 225, de 2026 a mo ; ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002. (Incluído pela Lei Complementar nº 225, de 2026) 86º As disposições contidas no caput do art. 34 da Lei nº 9.249, de 26 de dezembro de 1995, aplicam-se aos processos administrativos e aos inquéritos e processos em curso, desde que não recebida a denúncia pela juiz. (Renumerado do Parágrafo único pela Lei nº 12.382, de 2011), 8 7º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no inciso II do 8 5º deste artigo em relação aos atos praticados no período em que era assim considerado. — (Incluído pela Lei Complementar nº 225, de 2026)"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 84",
+      "t": "Art. 84, Nos casos de incorporação, fusão ou cisão de empresa incluída no Programa Nacional de Desestatização, bem como nos programas de desestatização das Unidades Federadas e dos Municípios, não ocorrerá a realização do lucro inflacionário acumulado relativamente à parcela do ativo sujeito a correção monetária até 31 de dezembro de 1995, que houver sido vertida. 81º O lucro inflacionário acumulado da empresa sucedida, correspondente aos ativos vertidos sujeitos a correção monetária até 31 de dezembro de 1995, será integralmente transferido para a sucessora, nos casos de incorporação e fusão. ul 2º No caso de cisão, o lucro inflacionário acumulado será transferido, para a pessoa jurídica que absorver o patrimônio da empresa cindida, na proporção das contas do ativo, sujeitas a correção monetária até 31 de dezembro de 1995, que houverem sido vertidas. $3º O lucro inflacionário transferido na forma deste artigo será realizado e submetido a tributação, na pessoa jurídica sucessora, com observância do disposto na legislação vigente. Fretes Internacionais"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 85",
+      "t": "Art, 85, Ficam sujeitos ao imposto de renda na fonte, à alíquota de quinze por cento, os rendimentos recebidos por companhias de navegação aérea e marítima, domiciliadas no exterior, de pessoas físicas ou jurídicas residentes ou domiciliadas no Brasil.\nParágrafo único. O imposto de que trata este artigo não será exigido das companhias aéreas e marítimas domiciliadas em países que não tributam, em decorrência da legislação interna ou de acordos internacionais, os rendimentos auferidos por empresas brasileiras que exercem o mesmo tipo de atividade."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 86",
+      "t": "Art. 86. Nos casos de pagamento de contraprestação de arrendamento mercantil, do tipo financeiro, a beneficiária pessoa jurídica domiciliada no exterior, a Secretaria da Receita Federal expedirá normas para excluir da base de cálculo do imposto de renda incidente na fonte a parcela remetida que corresponder ao valor do bem arrendado."
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 87",
+      "t": "Art. 87. Esta Lei entra em vigor na data da sua publicação, produzindo efeitos financeiros a partir de 1º de janeiro de 1997. Revogação"
+    },
+    {
+      "s": "Lei 9.430/96",
+      "a": "Art. 88",
+      "t": "Art. 88. Revogam-se: 1-0 82º do art. 97 do Decreto-lei nº 5,844, de 23 de setembro de 1943, o Decreto-lei nº 7.885, de 21 de agosto de 1945, o art, 46 da Lei nº 4.862, de 29 de novembro de 1965 e o art. 56 da Lei nº 7.713, de 22 de dezembro de 1988; Il- o Decreto-lei nº 165, de 13 de fevereiro de 1967; Hll-0 8.3º do art. 21 do Decreto-lei nº 401, de 30 de dezembro de 1968;\nIV - o Decreto-lei nº 716, de 30 de julho de 1969; V-o Decreto-lei nº 815, de 4 de setembro de 1969, o Decreto-lei nº 1.139, de 21 de dezembro de 1970, o art, 87 da Lei nº 7.450, de 23 de dezembro de 1985 e os arts. 11 e 12 do Decreto-lei nº 2.303, de 21 de novembro de 1986;\nVI- o art. 3º do Decreto-lei nº 1.118, de 10 de agosto de 1970, o art. 6º do Decreto-lei nº 1.189, de 24 de setembro de 1971 e o inciso IX do art. 1º da Lei nº 8.402, de 8 de janeiro de 1992;\nVII - o art. 9º do Decreto-lei nº 1.351, de 24 de outubro de 1974, o Decreto-lei nº 1,411, de 31 de julho de 1975 e o Decreto-lei nº 1,725, de 7 de dezembro de 1979;\nVIII - o art. 9º do Decreto-lei nº 1.633, de 9 de agosto de 1978;\nIX- o número 4 da alínea \"b\" do 8 1º do art, 35 do Decreto-lei nº 1,598, de 26 de dezembro de 1977, com a redação dada pela inciso VI do art, 1º do Decreto-lei nº 1.730, de 17 de dezembro de 1979;\nX - o Decreto-lei nº 1,811, de 27 de outubro de 1980, e o art. 3º da Lei nº 7.132, de 26 de outubro de 1983;\nXI- o art, 7º do Decreto-lei nº 1.814, de 28 de novembro de 1980;\nXII - o Decreto-lei nº 2.227, de 16 de janeiro de 1985;\nXII - os arts. 29 e 30 do Decreto-lei nº 2.341, de 29 de junho de 1987;\nXIV - os arts. 1º e 2º do Decreto-lei nº 2.397, de 21 de dezembro de 1987;\nXV - o art, 8º do Decreto-lei nº 2.429, de 14 de abril de 1988; xvI- (Revogado pela Lei nº 11,508, de 2007)\nXVII - o art, 40 da Lei nº 7,799, de 10 de julho de 1989; XVIII - o 8.5º do art. 6º da Lei nº 8.021, de 1990; XIX o art, 22 da Lei nº 8.218, de 29 de agosto de 1991;\nXX - o art, 92 da Lei nº 8,383, de 30 de dezembro de 1991;\nXXI- o art. 6º da Lei nº 8.661, de 2 de junho de 1993; XXIl - o art. 1º da Lei nº 8.696, de 26 de agosto de 1998;\nXXI - o parágrafo único do art, 3º da Lei nº 8.846, de 21 de janeiro de 1994;\nXXIV - o art, 33, 0 $.4º do art, 37 e os arts, 38, 50, 52 e 53,0 $ 1º do art, 82 e art, 98, todos da Lei nº 8.981, de 20 de janeiro de 1995;\nXXV - o art. 89 da Leinº 8.981, de 20 de janeiro de 1995, com a redação dada pela Lei nº 9.065, de 20 de junho de 1995;\nXXVI - os 88.42, 9º e 10 do art. 9º, o 8 2º do art. 11, e o $ 3º do art. 24, todos da Lei nº 9.249, de 26 de dezembro de 1995; XXVII - a partir de 1º de abril de 1997, o art. 40 da Lei nº 8.981, de 1995, com as alterações introduzidas pela Lei nº 9.065, de 20 de junho de 1995. Brasília, 27 de dezembro de 1996; 175º da Independência e 108º da República. FERNANDO HENRIQUE CARDOSO Pedro Malan"
     },
     {
       "s": "Lei 12.973/14",
-      "a": "(a preencher)",
-      "t": "Conteúdo ainda não importado.\n\nFonte: Lei nº 12.973/2014 — Adequação da legislação tributária às normas contábeis (fim do RTT).\nTexto oficial: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12973.htm\n\nRode `python3 build_data.py` (num ambiente com acesso à internet) para baixar e converter o texto desta norma para o formato do app."
+      "a": "Art. 1",
+      "t": "Art. 1º O Imposto sobre a Renda das Pessoas Jurídicas - IRPJ, a Contribuição Social sobre o Lucro Líquido - CSLL, a Contribuição para o PIS/Pasep e a Contribuição para o Financiamento da Seguridade Social - Cofins serão determinados segundo as normas da legislação vigente, com as alterações desta Lei. (Vigência) CAPÍTULO | DO IMPOSTO SOBRE A RENDA DAS PESSOAS JURÍDICAS E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO Ant, 2º O Decreto-Lei nº 1.598, de 26 de dezembro de 1977, passa a vigorar com as seguintes alterações: (Vigência) DA $.6º A escrituração prevista neste artigo deverá ser entregue em meio digital ao Sistema Público de Escrituração Digital - SPED.\" (NR) AS eee\n1- de apuração do lucro real, que será entregue em meio digital, e no qual:\nb) será transcrita a demonstração do lucro real e a apuração do Imposto sobre a Renda; $.1º Completada a ocorrência de cada fato gerador do imposto, o contribuinte deverá elaborar o livro de que trata o inciso | do caput, de forma integrada às escriturações comercial e fiscal, que discriminará: b).os registros de ajuste do lucro líquido, com identificação das contas analíticas do plano de contas e indicação discriminada por lançamento correspondente na escrituração comercial, quando presentes; d)a apuração do Imposto sobre a Renda devido, com a discriminação das deduções, quando aplicáveis; e\ne) demais informações econômico-fiscais da pessoa jurídica. $.3º O disposto neste artigo será disciplinado em ato normativo da Secretaria da Receita Federal do Brasil. $.4º Para fins do disposto na alinea “b” do 8 1º, considera-se conta analítica aquela que registra em último nível os lançamentos contábeis.” (NR) “ Art. 8-A. O sujeito passivo que deixar de apresentar o livro de que trata o inciso | do caput do art. 8º, nos prazos fixados no ato normativo a que se refere o seu $ 3º, ou que o apresentar com inexatidões, incorreções ou omissões, fica sujeito às seguintes multas: | - equivalente a 0,25% (vinte e cinco centésimos por cento), por mês-calendário ou fração, do lucro líquido antes do Imposto de Renda da pessoa jurídica e da Contribuição Social sobre o Lucro Líquido, no período a que se refere a apuração, limitada a 10% (dez por cento) relativamente às pessoas jurídicas que deixarem de apresentar ou apresentarem em atraso o livro; e\n1 - 3% (três por cento), não inferior a R$ 100,00 (cem reais), do valor omitido, inexato ou incorreto. $ 1º A multa de que trata o inciso | do caput será limitada em: |- R$ 100.000,00 (cem mil reais) para as pessoas jurídicas que no ano-calendário anterior tiverem auferido receita bruta total, igual ou inferior a R$ 3.600.000,00 (três milhões e seiscentos mil reais); !- R$ 5.000.000,00 (cinco milhões de reais) para as pessoas jurídicas que não se enquadrarem na hipótese de que trata o inciso | deste parágrafo. 8 2º A multa de que trata o inciso | do caput será reduzida: | - em 90% (noventa por cento), quando o livro for apresentado em até 30 (trinta) dias após o prazo; Il - em 75% (setenta e cinco por cento), quando o livro for apresentado em até 60 (sessenta) dias após o prazo;\n111 - à metade, quando o livro for apresentado depois do prazo, mas antes de qualquer procedimento de ofício; e\nIV - em 25% (vinte e cinco por cento), se houver a apresentação do livro no prazo fixado em intimação. $ 3º A multa de que trata o inciso Il do caput :\n1- não será devida se o sujeito passivo corrigir as inexatidões, incorreções ou omissões antes de iniciado qualquer procedimento de ofício; e Il - será reduzida em 50% (cinquenta por cento) se forem corrigidas as inexatidões, incorreções ou omissões no prazo fixado em intimação. 8 4º Quando não houver lucro líquido, antes do Imposto de Renda e da Contribuição Social, no período de apuração a que se refere a escrituração, deverá ser utilizado o lucro líquido, antes do Imposto de Renda e da Contribuição Social do último período de apuração informado, atualizado pela taxa referencial do Sistema Especial de Liquidação e de Custódia - Selic, até o termo final de encerramento do período a que se refere a escrituração. $ 5º Sem prejuízo das penalidades previstas neste artigo, aplica-se o disposto no art. 47 da Lei nº 8.981, de 20 de janeiro de 1995, à pessoa jurídica que não escriturar o livro de que trata o inciso | do caput do art. 8º da presente Lei de acordo com as disposições da legislação tributária.” * Art, 12, A receita bruta compreende: 1-0 produto da venda de bens nas operações de conta própria; ll-0 preço da prestação de serviços em geral;\n1 - o resultado auferido nas operações de conta alheia; e\nIV - as receitas da atividade ou objeto principal da pessoa jurídica não compreendidas nos incisos | a Ill. $.1º A receita líquida será a receita bruta diminuída de: - devoluções e vendas canceladas; Il - descontos concedidos incondicionalmente;\n1 - tributos sobre ela incidentes; e\nIV - valores decorrentes do ajuste a valor presente, de que trata o inciso VIII do caput do art, 183 da Lei nº 6.404, de 15 de dezembro de 1976, das operações vinculadas à receita bruta. 84º Na receita bruta não se incluem os tributos não cumulativos cobrados, destacadamente, do comprador ou contratante pelo vendedor dos bens ou pelo prestador dos serviços na condição de mero depositário. 5 5º Na receita bruta incluem-se os tributos sobre ela incidentes e os valores decorrentes do ajuste a valor presente, de que trata o inciso VII! do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, das operações previstas no caput, observado o disposto no 8 4º.” (NR) EV Rc $.3º O disposto nas alíneas “c”, “d” e “e” do 8 1º não alcança os encargos de depreciação, amortização e exaustão gerados por bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária. 8 4º No caso de que trata o $ 3º, a pessoa jurídica deverá proceder ao ajuste no lucro liquido para fins de apuração do lucro real, no período de apuração em que o encargo de depreciação, amortização ou exaustão for apropriado como custo de produção.” (NR) * Art, 15. O custo de aquisição de bens do ativo não circulante imobilizado e intangível não poderá ser deduzido como despesa operacional, salvo se o bem adquirido tiver valor unitário não superior a R$ 1.200,00 (mil e duzentos reais) ou prazo de vida útil não superior a 1 (um) ano. rca! (NR) SAMA. err $.1º Sem prejuízo do disposto no art. 13 da Lei nº 9.249, de 26 de dezembro de 1995, os juros pagos ou incorridos pelo contribuinte são dedutíveis como custo ou despesa operacional, observadas as seguintes normas:\na) os juros pagos antecipadamente, os descontos de títulos de crédito, a correção monetária prefixada e o deságio concedido na colocação de debêntures ou títulos de crédito deverão ser apropriados, pro rata tempore, nos exercícios sociais a que competirem:; e\nb) os juros é outros encargos, associados a empréstimos contraídos, especificamente ou não, para financiar a aquisição, construção ou produção de bens classificados como estoques de longa maturação, propriedade para investimentos, ativo imobilizado ou ativo intangível, podem ser registrados como custo do ativo, desde que incorridos até o momento em que os referidos bens estejam prontos para seu uso ou venda. $ 2º Considera-se como encargo associado a empréstimo aquele em que o tomador deve necessariamente incorrer para fins de obtenção dos recursos. & 3º Alternativamente, nas hipóteses a que se refere a alínea “b” do $ 1º , os juros e outros encargos poderão ser excluídos na apuração do lucro real quando incorridos, devendo ser adicionados quando o respectivo ativo for realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa.” (NR) CARAS. rsrs V.- as subvenções para investimento, inclusive mediante isenção e redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos, e as doações, feitas pelo poder público; e\nVI - ganhos ou perdas decorrentes de avaliação de ativo ou passivo com base no valor justo. 8.3º O valor do imposto que deixar de ser pago em virtude das isenções e reduções de que tratam as alíneas “a”, “b”, “c\" e “e” do 8 1º não poderá ser distribuído aos sócios e constituirá a reserva de incentivos fiscais de que trata o art. 195-A da Lei nº 6.404, de 15 de dezembro de 1976, que poderá ser utilizada somente para:\n1- absorção de prejuízos, desde que anteriormente já tenham sido totalmente absorvidas as demais Reservas de Lucros, com exceção da Reserva Legal; ou Il - aumento do capital social. DO imersa\nb) a partilha do acervo líquido da sociedade dissolvida, até o valor do saldo da reserva de que trata o art. 195-A da Lei nº 6,404, de 15 de dezembro de 1976. $.5º A inobservância do disposto nos 88 3º, 4º, 8º e 9º importa em perda da isenção e em obrigação de recolher, com relação à importância distribuída ou valor da reserva não constituída, não recomposta ou absorvida indevidamente, o imposto que deixou de ser pago. 8.º No cálculo da diferença entre as receitas e despesas financeiras a que se refere o inciso | do caput, não serão computadas as receitas e despesas financeiras decorrentes do ajuste a valor presente de que tratam o inciso VI do caput do art, 183 e o inciso li do caput do art. 184 da Lei no 6.404, de 15 de dezembro de 1976. $ 8º Se, no período em que deveria ter sido constituída a reserva de incentivos fiscais de que trata o art. 195-A da Lei nº 6.404, de 15 de dezembro de 1976, a pessoa jurídica tiver apurado prejuízo contábil ou lucro líquido contábil inferior ao valor do imposto que deixou de ser pago na forma prevista no $ 3º , a constituição da reserva deverá ocorrer nos períodos subsequentes. 8 9º Na hipótese do inciso | do & 3º , a pessoa jurídica deverá recompor a reserva à medida que forem apurados lucros nos períodos subsequentes.” (NR) “ Art. 20. O contribuinte que avaliar investimento pelo valor de patrimônio líquido deverá, por ocasião da aquisição da participação, desdobrar o custo de aquisição em:\nIL - mais ou menos-valia, que corresponde à diferença entre o valor justo dos ativos líquidos da investida, na proporção da porcentagem da participação adquirida, e o valor de que trata o inciso | do caput ; é Ill - ágio por rentabilidade futura ( goodwill ), que corresponde à diferença entre o custo de aquisição do investimento e o somatório dos valores de que tratam os incisos | e Il do caput. 8.1º Os valores de que tratam os incisos | a Ill do caput serão registrados em subcontas distintas. 8$.3º O valor de que trata o inciso Il do caput deverá ser baseado em laudo elaborado por perito independente que deverá ser protocolado na Secretaria da Receita Federal do Brasil ou cujo sumário deverá ser registrado em Cartório de Registro de Títulos e Documentos, até o último dia útil do 13º (décimo terceiro) mês subsequente ao da aquisição da participação. 8.5 A aquisição de participação societária sujeita à avaliação pelo valor do patrimônio líquido exige o reconhecimento e a mensuração: | - primeiramente, dos ativos identificáveis adquiridos e dos passivos assumidos a valor justo; e\nII - posteriormente, do ágio por rentabilidade futura ( goodwill ) ou do ganho proveniente de compra vantajosa. $ 6º O ganho proveniente de compra vantajosa de que trata o 8 5º, que corresponde ao excesso do valor justo dos ativos líquidos da investida, na proporção da participação adquirida, em relação ao custo de aquisição do investimento, será computado na determinação do lucro real no período de apuração da alienação ou baixa do investimento. 8 7º A Secretaria da Receita Federal do Brasil disciplinará o disposto neste artigo, podendo estabelecer formas alternativas de registro e de apresentação do laudo previsto no & 3º.” (NR) “ Art, 21. Em cada balanço, o contribuinte deverá avaliar o investimento pelo valor de patrimônio líquido da investida, de acordo com o disposto no art. 248 da Lei nº 6.404, de 15 de dezembro de 1976, e com as seguintes normas: 1-0 valor de patrimônio líquido será determinado com base em balanço patrimonial ou balancete de verificação da investida levantado na mesma data do balanço do contribuinte ou até 2 (dois) meses, no máximo, antes dessa data, com observância da lei comercial, inclusive quanto à dedução das participações nos resultados e da provisão para o imposto sobre a renda; Il - se os critérios contábeis adotados pela investida e pelo contribuinte não forem uniformes, o contribuinte deverá fazer no balanço ou balancete da investida os ajustes necessários para eliminar as diferenças relevantes decorrentes da diversidade de critérios; HI1- 0 balanço ou balancete da investida, levantado em data anterior à do balanço do contribuinte, deverá ser ajustado para registrar os efeitos relevantes de fatos extraordinários ocorridos no período; IV -o prazo de 2 (dois) meses de que trata o inciso | do caput aplica-se aos balanços ou balancetes de verificação das sociedades de que a investida participe, direta ou indiretamente, com investimentos que devam ser avaliados pelo valor de patrimônio líquido para efeito de determinar o valor de patrimônio líquido da investida; V.- o valor do investimento do contribuinte será determinado mediante a aplicação sobre o valor de patrimônio liquido ajustado de acordo com os números anteriores da porcentagem da participação do contribuinte na investida; e\nVI - no caso de filiais, sucursais, controladas e coligadas, domiciliadas no exterior, aplicam-se as normas da legislação correspondente do país de domicílio.” (NR) “Art, 22, O valor do investimento na data do balanço, conforme o disposto no inciso | do caput do art. 20, deverá ser ajustado ao valor de patrimônio líquido determinado de acordo com o disposto no art. 21, mediante lançamento da diferença a débito ou a crédito da conta de investimento.\nParágrafo único. Os lucros ou dividendos distribuídos pela investida deverão ser registrados pelo contribuinte como diminuição do valor do investimento, e não influenciarão as contas de resultado.” (NR) CAL 2S. errei\nParágrafo único. Não serão computadas na determinação do lucro real as contrapartidas de ajuste do valor do investimento ou da redução dos valores de que tratam os incisos II e III do caput do art. 20, derivados de investimentos em sociedades estrangeiras que não funcionem no País.” (NR) “Ajuste Decorrente de Avaliação a Valor Justo na Investida"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 24-A",
+      "t": "Art. 24-A, A contrapartida do ajuste positivo, na participação societária, mensurada pelo patrimônio líquido, decorrente da avaliação pelo valor justo de ativo ou passivo da investida, deverá ser compensada pela baixa do respectivo saldo da mais-valia de que trata o inciso Il do caput do art. 20. $ 1º O ganho relativo à contrapartida de que trata o caput, no caso de bens diferentes dos que serviram de fundamento à mais-valia de que trata o inciso Il do caput do art. 20, ou relativo à contrapartida superior ao saldo da mais- valia, deverá ser computado na determinação do lucro real, salvo se o ganho for evidenciado contabilmente em subconta vinculada à participação societária, com discriminação do bem, do direito ou da obrigação da investida objeto de avaliação com base no valor justo, em condições de permitir a determinação da parcela realizada, liquidada ou baixada em cada período. $ 2º O valor registrado na subconta de que trata o $ 1º será baixado à medida que o ativo da investida for realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, ou quando o passivo da investida for liquidado ou baixado, e o ganho respectivo não será computado na determinação do lucro real nos períodos de apuração em que a investida computar o ganho na determinação do lucro real. 3º O ganho relativo ao saldo da subconta de que trata o $ 1º deverá ser computado na determinação do lucro real do período de apuração em que o contribuinte alienar ou liquidar o investimento. $ 4º A Secretaria da Receita Federal do Brasil irá disciplinar o controle em subcontas de que trata este artigo.” * Art, 24-B, A contrapartida do ajuste negativo na participação societária, mensurada pelo patrimônio líquido, decorrente da avaliação pelo valor justo de ativo ou passivo da investida, deverá ser compensada pela baixa do respectivo saldo da menos-valia de que trata o inciso II do caput do art. 20. $ 1º A perda relativa à contrapartida de que trata o caput, no caso de bens diferentes dos que serviram de fundamento à menos-valia, ou relativa à contrapartida superior ao saldo da menos-valia não será computada na determinação do lucro real e será evidenciada contabilmente em subconta vinculada à participação societária, com discriminação do bem, do direito ou da obrigação da investida objeto de avaliação com base no valor justo, em condições de permitir a determinação da parcela realizada, liquidada ou baixada em cada período. $ 2º O valor registrado na subconta de que trata o 8 1º será baixado à medida que o ativo da investida for realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, ou quando o passivo da investida for liquidado ou baixado, e a perda respectiva não será computada na determinação do lucro real nos períodos de apuração em que a investida computar a perda na determinação do lucro real. $ 3º A perda relativa ao saldo da subconta de que trata o $ 1º poderá ser computada na determinação do lucro real do período de apuração em que o contribuinte alienar ou liquidar o investimento. $ 4º Na hipótese de não ser evidenciada por meio de subconta na forma prevista no 8 1º, a perda será considerada indedutível na apuração do lucro real. $ 5º A Secretaria da Receita Federal do Brasil disciplinará o controle em subcontas de que trata este artigo.” “Redução da Mais ou Menos-Valia e do Goodwill"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 25",
+      "t": "Art. 25. A contrapartida da redução dos valores de que tratam os incisos Il e III do caput do art. 20 não será computada na determinação do lucro real, ressalvado o disposto no art. 33. irrmrrar! (NR) “Atividade Imobiliária - Permuta - Determinação do Custo e Apuração do Lucro Bruto PA A 8.3º Na hipótese de operações de permuta envolvendo unidades imobiliárias, a parcela do lucro bruto decorrente da avaliação a valor justo das unidades permutadas será computada na determinação do lucro real pelas pessoas jurídicas permutantes, quando o imóvel recebido em permuta for alienado, inclusive como parte integrante do custo de outras unidades imobiliárias ou realizado a qualquer título, ou quando, a qualquer tempo, for classificada no ativo não circulante investimentos ou imobilizado. $ 4º O disposto no $ 3º será disciplinado pela Secretaria da Receita Federal do Brasil.” (NR) * Art 29, Na venda a prazo, ou em prestações, com pagamento após o término do período de apuração da venda, o lucro bruto de que trata o $ 1º do art. 27 poderá, para efeito de determinação do lucro real, ser reconhecido proporcionalmente à receita de venda recebida, observadas as seguintes normas:\nIL- por ocasião da venda, será determinada a relação entre o lucro bruto e a receita bruta de venda e, em cada período, será computada, na determinação do lucro real, parte do lucro bruto proporcional à receita recebida no mesmo período;\nIL - a relação entre o lucro bruto e a receita bruta de venda, de que trata o inciso II do caput, deverá ser reajustada sempre que for alterado o valor do orçamento, em decorrência de modificações no projeto ou nas especificações do empreendimento, e apurada diferença entre custo orçado e efetivo, devendo ser computada na determinação do lucro real, do período de apuração desse reajustamento, a diferença de custo correspondente à parte da receita de venda já recebida; Vos ajustes pertinentes ao reconhecimento do lucro bruto, na forma do inciso Il do caput, e da diferença de que trata o inciso Ill do caput deverão ser realizados no livro de apuração do lucro real de que trata o inciso | do caput doart. 8º. cre reemea! (NR) “ Art. 31, Serão classificados como ganhos ou perdas de capital, e computados na determinação do lucro real, os resultados na alienação, inclusive por desapropriação (8 4º ), na baixa por perecimento, extinção, desgaste, obsolescência ou exaustão, ou na liquidação de bens do ativo não circulante, classificados como investimentos, imobilizado ou intangível. $ 1º Ressalvadas as disposições especiais, a determinação do ganho ou perda de capital terá por base o valor contábil do bem, assim entendido o que estiver registrado na escrituração do contribuinte, diminuído, se for o caso, da depreciação, amortização ou exaustão acumulada e das perdas estimadas no valor de ativos. $ 2º Nas vendas de bens do ativo não circulante classificados como investimentos, imobilizado ou intangível, para recebimento do preço, no todo ou em parte, após o término do exercício social seguinte ao da contratação, o contribuinte poderá, para efeito de determinar o lucro real, reconhecer o lucro na proporção da parcela do preço recebida em cada período de apuração. 8.62 A parcela de depreciação anteriormente excluída do lucro líquido na apuração do lucro real deverá ser adicionada na apuração do imposto no período de apuração em que ocorrer a alienação ou baixa do ativo. 8 7º A Secretaria da Receita Federal do Brasil, no âmbito de suas atribuições, disciplinará o disposto neste artigo.” (NR) “ Art, 33, O valor contábil, para efeito de determinar o ganho ou perda de capital na alienação ou liquidação do investimento avaliado pelo valor de patrimônio líquido (art. 20), será a soma algébrica dos seguintes valores: 1L- de que tratam os incisos Il e Ill do caput do art. 20, ainda que tenham sido realizados na escrituração comercial do contribuinte, conforme previsto no art. 25 deste Decreto-Lei; 8$.2º Não será computado na determinação do lucro real o acréscimo ou a diminuição do valor de patrimônio líquido de investimento, decorrente de ganho ou perda por variação na porcentagem de participação do contribuinte no capital social da investida.” (NR) “Despesa com Emissão de Ações"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 38-A",
+      "t": "Art. 38-A, Os custos associados às transações destinadas à obtenção de recursos próprios, mediante a distribuição primária de ações ou bônus de subscrição contabilizados no patrimônio líquido, poderão ser excluídos, na determinação do lucro real, quando incorridos.” “Art, 38-B. A remuneração, os encargos, as despesas e demais custos, ainda que contabilizados no patrimônio liquido, referentes a instrumentos de capital ou de dívida subordinada, emitidos pela pessoa jurídica, exceto na forma de ações, poderão ser excluídos na determinação do lucro real e da base de cálculo de Contribuição Social sobre o Lucro Líquido quando incorridos. $ 1º No caso das entidades de que trata o $ 1º do art, 22 da Lei nº 8.212, de 24 de julho de 1991, a remuneração e os encargos mencionados no caput poderão, para fins de determinação da base de cálculo das contribuições para o PIS/Pasep e Cofins, ser excluídos ou deduzidos como despesas de operações de intermediação financeira. 8 2º O disposto neste artigo não se aplica aos instrumentos previstos no art, 15 da Lei nº 6.404, de 15 de dezembro de 1976. $ 3º Na hipótese de estorno por qualquer razão, em contrapartida de conta de patrimônio líquido, os valores mencionados no caput e anteriormente deduzidos deverão ser adicionados nas respectivas bases de cálculo.”"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 3",
+      "t": "Art. 3º Ficam isentos do Imposto sobre a Renda das Pessoas Físicas os rendimentos recebidos pelos condomínios residenciais constituídos nos termos da Lei nº 4.591, de 16 de dezembro de 1964, limitado a R$ 24.000,00 (vinte e quatro mil reais) por ano- calendário, e desde que sejam revertidos em benefício do condomínio para cobertura de despesas de custeio e de despesas extraordinárias, estejam previstos e autorizados na convenção condominial, não sejam distribuídos aos condôminos e decoram: | - de uso, aluguel ou locação de partes comuns do condomínio; Il - de multas e penalidades aplicadas em decorrência de inobservância das regras previstas na convenção condominial; ou\n11 - de alienação de ativos detidos pelo condomínio. Seção | Ajuste a Valor Presente"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 4",
+      "t": "Art. 4º Os valores decorrentes do ajuste a valor presente, de que trata o inciso VIII do caput do art, 183 da Lei nº 6.404, de 15 de dezembro de 1976 , relativos a cada operação, somente serão considerados na determinação do lucro real no mesmo período de apuração em que a receita ou resultado da operação deva ser oferecido à tributação. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 5",
+      "t": "Art. 5º Os valores decorrentes do ajuste a valor presente, de que trata o inciso III do caput do art, 184 da Lei nº 6.404, de 15 de dezembro de 1976, relativos a cada operação, somente serão considerados na determinação do lucro real no período de apuração em que: (Vigência) |- o bem for revendido, no caso de aquisição a prazo de bem para revenda; Il - o bem for utilizado como insumo na produção de bens ou serviços, no caso de aquisição a prazo de bem a ser utilizado como insumo na produção de bens ou serviços; HI1- o ativo for realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, no caso de aquisição a prazo de ativo não classificável nos incisos | e Il do caput ;\nIV - a despesa for incorrida, no caso de aquisição a prazo de bem ou serviço contabilizado diretamente como despesa; e\nV- o custo for incorrido, no caso de aquisição a prazo de bem ou serviço contabilizado diretamente como custo de produção de bens ou serviços. $ 1º Nas hipóteses previstas nos incisos |, Il e Ill do caput , os valores decorrentes do ajuste a valor presente deverão ser evidenciados contabilmente em subconta vinculada ao ativo. $ 2º Os valores decorrentes de ajuste a valor presente de que trata o caput não poderão ser considerados na determinação do lucro real: |- na hipótese prevista no inciso III do caput, caso o valor realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa não seja dedutível; Il - na hipótese prevista no inciso IV do caput , caso a despesa não seja dedutível; e\nII - nas hipóteses previstas nos incisos |, Il e III do caput , caso os valores decorrentes do ajuste a valor presente não tenham sido evidenciados conforme disposto no $ 1º."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 6",
+      "t": "Art. 6º A Lei nº 9.430, de 27 de dezembro de 1996, passa a vigorar com as seguintes alterações: (Vigência) * Art 2º A pessoa jurídica sujeita a tributação com base no lucro real poderá optar pelo pagamento do imposto, em cada mês, determinado sobre base de cálculo estimada, mediante a aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta definida pelo art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, auferida mensalmente, deduzida das devoluções, vendas canceladas e dos descontos incondicionais concedidos, observado o disposto nos 88. 1º e 2º do art, 29 e nos arts. 30, 32, 34 e 35 da Lei no 8.981, de 20 de janeiro de 1995. eee rmmmmamesne (NR) CALDO. meras 1-0 valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta definida pelo art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, auferida no período de apuração de que trata o art. 1º , deduzida das devoluções e vendas canceladas e dos descontos incondicionais concedidos; e Il - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pelo inciso |, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período. $.1º O ganho de capital nas alienações de investimentos, imobilizados e intangíveis corresponderá à diferença positiva entre o valor da alienação e o respectivo valor contábil. $ 2º Para fins do disposto no $ 1º, poderão ser considerados no valor contábil, e na proporção deste, os respectivos valores decorrentes dos efeitos do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lein? 8.404, de 15 de dezembro de 1976. $3º Os ganhos decorrentes de avaliação de ativo ou passivo com base no valor justo não integrarão a base de cálculo do imposto, no momento em que forem apurados. $ 4º Para fins do disposto no inciso Il do caput, os ganhos e perdas decorrentes de avaliação do ativo com base em valor justo não serão considerados como parte integrante do valor contábil. $ 5º O disposto no $ 4º não se aplica aos ganhos que tenham sido anteriormente computados na base de cálculo do imposto.” (NR) 72 L-o valor resultante da aplicação dos percentuais de que trata o art. 16 da Lei nº 9,249, de 26 de dezembro de 1995, sobre a receita bruta definida pelo art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, auferida no período de apuração de que trata o art. 1º , deduzida das devoluções e vendas canceladas e dos descontos incondicionais concedidos; e Il- os ganhos de capital, os rendimentos e ganhos liquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pelo inciso | do caput, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período. 8.3º O ganho de capital nas alienações de investimentos, imobilizados e intangíveis corresponderá à diferença positiva entre o valor da alienação e o respectivo valor contábil. $ 4º Para fins do disposto no $ 3º , poderão ser considerados no valor contábil, e na proporção deste, os respectivos valores decorrentes dos efeitos do ajuste a valor presente de que trata o inciso IIL do caput do art. 184 da Lei nº 8.404, de 15 de dezembro de 1976, $5º Os ganhos decorrentes de avaliação de ativo ou passivo com base no valor justo não integrarão a base de cálculo do imposto, no momento em que forem apurados. $ 6º Para fins do disposto no inciso Il do caput, os ganhos e perdas decorrentes de avaliação do ativo com base em valor justo não serão considerados como parte integrante do valor contábil. $ 7º O disposto no $ 6º não se aplica aos ganhos que tenham sido anteriormente computados na base de cálculo do imposto.” (NR) CALDO. reermerreerreeeereseresesreseseeesmmes 1-0 ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pelo inciso | do caput, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período.” (NR) * Art. 54. A pessoa jurídica que, até o ano-calendário anterior, houver sido tributada com base no lucro real deverá adicionar à base de cálculo do imposto de renda, correspondente ao primeiro período de apuração no qual houver optado pela tributação com base no lucro presumido ou for tributada com base no lucro arbitrado, os saldos dos valores cuja tributação havia diferido, independentemente da necessidade de controle no livro de que trata o inciso | do caput do art. 8º do Decreto-Lei nº 1.598, de 26 de dezembro de 1977.\" (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 7",
+      "t": "Art. 7º Para fins de determinação do ganho de capital previsto no inciso Il do caput do art. 25 da Lei nº 9.430, de 27 de dezembro de 1996, é vedado o cômputo de qualquer parcela a título de encargos associados a empréstimos, registrados como custo na forma da alínea “b\" do 8 1º do art. 17 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977. (Vigência)\nParágrafo único. O disposto no caput aplica-se também ao ganho de capital previsto no inciso Il do caput do art. 27 e no inciso Il do caput do art. 29 da Lei nº 9.430, de 27 de dezembro de 1996."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 8",
+      "t": "Art. 8º No caso de pessoa jurídica tributada com base no lucro presumido ou arbitrado, as receitas financeiras relativas às variações monetárias dos direitos de crédito e das obrigações do contribuinte, em função da taxa de câmbio, originadas dos saldos de valores a apropriar decorrentes de ajuste a valor presente não integrarão a base de cálculo do imposto sobre a renda. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 9",
+      "t": "Art. 9º A Lei nº 9.249, de 26 de dezembro de 1995, passa a vigorar com as seguintes alterações: (Vigência) A metres $.8º Para fins de cálculo da remuneração prevista neste artigo, serão consideradas exclusivamente as seguintes contas do patrimônio líquido:\n1- capital social; l- reservas de capital; l- reservas de lucros;\nIV - ações em tesouraria; e\nV- prejuízos acumulados. 8.11. O disposto neste artigo aplica-se à Contribuição Social sobre o Lucro Liquido. $ 12. Para fins de cálculo da remuneração prevista neste artigo, a conta capital social, prevista no inciso | do $ 8º deste artigo, inclui todas as espécies de ações previstas no art. 15 da Lei nº 6.404, de 15 de dezembro de 1976, ainda que classificadas em contas de passivo na escrituração comercial.” (NR) CALÃO. reeeseeseaeeereereresesressmas 8.1º No caso de quotas ou ações distribuídas em decorrência de aumento de capital por incorporação de lucros apurados, a partir do mês de janeiro de 1996, ou de reservas constituídas com esses lucros, o custo de aquisição será igual à parcela do lucro ou reserva capitalizado, que corresponder ao sócio ou acionista. $ 2º A não incidência prevista no caput inclui os lucros ou dividendos pagos ou creditados a beneficiários de todas as espécies de ações previstas no art. 15 da Lei nº 6.404, de 15 de dezembro de 1976, ainda que a ação seja classificada em conta de passivo ou que a remuneração seja classificada como despesa financeira na escrituração comercial. $ 3º Não são dedutíveis na apuração do lucro real e da base de cálculo da CSLL os lucros ou dividendos pagos ou creditados a beneficiários de qualquer espécie de ação prevista no art. 15 da Lei nº 6.404, de 15 de dezembro de 1976, ainda que classificados como despesa financeira na escrituração comercial.” (NR) CAMAS imersa VII! - de despesas de depreciação, amortização e exaustão geradas por bem objeto de arrendamento mercantil pela arrendatária, na hipótese em que esta reconheça contabilmente o encargo. eee! (NR) “ Art. 15. A base de cálculo do imposto, em cada mês, será determinada mediante a aplicação do percentual de 8% (oito por cento) sobre a receita bruta auferida mensalmente, observado o disposto no art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, deduzida das devoluções, vendas canceladas e dos descontos incondicionais concedidos, sem prejuizo do disposto nos arts, 30, 32, 34 e 35 da Lei no 8.981, de 20 de janeiro de 1995\ne) prestação de servicos de construção. recuperação. reforma. ampliação ou melhoramento de infraestrutura vinculados a contrato de concessão de servico público. ermeereeeereereemeereemremererserreseerereseermmreeemmmeremmmreseremsse (NR) “Base de cálculo da CSLL - Estimativa e Presumido"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 20",
+      "t": "Art, 20, A base de cálculo da Contribuição Social sobre o Lucro Liquido devida pelas pessoas jurídicas que efetuarem o pagamento mensal ou trimestral a que se referem os arts, 2º , 25 e 27 da Lei nº 9.430, de 27 de dezembro de 1996, corresponderá a 12% (doze por cento) sobre a receita bruta definida pelo art 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977. auferida no período, deduzida das devoluções, vendas canceladas e dos descontos incondicionais concedidos, exceto para as pessoas jurídicas que exerçam as atividades a que se refere o inciso III do 8 1º do art. 15, cujo percentual corresponderá a 32% (trinta e dois por cento). remar! (NR) “Incorporação, Fusão e Cisão"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 21",
+      "t": "Art, 21. A pessoa jurídica que tiver parte ou todo o seu patrimônio absorvido em virtude de incorporação, fusão ou cisão deverá levantar balanço específico para esse fim, observada a legislação comercial. rr! (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 10",
+      "t": "Art. 10. A Lei nº 8.981, de 20 de janeiro de 1995, passa a vigorar com as seguintes alterações: (Vigência) CARL 3O. aereas $.2º O ganho de capital nas alienações de bens ou direitos classificados como investimento, imobilizado ou intangível e de aplicações em ouro, não tributadas na forma do art. 72, corresponderá à diferença positiva verificada entre o valor da alienação e o respectivo valor contábil. org, 9 *º Na apuração dos valores de que rata o caput, deverão ser considerados os respectivos valores decomentes do ajuste a valor presente ce que trata o inciso VI o caput do ar, 183 da Lei nº 6,404, de 15 de dezembro de 84º Para fins do disposto no $ 2º , poderão ser considerados no valor contábil, e na proporção deste, os respectivos valores decorrentes dos efeitos do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 1976. 85º Os ganhos decorrentes de avaliação de ativo ou passivo com base no valor justo não integrarão a base de cálculo do imposto, no momento em que forem apurados. $ 6º Para fins do disposto no caput, os ganhos e perdas decorrentes de avaliação do ativo com base em valor justo não serão considerados como parte integrante do valor contábil. 8 7º O disposto no 8 6º não se aplica aos ganhos que tenham sido anteriormente computados na base de cálculo do imposto.” (NR) $.4º Nas alternativas previstas nos incisos V evido caput, as compras serão consideradas pelos valores totais das operações, devendo ser incluídos os valores decorrentes do ajuste a valor presente de que trata o inciso III do art,"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 11",
+      "t": "Art. 11. Para fins de determinação do lucro real, não serão computadas, no período de apuração em que incorridas, as despesas: (Vigência) | - de organização pré-operacionais ou pré-industriais, inclusive da fase inicial de operação, quando a empresa utilizou apenas parcialmente o seu equipamento ou as suas instalações; e Il - de expansão das atividades industriais.\nParágrafo único. As despesas referidas no caput poderão ser excluídas para fins de determinação do lucro real, em quotas fixas mensais e no prazo mínimo de 5 (cinco) anos, a partir: | - do início das operações ou da plena utilização das instalações, no caso do inciso | do caput; e Il - do início das atividades das novas instalações, no caso do inciso Il do caput."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 12",
+      "t": "Art. 12. As variações monetárias em razão da taxa de câmbio referentes aos saldos de valores a apropriar decorrentes de ajuste a valor presente não serão computadas na determinação do lucro real. (Vigência) Subseção | Ganho"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 13",
+      "t": "Art. 13. O ganho decorrente de avaliação de ativo ou passivo com base no valor justo não será computado na determinação do lucro real desde que o respectivo aumento no valor do ativo ou a redução no valor do passivo seja evidenciado contabilmente em subconta vinculada ao ativo ou passivo. (Vigência) $ 1º O ganho evidenciado por meio da subconta de que trata o caput será computado na determinação do lucro real à medida que o ativo for realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, ou quando o passivo for liquidado ou baixado. 82º O ganho a que se refere o & 1º não será computado na determinação do lucro real caso o valor realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, seja indedutível. $ 3º Na hipótese de não ser evidenciado por meio de subconta na forma prevista no caput, o ganho será tributado. 8 4º Na hipótese de que trata o 8 3º, o ganho não poderá acarretar redução de prejuizo fiscal do período, devendo, neste caso, ser considerado em período de apuração seguinte em que exista lucro real antes do cômputo do referido ganho. 8 5º O disposto neste artigo não se aplica aos ganhos no reconhecimento inicial de ativos avaliados com base no valor justo decorrentes de doações recebidas de terceiros. $ 6º No caso de operações de permuta que envolvam troca de ativo ou passivo de que trata o caput , o ganho decorrente da avaliação com base no valor justo poderá ser computado na determinação do lucro real na medida da realização do ativo ou passivo recebido na permuta, de acordo com as hipóteses previstas nos 88 1º a 4º."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 14",
+      "t": "Art. 14. A perda decorrente de avaliação de ativo ou passivo com base no valor justo somente poderá ser computada na determinação do lucro real à medida que o ativo for realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, ou quando o passivo for liquidado ou baixado, e desde que a respectiva redução no valor do ativo ou aumento no valor do passivo seja evidenciada contabilmente em subconta vinculada ao ativo ou passivo. (Vigência) 8 1º A perda a que se refere este artigo não será computada na determinação do lucro real caso o valor realizado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, seja indedutível. 8 2º Na hipótese de não ser evidenciada por meio de subconta na forma prevista no caput, a perda será considerada indedutível na apuração do lucro real."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 15",
+      "t": "Art. 15. A Secretaria da Receita Federal do Brasil irá disciplinar o controle em subcontas previsto nos arts. 5º, 13 e 14. (Vigência) Subseção | Lucro Presumido para Lucro Real"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 16",
+      "t": "Art. 16. A pessoa jurídica tributada pelo lucro presumido que, em período de apuração imediatamente posterior, passar a ser tributada pelo lucro real deverá incluir na base de cálculo do imposto apurado pelo lucro presumido os ganhos decorrentes de avaliação com base no valor justo, que façam parte do valor contábil, e na proporção deste, relativos aos ativos constantes em seu patrimônio. (Vigência) $ 1º A tributação dos ganhos poderá ser diferida para os períodos de apuração em que a pessoa jurídica for tributada pelo lucro real, desde que observados os procedimentos e requisitos previstos no art. 13. 8 2º As perdas verificadas nas condições do caput somente poderão ser computadas na determinação do lucro real dos períodos de apuração posteriores se observados os procedimentos e requisitos previstos no art. 14. $ 3º O disposto neste artigo aplica-se, também, na hipótese de avaliação com base no valor justo de passivos relacionados a ativos ainda não totalmente realizados na data de transição para o lucro real."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 17",
+      "t": "Art. 17. O ganho decorrente de avaliação com base no valor justo de bem do ativo incorporado ao patrimônio de outra pessoa jurídica, na subscrição em bens de capital social, ou de valores mobiliários emitidos por companhia, não será computado na determinação do lucro real, desde que o aumento no valor do bem do ativo seja evidenciado contabilmente em subconta vinculada à participação societária ou aos valores mobiliários, com discriminação do bem objeto de avaliação com base no valor justo, em condições de permitir a determinação da parcela realizada em cada período. (Vigência) 81º O ganho evidenciado por meio da subconta de que trata o caput será computado na determinação do lucro real:\n1- na alienação ou na liquidação da participação societária ou dos valores mobiliários, pelo montante realizado; sec! ,p'oporcionalmente ao valor realizado, no período-base em que a pessoa jurídica que houver recebido o bem realizar seu valor, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa, ou com ele inegraizar capital de outra pessoa jurídica; ou 1II- na hipótese de bem não sujeito a realização por depreciação, amortização ou exaustão que não tenha sido alienado, baixado ou utilizado na integralização do capital de outra pessoa jurídica, nos 5 (cinco) anos-calendário subsequentes à subscrição em bens de capital social, ou de valores mobiliários emitidos por companhia, à razão de 1/60 (um sessenta avos), no mínimo, para cada mês do período de apuração. 8 2º Na hipótese de não ser evidenciado por meio de subconta na forma prevista no caput, o ganho será tributado. & 3º Na hipótese de que trata o 8 2º, o ganho não poderá acarretar redução de prejuizo fiscal do período e deverá, nesse caso, ser considerado em período de apuração seguinte em que exista lucro real antes do cômputo do referido ganho. 8 4º Na hipótese de a subscrição de capital social de que trata o caput ser feita por meio da entrega de participação societária, será considerada realização, nos termos do inciso III do 8 1º, a absorção do patrimônio da investida, em virtude de incorporação, fusão ou cisão, pela pessoa jurídica que teve o capital social subscrito por meio do recebimento da participação societária. $ 5º O disposto no 8 4º aplica-se inclusive quando a investida absorver, em virtude de incorporação, fusão ou cisão, o patrimônio da pessoa jurídica que teve o capital social subscrito por meio do recebimento da participação societária."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 18",
+      "t": "Art. 18. A perda decorrente de avaliação com base no valor justo de bem do ativo incorporado ao patrimônio de outra pessoa jurídica, na subscrição em bens de capital social, ou de valores mobiliários emitidos por companhia, somente poderá ser computada na determinação do lucro real caso a respectiva redução no valor do bem do ativo seja evidenciada contabilmente em subconta vinculada à participação societária ou aos valores mobiliários, com discriminação do bem objeto de avaliação com base no valor justo, em condições de permitir a determinação da parcela realizada em cada período, e: (Vigência) | - na alienação ou na liquidação da participação societária ou dos valores mobiliários, pelo montante realizado; fal 7 p'oporcionatmente ao valor realizado, no perfockebase em que a pessoa jurídica que houver recebido o bem realizar seu valor, inclusive mediante depreciação, amortização, exsustão, alienação ou baixa, ou com ele intgraizar capital de outra pesena jurídica; ou Il - na hipótese de bem não sujeito a realização por depreciação, amortização ou exaustão que não tenha sido alienado, baixado ou utilizado na integralização do capital de outra pessoa jurídica, a perda poderá ser amortizada nos balanços correspondentes à apuração de lucro real, levantados durante os 5 (cinco) anos-calendário subsequentes à subscrição em bens de capital social, ou de valores mobiliários emitidos por companhia, à razão de 1/60 (um sessenta avos), no máximo, para cada mês do período de apuração. $ 1º Na hipótese de não ser evidenciada por meio de subconta na forma prevista no caput, a perda será considerada indedutível na apuração do lucro real. 8 2º Na hipótese da subscrição de capital social de que trata o caput ser feita por meio da entrega de participação societária, será considerada realização, nos termos do inciso Il do caput, a absorção do patrimônio da investida, em virtude de incorporação, fusão ou cisão pela pessoa jurídica que teve o capital social subscrito por meio do recebimento da participação societária. $ 3º O disposto no 8 2º aplica-se inclusive quando a investida absorver, em virtude de incorporação, fusão ou cisão, o patrimônio da pessoa jurídica que teve o capital social subscrito por meio do recebimento da participação societária."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 19",
+      "t": "Art. 19. A Secretaria da Receita Federal do Brasil irá disciplinar o controle em subcontas de que tratam os arts. 17 e 18. (Vigência) Subseção | Mais -Valia"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 20",
+      "t": "Art. 20. Nos casos de incorporação, fusão ou cisão, o saldo existente na contabilidade, na data da aquisição da participação societária, referente à mais-valia de que trata o inciso Il do caput do art. 20 do Decreto-Lei nº 1,598, de 26 de dezembro de 1977, decorrente da aquisição de participação societária entre partes não dependentes, poderá ser considerado como integrante do custo do bem ou direito que lhe deu causa, para efeito de determinação de ganho ou perda de capital e do cômputo da depreciação, amortização ou exaustão. (Vigência) $ 1º Se o bem ou direito que deu causa ao valor de que trata o caput não houver sido transferido, na hipótese de cisão, para o patrimônio da sucessora, esta poderá, para efeitos de apuração do lucro real, deduzir a referida importância em quotas fixas mensais e no prazo mínimo de 5 (cinco) anos contados da data do evento. & 2º A dedutibilidade da despesa de depreciação, amortização ou exaustão está condicionada ao cumprimento da condição estabelecida no inciso III do caput do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995 . 8 3º O contribuinte não poderá utilizar o disposto neste artigo, quando: 1-0 laudo a que se refere o $.3º do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, não for elaborado e tempestivamente protocolado ou registrado; ou Il - os valores que compõem o saldo da mais-valia não puderem ser identificados em decorrência da não observância do disposto no $ 3º do art. 37 ou no $ 1º do art. 39 desta Lei. $ 4º O laudo de que trata o inciso | do 8 3º será desconsiderado na hipótese em que os dados nele constantes apresentem comprovadamente vícios ou incorreções de caráter relevante. $ 5º A vedação prevista no inciso | do 8 3º não se aplica para participações societárias adquiridas até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 31 de dezembro de 2014, para os não optantes."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 21",
+      "t": "Art. 21. Nos casos de incorporação, fusão ou cisão, o saldo existente na contabilidade, na data da aquisição da participação societária, referente à menos-valia de que trata o inciso Il do caput do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, deverá ser considerado como integrante do custo do bem ou direito que lhe deu causa para efeito de determinação de ganho ou perda de capital e do cômputo da depreciação, amortização ou exaustão. (Vigência) $ 1º Se o bem ou direito que deu causa ao valor de que trata o caput não houver sido transferido, na hipótese de cisão, para o patrimônio da sucessora, esta poderá, para efeitos de apuração do lucro real, diferir o reconhecimento da referida importância, oferecendo à tributação quotas fixas mensais no prazo máximo de 5 (cinco) anos contados da data do evento. 8 2º A dedutibilidade da despesa de depreciação, amortização ou exaustão está condicionada ao cumprimento da condição estabelecida no inciso III do caput do art, 13 da Lei nº 9,249, de 26 de dezembro de 1995 . $ 3º O valor de que trata o caput será considerado como integrante do custo dos bens ou direitos que forem realizados em menor prazo depois da data do evento, quando: !-o laudo a que se refere o 5 3º do art, 20 do Decreto-Lei nº 1,598, de 26 de dezembro de 1977, não for elaborado e tempestivamente protocolado ou registrado; ou Il - os valores que compõem o saldo da menos-valia não puderem ser identificados em decorrência da não observância do disposto no 3º do art. 37 ou no 8 1º do art. 39 desta Lei. 8 4º O laudo de que trata o inciso | do 8 3º será desconsiderado na hipótese em que os dados nele constantes apresentem comprovadamente vícios ou incorreções de caráter relevante. 8 5º A vedação prevista no inciso | do $ 3º não se aplica para participações societárias adquiridas até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 31 de dezembro de 2014, para os não optantes."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 22",
+      "t": "Art. 22. A pessoa jurídica que absorver patrimônio de outra, em virtude de incorporação, fusão ou cisão, na qual detinha participação societária adquirida com ágio por rentabilidade futura ( goodwill ) decorrente da aquisição de participação societária entre partes não dependentes, apurado segundo o disposto no inciso III do caput do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, poderá excluir para fins de apuração do lucro real dos períodos de apuração subsequentes o saldo do referido ágio existente na contabilidade na data da aquisição da participação societária, à razão de 1/60 (um sessenta avos), no máximo, para cada mês do período de apuração. (Vigência) $ 1º O contribuinte não poderá utilizar o disposto neste artigo, quando: 1-0 laudo a que se refere o $ 3º do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, não for elaborado e tempestivamente protocolado ou registrado;\nII - os valores que compõem o saldo do ágio por rentabilidade futura ( goodwill ) não puderem ser identificados em decorrência da não observância do disposto no 8 3º do art. 37 ou no 8 1º do art. 39 desta Lei. $ 2º O laudo de que trata o inciso | do 8 1º será desconsiderado na hipótese em que os dados nele constantes apresentem comprovadamente vícios ou incorreções de caráter relevante. & 3º A vedação prevista no inciso | do 8 1º não se aplica para participações societárias adquiridas até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 31 de dezembro de 2014, para os não optantes. S ubseção IV Ganho por Compra Vantajosa"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 23",
+      "t": "Art. 23, A pessoa jurídica que absorver patrimônio de outra, em virtude de incorporação, fusão ou cisão, na qual detinha participação societária adquirida com ganho proveniente de compra vantajosa, conforme definido no $.6º do art, 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, deverá computar o referido ganho na determinação do lucro real dos períodos de apuração subsequentes à data do evento, à razão de 1/60 (um sessenta avos), no mínimo, para cada mês do período de apuração. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 24",
+      "t": "Art. 24. O disposto nos arts. 20, 21, 22 e 23 aplica-se inclusive quando a empresa incorporada, fusionada ou cindida for aquela que detinha a propriedade da participação societária. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 25",
+      "t": "Art. 25. Para fins do disposto nos aris. 20 e 22, consideram-se partes dependentes quando: (Vigência) | - o adquirente e o alienante são controlados, direta ou indiretamente, pela mesma parte ou partes;\nII - existir relação de controle entre o adquirente e o alienante; HI - o alienante for sócio, titular, conselheiro ou administrador da pessoa jurídica adquirente;\nIV - o alienante for parente ou afim até o terceiro grau, cônjuge ou companheiro das pessoas relacionadas no inciso Ill; ou\nV - em decorrência de outras relações não descritas nos incisos | a IV, em que fique comprovada a dependência societária.\nParágrafo único. No caso de participação societária adquirida em estágios, a relação de dependência entre o(s) alienante(s) e o(s) adquirente(s) de que trata este artigo deve ser verificada no ato da primeira aquisição, desde que as condições do negócio estejam previstas no instrumento negocial."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 26",
+      "t": "Art. 26. Nos casos de incorporação, fusão ou cisão, os ganhos decorrentes de avaliação com base no valor justo na sucedida não poderão ser considerados na sucessora como integrante do custo do bem ou direito que lhe deu causa para efeito de determinação de ganho ou perda de capital e do cômputo da depreciação, amortização ou exaustão. (Vigência)\nParágrafo único. Os ganhos e perdas evidenciados nas subcontas de que tratam os arts. 13 e 14 transferidos em decorrência de incorporação, fusão ou cisão terão, na sucessora, o mesmo tratamento tributário que teriam na sucedida."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 27",
+      "t": "Art. 27. O ganho decorrente do excesso do valor líquido dos ativos identificáveis adquiridos e dos passivos assumidos, mensurados pelos respectivos valores justos, em relação à contraprestação transferida, será computado na determinação do lucro real no período de apuração relativo à data do evento e posteriores, à razão de 1/60 (um sessenta avos), no mínimo, para cada mês do período de apuração. (Vigência)\nParágrafo único. Quando o ganho proveniente de compra vantajosa se referir ao valor de que trata o inciso Il do $.5º do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, deverá ser observado, conforme o caso, o disposto no $ 6º do art. 20 do mesmo Decreto-Lei ou o disposto no art. 22 desta Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 28",
+      "t": "Art. 28. A contrapartida da redução do ágio por rentabilidade futura ( goodwill ), inclusive mediante redução ao valor recuperável, não será computada na determinação do lucro real. (Vigência)\nParágrafo único. Quando a redução se referir ao valor de que trata o inciso III do art, 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, deve ser observado o disposto no art, 25 do mesmo Decreto-Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 29",
+      "t": "Art. 29. Na hipótese de a pessoa jurídica utilizar critério, para determinação da porcentagem do contrato ou da produção executada, distinto dos previstos no $ 1º do art, 10 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, que implique resultado do período diferente daquele que seria apurado com base nesses critérios, a diferença verificada deverá ser adicionada ou excluída, conforme o caso, por ocasião da apuração do lucro real. (Vigência) (Revogado Lei nº 14,789, de 2023) (Produção de efeitos) (Revogado Lei nº 14.789, de 2023) (Produção de efeitos) (Revogado Lei nº 14,789, de 2023) (Produção de efeitos) so ado Li nº 14.799,08\n2023) (Produção de efeitos) (Revogado Lei nº 14.789, de 2023) (Produção de efeitos) exige de cuos reuso cu condições não previo nest engodo old Bonner 165-se RA” esconde nei edi orar ne485-4e 2025 (Borogado Lei 18780 de 2029) TBtoduedo eis) o cixico (EsUoRIo LEITE JE TOO Do GOES (Ear a apa” ceto aeiinlaalivos-o Judeia alide-não-definflsemento jigados fingluido-paia-LioiGoriplomontar-n-100-do-29674-— ffiowogado-pela-Modido-rovisória n4.105- da-2620:— Producdo-ie"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 31",
+      "t": "Art. 31. O prêmio na emissão de debêntures não será computado na determinação do lucro real, desde que: (Vigência) |- a titularidade da debênture não seja de sócio ou titular da pessoa jurídica emitente; e\nII - seja registrado em reserva de lucros específica, que somente poderá ser utilizada para:\na) absorção de prejuizos, desde que anteriormente já tenham sido totalmente absorvidas as demais Reservas de Lucros, com exceção da Reserva Legal; ou\nb) aumento do capital social. $ 1º Na hipótese da alínea “a” do inciso Il do caput, a pessoa jurídica deverá recompor a reserva à medida que forem apurados lucros nos períodos subsequentes. $ 2º O prêmio na emissão de debêntures de que trata o caput será tributado caso não seja observado o disposto no $ 1º ou seja dada destinação diversa da que está prevista no caput, inclusive nas hipóteses de: aco ! - capitalização do valor e posterior restituição de capital aos sócios ou ao titular, mediante redução do capital social, hipótese em que a base para a incidência será o valor restituído, limitado ao valor total das exclusões decorrentes do prêmio na emissão de lebêntures; Il - restituição de capital aos sócios ou ao titular, mediante redução do capital social, nos 5 (cinco) anos anteriores à data da emissão das debêntures, com posterior capitalização do valor do prêmio na emissão de debêntures, hipótese em que a base para a incidência será o valor restituído, limitada ao valor total das exclusões decorrentes de prêmio na emissão de debêntures; ou\n111 - integração à base de cálculo dos dividendos obrigatórios. $3º Se, no período de apuração, a pessoa jurídica apurar prejuízo contábil ou lucro liquido contábil inferior à parcela decorrente de prêmio na emissão de debêntures e, nesse caso, não puder ser constituída como parcela de lucros nos termos do caput, esta deverá ocorrer à medida que forem apurados lucros nos períodos subsequentes. 8 4º A reserva de lucros específica a que se refere o inciso Il do caput, para fins do limite de que trata o art. 199 da Lei nº 6.404, de 15 de dezembro de 1976, terá o mesmo tratamento dado à reserva de lucros prevista no art. 195-A da referida Lei. $ 5º Para fins do disposto no inciso | do caput , serão considerados os sócios com participação igual ou superior a 10% (dez por cento) do capital social da pessoa jurídica emitente."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 32",
+      "t": "Art. 32, O contribuinte poderá reconhecer na apuração do lucro real somente os valores contabilizados como redução ao valor recuperável de ativos que não tenham sido objeto de reversão, quando ocorrer a alienação ou baixa do bem correspondente. (Vigência)\nParágrafo único. No caso de alienação ou baixa de um ativo que compõe uma unidade geradora de caixa, o valor a ser reconhecido na apuração do lucro real deve ser proporcional à relação entre o valor contábil desse ativo e o total da unidade geradora de caixa à data em que foi realizado o teste de recuperabilidade."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 33",
+      "t": "Art. 33. O valor da remuneração dos serviços prestados por empregados ou similares, efetuada por meio de acordo com pagamento baseado em ações, deve ser adicionado ao lucro líquido para fins de apuração do lucro real no periodo de apuração em que o custo ou a despesa forem apropriados. (Vigência) $ 1º A remuneração de que trata o caput será dedutível somente depois do pagamento, quando liquidados em caixa ou outro ativo, ou depois da transferência da propriedade definitiva das ações ou opções, quando liquidados com instrumentos patrimoniais. 8 2º Para efeito do disposto no 8 1º, o valor a ser excluído será: 1-0 efetivamente pago, quando a liquidação baseada em ação for efetuada em caixa ou outro ativo financeiro; ou Il - o reconhecido no patrimônio líquido nos termos da legislação comercial, quando a liquidação for efetuada em instrumentos patrimoniais."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 34",
+      "t": "Art. 34, As aquisições de serviços, na forma do art. 33 e liquidadas com instrumentos patrimoniais, terão efeitos no cálculo dos juros sobre o capital próprio de que trata o art, 9º da Lei nº 9.249, de 26 de dezembro de 1995, somente depois da transferência definitiva da propriedade dos referidos instrumentos patrimoniais. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 35",
+      "t": "Art. 35. No caso de contrato de concessão de serviços públicos em que a concessionária reconhece como receita o direito de exploração recebido do poder concedente, o resultado decorrente desse reconhecimento deverá ser computado no lucro real à medida que ocorrer a realização do respectivo ativo intangível, inclusive mediante amortização, alienação ou baixa. (Vigência) =\" Parágrafo único. Para fins dos pagamentos mensais referidos no art. 2º da Lei nº 9.430, de 27 de dezembro de 1996, a receita mencionada no caput não integrará a base de cálculo, exceto na hipótese prevista no art. 35 da Lei nº 8.981, de 20 de janeiro de"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 36",
+      "t": "Art. 36. No caso de contrato de concessão de serviços públicos, o lucro decorrente da receita reconhecida pela construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo financeiro representativo de direito contratual incondicional de receber caixa ou outro ativo financeiro, poderá ser tributado à medida do efetivo recebimento. (Vigência)\nParágrafo único. Para fins dos pagamentos mensais determinados sobre a base de cálculo estimada de que trata o art. 2º da Lei nº 9.430, de 27 de dezembro de 1996, a concessionária poderá considerar como receita o montante efetivamente recebido."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 37",
+      "t": "Art. 37. No caso de aquisição de controle de outra empresa na qual se detinha participação societária anterior, o contribuinte deve observar as seguintes disposições: (Vigência) 1-0 ganho decorrente de avaliação da participação societária anterior com base no valor justo, apurado na data da aquisição, poderá ser diferido, sendo reconhecido para fins de apuração do lucro real por ocasião da alienação ou baixa do investimento; Il - a perda relacionada à avaliação da participação societária anterior com base no valor justo, apurada na data da aquisição, poderá ser considerada na apuração do lucro real somente por ocasião da alienação ou baixa do investimento; e\nII - o ganho decorrente do excesso do valor justo dos ativos líquidos da investida, na proporção da participação anterior, em relação ao valor dessa participação avaliada a valor justo, também poderá ser diferido, sendo reconhecido para fins de apuração do lucro real por ocasião da alienação ou baixa do investimento. $ 1º Para fins do disposto neste artigo, a pessoa jurídica deverá manter controle dos valores de que tratam o caput no livro de que trata o inciso | do caput do art. 8º do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 , que serão baixados quando do cômputo do ganho ou perda na apuração do lucro real. $ 2º Os valores apurados em decorrência da operação, relativos à participação societária anterior, que tenham a mesma natureza das parcelas discriminadas nos incisos Il e Ill do caput do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 , sujeitam-se ao mesmo disciplinamento tributário dado a essas parcelas. $ 3º Deverão ser contabilizadas em subcontas distintas: |- a mais ou menos-valia e o ágio por rentabilidade futura ( goodwil) relativos à participação societária anterior, existente antes da aquisição do controle; e Il - as variações nos valores a que se refere o inciso |, em decorrência da aquisição do controle. $ 4º O disposto neste artigo aplica-se aos demais casos em que o contribuinte avalia a valor justo a participação societária anterior no momento da aquisição da nova participação societária. Subseção | Incorporação, Fusão e Cisão"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 38",
+      "t": "Art. 38. Na hipótese tratada no art. 37, caso ocorra incorporação, fusão ou cisão: (Vigência) | - deve ocorrer a baixa dos valores controlados no livro de que trata o inciso | do caput do art. 8º do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, a que se refere o 8 1º do art. 37, sem qualquer efeito na apuração do lucro real; Il - não deve ser computada na apuração do lucro real a variação da mais-valia ou menos-valia de que trata o inciso Il do $ 3º do art. 37, que venha a ser:\na) considerada contabilmente no custo do ativo ou no valor do passivo que lhe deu causa; ou\nb) baixada, na hipótese de o ativo ou o passivo que lhe deu causa não integrar o patrimônio da sucessora; e\n111 - não poderá ser excluída na apuração do lucro real a variação do ágio por rentabilidade futura ( goodwill ) de que trata o inciso II do 8 3º do art. 37.\nParágrafo único. Excetuadas as hipóteses previstas nos incisos II e III do caput, aplica-se ao saldo existente na contabilidade, na data da aquisição da participação societária, referente a mais ou menos-valia e ao ágio por rentabilidade futura ( goodwill ) de que tratam os incisos |Le Ill do caput do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, o disposto nos arts. 20 a 22 da presente Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 39",
+      "t": "Art. 39. Nas incorporações, fusões ou cisões de empresa não controlada na qual se detinha participação societária anterior que não se enquadrem nas situações previstas nos arts. 37 e 38, não terá efeito na apuração do lucro real: (Vigência) 1-0 ganho ou perda decorrente de avaliação da participação societária anterior com base no valor justo, apurado na data do evento; e Il - o ganho decorrente do excesso do valor justo dos ativos líquidos da investida, na proporção da participação anterior, em relação ao valor dessa participação avaliada a valor justo. $ 1º Deverão ser contabilizadas em subcontas distintas: |- a mais ou menos-valia e o ágio por rentabilidade futura ( goodwill ) relativos à participação societária anterior, existentes antes da incorporação, fusão ou cisão; e Il - as variações nos valores a que se refere o inciso |, em decorrência da incorporação, fusão ou cisão. $ 2º Não deve ser computada na apuração do lucro real a variação da mais-valia ou menos-valia de que trata o inciso Il do $ 1º, que venha a ser: |- considerada contabilmente no custo do ativo ou no valor do passivo que lhe deu causa; ou Il - baixada, na hipótese de o ativo ou o passivo que lhe deu causa não integrar o patrimônio da sucessora. $ 3º Não poderá ser excluída na apuração do lucro real a variação do ágio por rentabilidade futura ( goodwill) de que trata o inciso II do 8 1º. $ 4º Excetuadas as hipóteses previstas nos 86 2º e 3º, aplica-se ao saldo existente na contabilidade, na data da aquisição da participação societária, referente a mais ou menos-valia e ao ágio por rentabilidade futura ( goodwill ) de que tratam os incisos Ile do caput do art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 , o disposto nos arts. 20 a 22 da presente Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 40",
+      "t": "Art. 40. O art. 57 da Lei nº 4.506, de 30 de novembro de 1964, passa a vigorar com as seguintes alterações: (Vigência) CARL ST ememmerereererrerssmremresrmeos $.1º A quota de depreciação dedutível na apuração do imposto será determinada mediante a aplicação da taxa anual de depreciação sobre o custo de aquisição do ativo. $.15. Caso a quota de depreciação registrada na contabilidade do contribuinte seja menor do que aquela calculada com base no $ 3º , a diferença poderá ser excluída do lucro líquido na apuração do lucro real, observando-se o disposto no 8 6º. $ 16. Para fins do disposto no $ 15, a partir do período de apuração em que o montante acumulado das quotas de depreciação computado na determinação do lucro real atingir o limite previsto no $ 6º, o valor da depreciação, registrado na escrituração comercial, deverá ser adicionado ao lucro líquido para efeito de determinação do lucro real.” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 41",
+      "t": "Art. 41. A amortização de direitos classificados no ativo não circulante intangível é considerada dedutível na determinação do lucro real, observado o disposto no inciso Ill do caput do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995 . (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 42",
+      "t": "Art. 42. Poderão ser excluídos, para fins de apuração do lucro real, os gastos com desenvolvimento de inovação tecnológica referidos no inciso | do caput e no $.2º do art, 17 da Lei nº 11.196, de 21 de novembro de 2005, quando registrados no ativo não circulante intangível, no período de apuração em que forem incorridos e observado o disposto nos arts. 22 a 24 da referida Lei. (Vigência)\nParágrafo único. O contribuinte que utilizar o benefício referido no caput deverá adicionar ao lucro líquido, para fins de apuração do lucro real, o valor da realização do ativo intangível, inclusive por amortização, alienação ou baixa."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 43",
+      "t": "Art. 43. Os prejuízos decorrentes da alienação de bens e direitos do ativo imobilizado, investimento e intangível, ainda que reclassificados para o ativo circulante com intenção de venda, poderão ser compensados, nos períodos de apuração subsequentes ao de sua apuração, somente com lucros de mesma natureza, observado o limite previsto no art. 15 da Lei nº 9.065, de 20 de junho de 1995. (Vigência) np erágreto único. O disposto no caput não se aplica em relação às perdas decorrentes de baixa de bens ou direitos em virtude de terem se tornado imprestáveis ou obsoletos ou terem caído em desuso, ainda que posteriormente venham a ser alienados como sucata."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 44",
+      "t": "Art. 44, No caso de contratos de concessão de serviços públicos, a receita reconhecida pela construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo intangível representativo de direito de exploração, não integrará a base de cálculo do imposto sobre a renda, quando se tratar de imposto sobre a renda apurado com base no lucro presumido ou arbitrado. (Vigência)\nParágrafo único. O ganho de capital na alienação do ativo intangível a que se refere o caput corresponderá à diferença positiva entre o valor da alienação e o valor dos custos incorridos na sua obtenção, deduzido da correspondente amortização. S eção XXI Custos Estimados de Desmontagens"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 45",
+      "t": "Art. 45. Os gastos de desmontagem e retirada de item de ativo imobilizado ou restauração do local em que está situado somente serão dedutiveis quando efetivamente incorridos. (Vigência) $ 1º Caso constitua provisão para gastos de desmontagem e retirada de item de ativo imobilizado ou restauração do local em que está situado, a pessoa jurídica deverá proceder ao ajuste no lucro líquido para fins de apuração do lucro real, no período de apuração em que o imobilizado for realizado, inclusive por depreciação, amortização, exaustão, alienação ou baixa. $ 2º Eventuais efeitos contabilizados no resultado, provenientes de ajustes na provisão de que trata o $ 1º ou de atualização de seu valor, não serão computados na determinação do lucro real."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 46",
+      "t": "Art. 46. Na hipótese de operações de arrendamento mercantil que não estejam sujeitas ao tratamento tributário previsto pela Lei nº 6.099, de 12 de setembro de 1974, as pessoas jurídicas arrendadoras deverão reconhecer, para fins de apuração do lucro real, o resultado relativo à operação de arrendamento mercantil proporcionalmente ao valor de cada contraprestação durante o período de vigência do contrato. (Vigência) $ 1º A pessoa jurídica deverá proceder, caso seja necessário, aos ajustes ao lucro líquido para fins de apuração do lucro real, no livro de que trata o inciso | do caput do art. 8º do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 . $ 2º O disposto neste artigo aplica-se somente às operações de arrendamento mercantil em que há transferência substancial dos riscos e benefícios inerentes à propriedade do ativo. $ 3º Para efeitos do disposto neste artigo, entende-se por resultado a diferença entre o valor do contrato de arrendamento e somatório dos custos diretos iniciais e o custo de aquisição ou construção dos bens arrendados. $ 4º Na hipótese de a pessoa jurídica de que trata o caput ser tributada pelo lucro presumido ou arbitrado, o valor da contraprestação deverá ser computado na determinação da base de cálculo do imposto sobre a renda."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 47",
+      "t": "Art. 47, Poderão ser computadas na determinação do lucro real da pessoa jurídica arrendatária as contraprestações pagas ou creditadas por força de contrato de arrendamento mercantil, referentes a bens móveis ou imóveis intrinsecamente relacionados com a produção ou comercialização dos bens e serviços, inclusive as despesas financeiras nelas consideradas. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 48",
+      "t": "Art. 48. São indedutíveis na determinação do lucro real as despesas financeiras incorridas pela arrendatária em contratos de arrendamento mercantil. (Vigência)\nParágrafo único. O disposto no caput também se aplica aos valores decorrentes do ajuste a valor presente, de que trata o inciso IIl do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 1976 ."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 49",
+      "t": "Art. 49. Aos contratos não tipificados como arrendamento mercantil que contenham elementos contabilizados como arrendamento mercantil por força de normas contábeis e da legislação comercial serão aplicados os dispositivos a seguir indicados: (Vigência) | - inciso VUII do caput do art. 13 da Lei nº 9.249, de 26 de dezembro de 1995, com a redação dada pelo art. 9º ; l-88.3º e 4º do art, 13 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, com a redação dada pelo art. 2º; Il - arts. 46,47 6 48;\nIV- $ 18 do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002, com a redação dada pelo art, 54;\nV- 8.26 do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003, com a redação dada pelo art. 55; e\nVI - 8.14 do art. 15 da Lei nº 10.865, de 30 de abril de 2004, com a redação dada pelo art. 53,\nParágrafo único. O disposto neste artigo restringe-se aos elementos do contrato contabilizados em observância às normas contábeis que tratam de arrendamento mercantil."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 50",
+      "t": "Art. 50. Aplicam-se à apuração da base de cálculo da CSLL as disposições contidas nos arts. 2º a 8º, 10 a 42 e 44 a 49. (Vigência) $ 1º Aplicam-se à CSLL as disposições contidas no art. 8º do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, devendo ser informados no livro de apuração do lucro real: |-0s lançamentos de ajustes do lucro líquido do período, relativos a adições, exclusões ou compensações prescritas ou autorizadas pela legislação tributária; Il - a demonstração da base de cálculo e o valor da CSLL devida com a discriminação das deduções, quando aplicáveis; e\nII - os registros de controle de base de cálculo negativa da CSLL a compensar em períodos subsequentes, e demais valores que devam influenciar a determinação da base de cálculo da CSLL de período futuro e não constem de escrituração comercial. $ 2º Aplicam-se à CSLL as disposições contidas no inciso Il do caput do art. 8º-A do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 , exceto nos casos de registros idênticos para fins de ajuste nas bases de cálculo do IRPJ e da CSLL que deverão ser considerados uma única vez."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 51",
+      "t": "Art. 51. O art. 2º da Lei nº 7.689, de 15 de dezembro de 1988, passa a vigorar com a seguinte redação: (Vigência) A erre &5- exclusão dos lucros e dividendos derivados de participações societárias em pessoas jurídicas domiciliadas no Brasil que tenham sido computados como receita; cereais” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 52",
+      "t": "Art. 52. A Lei nº 9.718, de 27 de novembro de 1998, passa a vigorar com as seguintes alterações: (Vigência) * Art. 3º O faturamento a que se refere o art. 2º compreende a receita bruta de que trata o art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977. 1-as vendas canceladas e os descontos incondicionais concedidos;\nIL- as reversões de provisões e recuperações de créditos baixados como perda, que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimento pelo valor do patrimônio líquido e os lucros e dividendos derivados de participações societárias, que tenham sido computados como receita bruta; IV -a receita decorrente da venda de bens classificados no ativo não circulante que tenha sido computada como receita bruta; mo VI. a receita reconhecida pela construção, recuperação, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo intangível representativo de direito de exploração, no caso de contratos de concessão de serviços públicos. $ 13. A contribuição incidente na hipótese de contratos, com prazo de execução superior a 1 (um) ano, de construção por empreitada ou de fornecimento, a preço predeterminado, de bens ou serviços a serem produzidos será calculada sobre a receita apurada de acordo com os critérios de reconhecimento adotados pela legislação do imposto sobre a renda, previstos para a espécie de operação.” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 53",
+      "t": "Art. 53. A Lei nº 10.865, de 30 de abril de 2004, passa a vigorar com as seguintes alterações: (Vigência) CAMAS, reeeeeseeereeeseeseeserseeseeseesresersrees 8.13, No cálculo do crédito de que trata o inciso V do caput : 1-os valores decorrentes do ajuste a valor presente de que trata o inciso Ill do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 1976, poderão ser considerados como parte integrante do custo ou valor de aquisição; e 1! - não serão computados os ganhos e perdas decorrentes de avaliação de ativo com base no valor justo. 8.14, O disposto no inciso V do caput não se aplica no caso de bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária.” (NR) PA 8.3º O disposto no $ 2º não se aplica aos valores decorrentes do ajuste a valor presente de que trata o inciso VIll do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976. \" (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 54",
+      "t": "Art. 54. A Lei nº 10.637, de 30 de dezembro de 2002, passa a vigorar com as seguintes alterações: (Vigência) * Art, 1º A Contribuição para o PIS/Pasep, com a incidência não cumulativa, incide sobre o total das receitas auferidas no mês pela pessoa jurídica, independentemente de sua denominação ou classificação contábil. $.1º Para efeito do disposto neste artigo, o total das receitas compreende a receita bruta de que trata o art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e todas as demais receitas auferidas pela pessoa jurídica com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976. $.2º A base de cálculo da Contribuição para o PIS/Pasep é o total das receitas auferidas pela pessoa jurídica, conforme definido no caput e no 8 1º. b).reversões de provisões e recuperações de créditos baixados como perda, que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de participações societárias, que tenham sido computados como receita;\nVI - de que trata o i nciso IV do caput do art. 187 da Lei nº 6.404, de 15 de dezembro de 1976, decorrentes da venda de bens do ativo não circulante, classificado como investimento, imobilizado ou intangível; VIIl = financeiras decorrentes do ajuste a valor presente de que trata o i nciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, referentes a receitas excluídas da base de cálculo da Contribuição para o PIS/Pasep;\nIX- relativas aos ganhos decorrentes de avaliação de ativo e passivo com base no valor justo;\nX- de subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos e de doações feitas pelo poder público; X! - reconhecidas pela construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo intangível representativo de direito de exploração, no caso de contratos de concessão de serviços públicos;\nXII - relativas ao valor do imposto que deixar de ser pago em virtude das isenções e reduções de que tratam as alíneas “a”, “b”, “c” e “e” do 8 1º do art, 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 ; e\nXIII - relativas ao prêmio na emissão de debêntures.” (NR) DA XL-bens incorporados ao ativo intangível, adquiridos para utilização na produção de bens destinados a venda ou na prestação de serviços.\nIIL- dos encargos de depreciação e amortização dos bens mencionados nos incisos VI, VII e XI do caput, incorridos no mês; 8.17. No cálculo do crédito de que tratam os incisos do caput, poderão ser considerados os valores decorrentes do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lei nº 6.404, de 15 de dezembro de 1976. $ 18. O disposto nos incisos VI e VII do caput não se aplica no caso de bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária. $ 19. Para fins do disposto nos incisos VI e VII do caput, fica vedado o desconto de quaisquer créditos calculados em relação a: |- encargos associados a empréstimos registrados como custo na forma da alínea “b” do 8 1º do art. 17 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 ; é Il - custos estimados de desmontagem e remoção do imobilizado e de restauração do local em que estiver situado. $ 20. No cálculo dos créditos a que se referem os incisos VI e VII do caput, não serão computados os ganhos e perdas decorrentes de avaliação de ativo com base no valor justo. $ 21. Na execução de contratos de concessão de serviços públicos, os créditos gerados pelos serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, quando a receita correspondente tiver contrapartida em ativo intangível, representativo de direito de exploração, ou em ativo financeiro, somente poderão ser aproveitados, no caso do ativo intangível, à medida que este for amortizado e, no caso do ativo financeiro, na proporção de seu recebimento, excetuado, para ambos os casos, o crédito previsto no inciso VI do caput. $ 22. O disposto no inciso XI do caput não se aplica ao ativo intangível referido no $ 21. (NR)\nX- (VETADO); O =)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 55",
+      "t": "Art, 55. A Lei nº 10.833, de 29 de dezembro de 2003, passa a vigorar com as seguintes alterações: (Vigência) “Art. 1º A Contribuição para o Financiamento da Seguridade Social - Cofins, com a incidência não cumulativa, incide sobre o total das receitas auferidas no mês pela pessoa jurídica, independentemente de sua denominação ou classificação contábil. $.1º Para efeito do disposto neste artigo, o total das receitas compreende a receita bruta de que trata o art, 12 do Decreto-Lei nº 1,598, de 26 de dezembro de 1977, e todas as demais receitas auferidas pela pessoa jurídica com os seus respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, 8.2º A base de cálculo da Cofins é o total das receitas auferidas pela pessoa jurídica, conforme definido no caput e no $ 1º. IL= de que trata o inciso |V do caput do art. 187 da Lei nº 6.404, de 15 de dezembro de 1976, decorrentes da venda de bens do ativo não circulante, classificado como investimento, imobilizado ou intangível;\nb) reversões de provisões e recuperações de créditos baixados como perda que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de participações societárias, que tenham sido computados como receita; VIL = financeiras decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976, referentes a receitas excluídas da base de cálculo da Cofins; VIII relativas aos ganhos decorrentes de avaliação do ativo e passivo com base no valor justo;\nIX - de subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos e de doações feitas pelo poder público;\nX - reconhecidas pela construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo intangível representativo de direito de exploração, no caso de contratos de concessão de serviços públicos;\nXI- relativas ao valor do imposto que deixar de ser pago em virtude das isenções e reduções de que tratam as alíneas “a”, “b”, “c” e *e” do 8 1º do art. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 ; e\nXII - relativas ao prêmio na emissão de debêntures.” (NR) A ir eseseeseemrsemrrrsersesersemertmr XL-bens incorporados ao ativo intangível, adquiridos para utilização na produção de bens destinados a venda ou na prestação de serviços. JL - dos encargos de depreciação e amortização dos bens mencionados nos incisos VI, VIl e XI do caput, incorridos no mês; 8.25. No cálculo do crédito de que tratam os incisos do caput, poderão ser considerados os valores decorrentes do ajuste a valor presente de que trata o inciso lILdo caput do art, 184 da Lei nº 6.404, de 15 de dezembro de 1976. 8 26. O disposto nos incisos VI e VII do caput não se aplica no caso de bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária. $ 27. Para fins do disposto nos incisos VI e VII do caput, fica vedado o desconto de quaisquer créditos calculados em relação a: - encargos associados a empréstimos registrados como custo na forma da alínea “b” do 8 1º do art. 17 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 ; é\nII - custos estimados de desmontagem e remoção do imobilizado e de restauração do local em que estiver situado. $ 28. No cálculo dos créditos a que se referem os incisos VI e VII do caput, não serão computados os ganhos e perdas decorrentes de avaliação de ativo com base no valor justo. $ 29. Na execução de contratos de concessão de serviços públicos, os créditos gerados pelos serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, quando a receita correspondente tiver contrapartida em ativo intangível, representativo de direito de exploração, ou em ativo financeiro, somente poderão ser aproveitados, no caso do ativo intangível, à medida que este for amortizado e, no caso do ativo financeiro, na proporção de seu recebimento, excetuado, para ambos os casos, o crédito previsto no inciso VI do caput. $ 30. O disposto no inciso XI do caput não se aplica ao ativo intangível referido no $ 29.º (NR) CARLO. resets\na) (VETADO); XX.- as receitas decorrentes da execução por administração, empreitada ou subempreitada, de obras de construção civil, incorridas até o ano de 2019, inclusive; eee” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 56",
+      "t": "Art. 56. No caso de contrato de concessão de serviços públicos, a receita decorrente da construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo financeiro representativo de direito contratual incondicional de receber caixa ou outro ativo financeiro, integrará a base de cálculo da contribuição para o PIS/Pasep e da Cofins, à medida do efetivo recebimento. (Vigência). (Vide Lei Complementar nº 214, de 2025) Produção de efeitos Seção | Arrendamento Mercantil"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 57",
+      "t": "Art. 57. No caso de operação de arrendamento mercantil não sujeita ao tratamento tributário previsto na Lei nº 6,099, de 12 de setembro de 1974, em que haja transferência substancial dos riscos e benefícios inerentes à propriedade do ativo, o valor da contraprestação deverá ser computado na base de cálculo da Contribuição para o PIS/Pasep e da Cofins pela pessoa jurídica arrendadora. (Vigência) (Vide Lei Complementar nº 214, de 2025) Produção de efeitos\nParágrafo único. As pessoas jurídicas sujeitas ao regime de tributação de que tratam as Leis nºs 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, poderão descontar créditos calculados sobre o valor do custo de aquisição ou construção dos bens arrendados proporcionalmente ao valor de cada contraprestação durante o período de vigência do contrato."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 58",
+      "t": "Art. 58. A modificação ou a adoção de métodos e critérios contábeis, por meio de atos administrativos emitidos com base em competência atribuída em lei comercial, que sejam posteriores à publicação desta Lei, não terá implicação na apuração dos tributos federais até que lei tributária regule a matéria. (Vigência)\nParágrafo único. Para fins do disposto no caput , compete à Secretaria da Receita Federal do Brasil, no âmbito de suas atribuições, identificar os atos administrativos e dispor sobre os procedimentos para anular os efeitos desses atos sobre a apuração dos tributos federais."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 59",
+      "t": "Art. 59. Para fins da legislação tributária federal, as referências a provisões alcançam as perdas estimadas no valor de ativos, inclusive as decorrentes de redução ao valor recuperável. (Vigência)\nParágrafo único. A Secretaria da Receita Federal do Brasil, no âmbito de suas atribuições, disciplinará o disposto neste artigo."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 60",
+      "t": "Art. 60. As disposições contidas na legislação tributária sobre reservas de reavaliação aplicam-se somente aos saldos remanescentes na escrituração comercial em 31 de dezembro de 2013, para os optantes conforme o art. 75, ou em 31 de dezembro de 2014, para os não optantes, e até a sua completa realização. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 61",
+      "t": "Art. 61. A falta de registro na escrituração comercial das receitas e despesas relativas aos resultados não realizados a que se referem o inciso | do caput do art. 248 e o inciso Ill do caput do art. 250 da Lei nº 6.404, de 15 de dezembro de 1976 , não elide a tributação de acordo com a legislação de regência. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 62",
+      "t": "Art. 62. O contribuinte do imposto sobre a renda deverá, para fins tributários, reconhecer e mensurar os seus ativos, passivos, receitas, custos, despesas, ganhos, perdas e rendimentos com base na moeda nacional. (Vigência) 8 1º Na hipótese de o contribuinte adotar, para fins societários, moeda diferente da moeda nacional no reconhecimento e na mensuração de que trata o caput , a diferença entre os resultados apurados com base naquela moeda e na moeda nacional deverá ser adicionada ou excluída na determinação do lucro real. 8 2º Os demais ajustes de adição, exclusão ou compensação prescritos ou autorizados pela legislação tributária para apuração da base de cálculo do imposto deverão ser realizados com base nos valores reconhecidos e mensurados nos termos do caput . $ 3º O disposto neste artigo aplica-se também à apuração do imposto sobre a renda com base no lucro presumido ou arbitrado, da Contribuição Social sobre o Lucro Liquido - CSLL, da Contribuição para o PIS/Pasep e da Cofins. $4º A Secretaria da Receita Federal do Brasil definirá controles específicos no caso da ocorrência da hipótese prevista no 8 1º. Seção | Avaliação a Valor Justo"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 63",
+      "t": "Art. 63, Para fins de avaliação a valor justo de instrumentos financeiros, no caso de operações realizadas em mercados de liquidação futura sujeitos a ajustes de posições, não se considera como hipótese de liquidação ou baixa o pagamento ou recebimento de tais ajustes durante a vigência do contrato, permanecendo aplicáveis para tais operações: (Vigência) | - 0 art, 110 da Lei nº 11.196, de 21 de novembro de 2005, no caso de instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil; e Il - os arts, 32 e 33 da Lei nº 11.051, de 29 de dezembro de 2004, no caso das demais pessoas jurídicas."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 64",
+      "t": "Art. 64. Para as operações ocorridas até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 31 de dezembro de 2014, para os não optantes, permanece a neutralidade tributária estabelecida nos arts. 15 e 16 da Lei nº 11.941, de 27 de maio de 2009, e a pessoa jurídica deverá proceder, nos períodos de apuração a partir de janeiro de 2014, para os optantes conforme o art. 75, ou a partir de janeiro de 2015, para os não optantes, aos respectivos ajustes nas bases de cálculo do IRPJ, da CSLL, da Contribuição para o PIS/Pasep e da Cofins, observado o disposto nos arts. 66 e 67. (Vigência)\nParágrafo único. As participações societárias de caráter permanente serão avaliadas de acordo com a Lei nº 6.404, de 15 de dezembro de 1976."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 65",
+      "t": "Art. 65. As disposições contidas nos arts. 7º e 8º da Lei nº 9.532, de 10 de dezembro de 1997, e nos arts. 35 e 37 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977. continuam a ser aplicadas somente às operações de incorporação, fusão e cisão, ocorridas até 31 de dezembro de 2017, cuja participação societária tenha sido adquirida até 31 de dezembro de 2014. (Vigência)\nParágrafo único. No caso de aquisições de participações societárias que dependam da aprovação de órgãos reguladores e fiscalizadores para a sua efetivação, o prazo para incorporação de que trata o caput poderá ser até 12 (doze) meses da data da aprovação da operação."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 66",
+      "t": "Art. 66. Para fins do disposto no art. 64, a diferença positiva, verificada em 31 de dezembro de 2013, para os optantes conforme o art. 75, ou em 31 de dezembro de 2014, para os não optantes, entre o valor de ativo mensurado de acordo com as disposições da Lei nº 6,404, de 15 de dezembro de 1976, e o valor mensurado pelos métodos e critérios vigentes em 31 de dezembro de 2007, deve ser adicionada na determinação do lucro real e da base de cálculo da CSLL em janeiro de 2014, para os optantes conforme o art. 75, ou em janeiro de 2015, para os não optantes, salvo se o contribuinte evidenciar contabilmente essa diferença em subconta vinculada ao ativo, para ser adicionada à medida de sua realização, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa. (Vigência)\nParágrafo único. O disposto no caput aplica-se à diferença negativa do valor de passivo e deve ser adicionada na determinação do lucro real e da base de cálculo da CSLL em janeiro de 2014, para os optantes conforme o art. 75, ou em janeiro de 2015, para os não optantes, salvo se o contribuinte evidenciar contabilmente essa diferença em subconta vinculada ao passivo para ser adicionada à medida da baixa ou liquidação."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 67",
+      "t": "Art. 67. Para fins do disposto no art. 64, a diferença negativa, verificada em 31 de dezembro de 2013, para os optantes conforme o art. 75, ou em 31 de dezembro de 2014, para os não optantes, entre o valor de ativo mensurado de acordo com as disposições da Lei nº 6.404, de 15 de dezembro de 1976, e o valor mensurado pelos métodos e critérios vigentes em 31 de dezembro de 2007 não poderá ser excluída na determinação do lucro real e da base de cálculo da CSLL, salvo se o contribuinte evidenciar contabilmente essa diferença em subconta vinculada ao ativo para ser excluída à medida de sua realização, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa. (Vigência)\nParágrafo único. O disposto no caput aplica-se à diferença positiva no valor do passivo e não pode ser excluída na determinação do lucro real e da base de cálculo da CSLL, salvo se o contribuinte evidenciar contabilmente essa diferença em subconta vinculada ao passivo para ser excluída à medida da baixa ou liquidação."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 68",
+      "t": "Art. 68. O disposto nos arts. 64 a 67 será disciplinado pela Secretaria da Receita Federal do Brasil, que poderá instituir controles fiscais alternativos à evidenciação contábil de que tratam os arts. 66 e 67 e instituir controles fiscais adicionais. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 69",
+      "t": "Art. 69. No caso de contrato de concessão de serviços públicos, o contribuinte deverá: (Vigência) 1 calcular o resultado tributável acumulado até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 31 de dezembro de 2014, para os não optantes, considerados os métodos e critérios vigentes em 31 de dezembro de 2007; Il - calcular o resultado tributável acumulado até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 31 de dezembro de 2014, para os não optantes, consideradas as disposições desta Lei e da Lei nº 6,404, de 15 de dezembro de 1976 ;\n11 - calcular a diferença entre os valores referidos nos incisos | e Il do caput; e\nIV - adicionar, se negativa, ou excluir, se positiva, a diferença referida no inciso Ill do caput, na apuração do lucro real e da base de cálculo da CSLL, em quotas fixas mensais e durante o prazo restante de vigência do contrato. $ 1º A partir de 1º de janeiro de 2014, para os optantes conforme o art. 75, ou a partir de 1º de janeiro de 2015, para os não optantes, o resultado tributável de todos os contratos de concessão de serviços públicos será determinado consideradas as disposições desta Lei e da Lei nº 6.404, de 15 de dezembro de 1976. 8 2º O disposto neste artigo aplica-se ao valor a pagar da Contribuição para o PIS/Pasep e da Cofins. (Vide Lei Complementar nº 214, de 2025) Produção de efeitos"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 70",
+      "t": "Art. 70. O saldo de prejuizos não operacionais de que trata o art. 31 da Lei nº 9.249, de 26 de dezembro de 1995, existente em 31 de dezembro de 2013, para os optantes conforme o art. 75, ou em 31 de dezembro de 2014, para os não optantes, somente poderá ser compensado com os lucros a que se refere o art. 43 da presente Lei, observado o limite previsto no art. 15 da Lei nº 9.065, de 20 de junho de 1995. (Vigência) DISPOSIÇÕES ESPECÍFICAS RELATIVAS ÀS INSTITUIÇÕES FINANCEIRAS E DEMAIS AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL DO BRASIL"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 71",
+      "t": "Art. 71. A escrituração de que trata o art. 177 da Lei nº 6.404, de 15 de dezembro de 1976, quando realizada por instituições financeiras e demais autorizadas a funcionar pelo Banco Central do Brasil, deve observar as disposições do art. 61 da Lei nº 11.941, de 27 de maio de 2009. (Vigência)\nParágrafo único. Para fins tributários, a escrituração de que trata o caput não afeta os demais dispositivos desta Lei, devendo inclusive ser observado o disposto no art. 58."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 72",
+      "t": "Art. 72. Os lucros ou dividendos calculados com base nos resultados apurados entre 1º de janeiro de 2008 e 31 de dezembro de 2013 pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, em valores superiores aos apurados com observância dos métodos e critérios contábeis vigentes em 31 de dezembro de 2007, não ficarão sujeitos à incidência do imposto de renda na fonte, nem integrarão a base de cálculo do imposto de renda e da Contribuição Social sobre o Lucro Líquido do beneficiário, pessoa fisica ou jurídica, residente ou domiciliado no País ou no exterior."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 73",
+      "t": "Art. 73. Para os anos-calendário de 2008 a 2014, para fins do cálculo do limite previsto no art. 9º da Lei nº 9.249, de 26 de dezembro de 1995, a pessoa jurídica poderá utilizar as contas do patrimônio líquido mensurado de acordo com as disposições da Lei nº 6.404, de 15 de dezembro de 1976, $ 1º No cálculo da parcela a deduzir prevista no caput , não serão considerados os valores relativos a ajustes de avaliação patrimonial a que se refere o $ 3º do art. 182 da Lei nº 6.404, de 15 de dezembro de 1976 $ 2º No ano-calendário de 2014, a opção ficará restrita aos não optantes das disposições contidas nos arts. 1º e 2º e 4º a 70 desta Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 74",
+      "t": "Art. 74. Para os anos-calendário de 2008 a 2014, o contribuinte poderá avaliar o investimento pelo valor de patrimônio líquido da coligada ou controlada, determinado de acordo com as disposições da Lei nº 6.404, de 15 de dezembro de 1976.\nParágrafo único. No ano-calendário de 2014, a opção ficará restrita aos não optantes das disposições contidas nos arts. 1º e 2º e 4º a 70 desta Lei,"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 75",
+      "t": "Art. 75. A pessoa jurídica poderá optar pela aplicação das disposições contidas nos arts. 1º e 2º e 4º a 70 desta Lei para o ano-calendário de 2014. (Vide artigo 11981) $ 1º A opção será irretratável e acarretará a observância de todas as alterações trazidas pelos arts. 1º e 2º e 4º a 70 e os efeitos dos incisos | a VI, VIII e X do caput do art. 117 a partir de 1º de janeiro de 2014. $ 2º A Secretaria da Receita Federal do Brasil definirá a forma, o prazo e as condições da opção de que trata o caput ."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 76",
+      "t": "Art. 76. A pessoa jurídica controladora domiciliada no Brasil ou a ela equiparada, nos termos do art. 83, deverá registrar em subcontas da conta de investimentos em controlada direta no exterior, de forma individualizada, o resultado contábil na variação do valor do investimento equivalente aos lucros ou prejuízos auferidos pela própria controlada direta e suas controladas, direta ou indiretamente, no Brasil ou no exterior, relativo ao ano-calendário em que foram apurados em balanço, observada a proporção de sua participação em cada controlada, direta ou indireta. (Vigência) $ 1º Dos resultados das controladas diretas ou indiretas não deverão constar os resultados auferidos por outra pessoa jurídica sobre a qual a pessoa jurídica controladora domiciliada no Brasil mantenha o controle direto ou indireto. $ 2º A variação do valor do investimento equivalente ao lucro ou prejuízo auferido no exterior será convertida em reais, para efeito da apuração da base de cálculo do imposto de renda e da CSLL, com base na taxa de câmbio da moeda do país de origem fixada para venda, pelo Banco Central do Brasil, correspondente à data do levantamento de balanço da controlada direta ou indireta. $ 3º Caso a moeda do país de origem do tributo não tenha cotação no Brasil, o seu valor será convertido em dólares dos Estados Unidos da América e, em seguida, em reais. Seção | Das Controladoras"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 77",
+      "t": "Art. 77. A parcela do ajuste do valor do investimento em controlada, direta ou indireta, domiciliada no exterior equivalente aos lucros por ela auferidos antes do imposto sobre a renda, excetuando a variação cambial, deverá ser computada na determinação do lucro real e na base de cálculo da Contribuição Social sobre o Lucro Líquido - CSLL da pessoa jurídica controladora domiciliada no Brasil, observado o disposto no art. 76. (Vigência) $ 1º A parcela do ajuste de que trata o caput compreende apenas os lucros auferidos no período, não alcançando as demais parcelas que influenciaram o patrimônio líquido da controlada, direta ou indireta, domiciliada no exterior. $ 2º O prejuizo acumulado da controlada, direta ou indireta, domiciliada no exterior referente aos anos-calendário anteriores à produção de efeitos desta Lei poderá ser compensado com os lucros futuros da mesma pessoa jurídica no exterior que lhes deu origem, desde que os estoques de prejuízos sejam informados na forma e prazo estabelecidos pela RFB. Er 7 mm Brasi , q $ 3º Até 31 de dezembro de 2019, a parcela do lucro auferido no exterior por controlada, direta ou indireta, ou coligada, correspondente às atividades de afretamento por tempo ou casco nu, arrendamento mercantil operacional, aluguel, empréstimo de bens ou prestação de serviços diretamente relacionados às fases de exploração e de produção de petróleo e de gás natural no território brasileiro não será computada na determinação do lucro real e na base de cálculo da CSLL da pessoa jurídica controladora domiciliada no País. (Redação dada pela Lei nº 13.586, de2017) (Produção de efeito) $ 4º O disposto no $ 3º aplica-se somente nos casos de controlada, direta ou indireta, ou coligada no exterior de pessoa jurídica brasileira: | - detentora de concessão ou autorização nos termos da Lei nº 9.478, de 6 de agosto de 1997, ou sob o regime de partilha de produção de que trata a Lei nº 12.351, de 22 de dezembro de 2010, ou sob o regime de cessão onerosa previsto na Lei nº 12.276, de 30 de junho de 2010 ; Il - contratada pela pessoa jurídica de que trata o inciso |. $ 5º O disposto no $ 3º aplica-se inclusive nos casos de coligada de controlada direta ou indireta de pessoa jurídica brasileira."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 78",
+      "t": "Art. 78. Até o ano-calendário de 2029, as parcelas de que trata o art. 77 desta Lei poderão ser consideradas de forma consolidada na determinação do lucro real e da base de cálculo da CSLL da controladora no Brasil, excepcionadas as parcelas referentes às pessoas jurídicas investidas que se encontrem em, pelo menos, uma das seguintes situações: (Redação dada pela Lei nº 15.079, de 2024) (Produção de efeitos) | - estejam situadas em país com o qual o Brasil não mantenha tratado ou ato com cláusula específica para troca de informações para fins tributários;\nII - estejam localizadas em país ou dependência com tributação favorecida, ou sejam beneficiárias de regime fiscal privilegiado, de que tratam os arts. 24 e 24-A da Lei nº 9.430, de 27 de dezembro de 1996, ou estejam submetidas a regime de tributação definido no inciso IIl do caput do art. 84 da presente Lei; ll - sejam controladas, direta ou indiretamente, por pessoa jurídica submetida a tratamento tributário previsto no inciso Il do caput ; ou\nIV - tenham renda ativa própria inferior a 80% (oitenta por cento) da renda total, nos termos definidos no art. 84. $ 1º A consolidação prevista neste artigo deverá conter a demonstração individualizada em subcontas prevista no art. 76 e a demonstração das rendas ativas e passivas na forma e prazo estabelecidos pela Secretaria da Receita Federal do Brasil - RFB. 8 2º O resultado positivo da consolidação prevista no caput deverá ser adicionado ao lucro líquido relativo ao balanço de 31 de dezembro do ano-calendário em que os lucros tenham sido apurados pelas empresas domiciliadas no exterior para fins de determinação do lucro real e da base de cálculo da CSLL da pessoa jurídica controladora domiciliada no Brasil. $ 3º No caso de resultado negativo da consolidação prevista no caput, a controladora domiciliada no Brasil deverá informar à RFB as parcelas negativas utilizadas na consolidação, no momento da apuração, na forma e prazo por ela estabelecidos. $ 4º Após os ajustes decorrentes das parcelas negativas de que trata o 8 3º, nos prejuizos acumulados, o saldo remanescente de prejuizo de cada pessoa jurídica poderá ser utilizado na compensação com lucros futuros das mesmas pessoas jurídicas no exterior que lhes deram origem, desde que os estoques de prejuízos sejam informados na forma e prazo estabelecidos pela RFB. $ 5º O prejuízo auferido no exterior por controlada de que tratam os $$ 3º, 4º e 5º do art. 77 não poderá ser utilizado na consolidação a que se refere este artigo. $ 6º A opção pela consolidação de que trata este artigo é irretratável para o ano-calendário correspondente. 8 7º Na ausência da condição do inciso | do caput, a consolidação será admitida se a controladora no Brasil disponibilizar a contabilidade societária em meio digital e a documentação de suporte da escrituração, na forma e prazo a ser estabelecido pela RFB, mantidas as demais condições."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 79",
+      "t": "Art. 79. Quando não houver consolidação, nos termos do art. 78, a parcela do ajuste do valor do investimento em controlada, direta ou indireta, domiciliada no exterior equivalente aos lucros ou prejuizos por ela auferidos deverá ser considerada de forma individualizada na determinação do lucro real e da base de cálculo da CSLL da pessoa jurídica controladora domiciliada no Brasil, nas seguintes formas: (Vigência) |- se positiva, deverá ser adicionada ao lucro liquido relativo ao balanço de 31 de dezembro do ano-calendário em que os lucros tenham sido apurados pela empresa domiciliada no exterior; e ag, !- Sº negativa, poderá ser compensada com lucros futuros da mesma pessoa jurídica no exterior que lhes deu arigem, desde que os estoques de prejuízos sejam informados na forma e prazo estabelecidos pela Secretaria da Receita Federal do Brasi -"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 80",
+      "t": "Art 80. O disposto nesta Seção aplica-se à coligada equiparada à controladora nos termos do art. 83. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 81",
+      "t": "Art. 81. Os lucros auferidos por intermédio de coligada domiciliada no exterior serão computados na determinação do lucro real e da base de cálculo da CSLL no balanço levantado no dia 31 de dezembro do ano-calendário em que tiverem sido disponibilizados para a pessoa jurídica domiciliada no Brasil, desde que se verifiquem as seguintes condições, cumulativamente, relativas à investida: (Vigência) (Revogado pela Lei nº 15.079, de 2024) Produção de efeitos\nII - não esteja localizada em país ou dependência com tributação favorecida, ou não seja beneficiária de regime fiscal privilegiado, de que tratam os arts. 24 e 24-A da Lei nº 9.430, de 27 de dezembro de 1996 ; Il - não seja controlada, direta ou indiretamente, por pessoa jurídica submetida a tratamento tributário previsto no inciso |. 8 1º Para efeitos do disposto neste artigo, os lucros serão considerados disponibilizados para a empresa coligada no Brasil | - na data do pagamento ou do crédito em conta representativa de obrigação da empresa no exterior; Il - na hipótese de contratação de operações de mútuo, se a mutuante, coligada, possuir lucros ou reservas de lucros; ou 1I1- na hipótese de adiantamento de recursos efetuado pela coligada, por conta de venda futura, cuja liquidação, pela remessa do bem ou serviço vendido, ocorra em prazo superior ao ciclo de produção do bem ou serviço. 8 2º Para efeitos do disposto no inciso | do $ 1º, considera-se: - creditado o lucro, quando ocorrer a transferência do registro de seu valor para qualquer conta representativa de passivo exigível da coligada domiciliada no exterior; e\n1 - pago o lucro, quando ocorrer:\na) o crédito do valor em conta bancária, em favor da coligada no Brasil;\nb) a entrega, a qualquer título, a representante da beneficiária;\nc) a remessa, em favor da beneficiária, para o Brasil ou para qualquer outra praça; ou\nd) o emprego do valor, em favor da beneficiária, em qualquer praça, inclusive no aumento de capital da coligada, domiciliada no exterior. 8 3º Os lucros auferidos por intermédio de coligada domiciliada no exterior que não atenda aos requisitos estabelecidos no caput serão tributados na forma do art. 82. 84º O disposto neste artigo não se aplica às hipóteses em que a pessoa jurídica coligada domiciliada no Brasil for equiparada à controladora nos termos do art. 83. 8 5º Para fins do disposto neste artigo, equiparam-se à condição de coligada os empreendimentos controlados em conjunto com partes não vinculadas."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 82",
+      "t": "Art. 82. Na hipótese em que se verifique o descumprimento de pelo menos uma das condições previstas no caput do art. 81, o resultado na coligada domiciliada no exterior equivalente aos lucros ou prejuizos por ela apurados deverá ser computado na determinação do lucro real e na base de cálculo da CSLL da pessoa jurídica investidora domiciliada no Brasil, nas seguintes formas: (Vigência) |- se positivo, deverá ser adicionado ao lucro liquido relativo ao balanço de 31 de dezembro do ano-calendário em que os lucros tenham sido apurados pela empresa domiciliada no exterior; e arg, !“ 5º Negativo, poderá ser compensado com lucros futuros da mesma pessoa jurídica no exterior que lhes deu arigem, desde que os estoques de prejuízos sejam informados na forma e prazo estabelecidos pela Secretaria da Receita Federal do Brasi - $ 1º Os resultados auferidos por intermédio de outra pessoa jurídica, na qual a coligada no exterior mantiver qualquer tipo de participação societária, ainda que indiretamente, serão consolidados no seu balanço para efeito de determinação do lucro real e da base de cálculo da CSLL da coligada no Brasil. $ 2º O disposto neste artigo não se aplica às hipóteses em que a pessoa jurídica coligada domiciliada no Brasil é equiparada à controladora nos termos do art. 83."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 82-A",
+      "t": "Art. 82-A. Opcionalmente, a pessoa jurídica domiciliada no Brasil poderá oferecer à tributação os lucros auferidos por intermédio de suas coligadas no exterior na forma prevista no art. 82, independentemente do descumprimento das condições previstas no caput do art. 81. (Incluído pela Lei nº 13.259, de 2016) Produção de efeito 8 1º O disposto neste artigo não se aplica às hipóteses em que a pessoa jurídica coligada domiciliada no Brasil é equiparada à controladora, nos termos do art. 83. (Incluído pela Lei nº 13.259, de 2016) Produção de efeito $ 2º A Secretaria da Receita Federal do Brasil estabelecerá a forma e as condições para a opção de que trata o caput. (Incluído pela Lei nº 13,259, de 2016) Produção de efeito"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 83",
+      "t": "Art. 83, Para fins do disposto nesta Lei, equipara-se à condição de controladora a pessoa jurídica domiciliada no Brasil que detenha participação em coligada no exterior e que, em conjunto com pessoas físicas ou jurídicas residentes ou domiciliadas no Brasil ou no exterior, consideradas a ela vinculadas, possua mais de 50% (cinquenta por cento) do capital votante da coligada no exterior. (Vigência)\nParágrafo único. Para efeitos do disposto no caput, será considerada vinculada à pessoa jurídica domiciliada no Brasil: | - a pessoa física ou jurídica cuja participação societária no seu capital social a caracterize como sua controladora, direta ou indireta, na forma definida nos 881º e 2º do art. 243 da Lei nº 6,404, de 15 de dezembro de 1976; Il - a pessoa jurídica que seja caracterizada como sua controlada, direta ou indireta, ou coligada, na forma definida nos $8.1º e 2º do art. 243 da Lei nº 6.404, de 15 de dezembro de 1976 ; HI1- a pessoa jurídica quando esta e a empresa domiciliada no Brasil estiverem sob controle societário ou administrativo comum ou quando pelo menos 10% (dez por cento) do capital social de cada uma pertencer a uma mesma pessoa física ou jurídica;\nIV - a pessoa física ou jurídica que seja sua associada, na forma de consórcio ou condomínio, conforme definido na legislação brasileira, em qualquer empreendimento; V-- a pessoa física que for parente ou afim até o terceiro grau, cônjuge ou companheiro de qualquer de seus conselheiros, administradores, sócios ou acionista controlador em participação direta ou indireta; e\nVI - a pessoa jurídica residente ou domiciliada em país com tributação favorecida ou beneficiária de regime fiscal privilegiado, conforme dispõem os arts. 24 e 24-A da Lei nº 9.430, de 27 de dezembro de 1996, desde que não comprove que seus controladores não estejam enquadrados nos incisos | a V."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 84",
+      "t": "Art. 84. Para fins do disposto nesta Lei, considera-se: (Vigência) |- renda ativa própria - aquela obtida diretamente pela pessoa jurídica mediante a exploração de atividade econômica própria, excluídas as receitas decorrentes de:\na) royalties;\nb) juros;\nc) dividendos;\nd) participações societárias;\ne) aluguéis;\nf) ganhos de capital, salvo na alienação de participações societárias ou ativos de caráter permanente adquiridos há mais de 2 (dois) anos;\n9) aplicações financeiras; e\nh) intermediação financeira.\nII - renda total - somatório das receitas operacionais e não operacionais, conforme definido na legislação comercial do país de domicílio da investida; e (Revogado pela Lei nº 15.079, de 2024) Produção de efeitos $1º As alíneas “b\", “g” e “h” do inciso | não se aplicam às instituições financeiras reconhecidas e autorizadas a funcionar pela autoridade monetária do país em que estejam situadas. 8 2º Poderão ser considerados como renda ativa própria os valores recebidos a título de dividendos ou a receita decorrente de participações societárias relativos a investimentos efetuados até 31 de dezembro de 2013 em pessoa jurídica cuja receita ativa própria seja igual ou superior a 80% (oitenta por cento) $ 3º O Poder Executivo poderá reduzir a alíquota nominal de que trata o inciso Ill do caput para até 15% (quinze por cento), ou a restabelecer, total ou parcialmente."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 85",
+      "t": "Art. 85. Para fins de apuração do imposto sobre a renda e da CSLL devida pela controladora no Brasil, poderá ser deduzida da parcela do lucro da pessoa jurídica controlada, direta ou indireta, domiciliada no exterior, a parcela do lucro oriunda de participações destas em pessoas jurídicas controladas ou coligadas domiciliadas no Brasil. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 86",
+      "t": "Art. 86. Poderão ser deduzidos do lucro real e da base de cálculo da CSLL os valores referentes às adições, espontaneamente efetuadas, decorrentes da aplicação das regras de preços de transferência previstas nos arts. 1º a 37 da lei decorrente da conversão da Medida Provisória nº 1.152, de 28 de dezembro de 2022, e das regras previstas nos arts. 24, 25 e 26 da Lei nº 12.249, de 11 de junho de 2010, desde que os lucros auferidos no exterior tenham sido considerados na respectiva base de cálculo do IRPJ e da CSLL da pessoa jurídica controladora domiciliada no Brasil ou a ela equiparada, nos termos do art. 83 desta Lei, e cujos imposto sobre a renda e contribuição social correspondentes, em quaisquer das hipóteses, tenham sido recolhidos. (Redação dada pela Lei nº 14.596, de 2023) Vigência $ 1º A dedução de que trata o caput | - deve referir-se a operações efetuadas com a respectiva controlada, direta ou indireta, da qual o lucro seja proveniente; Il - deve ser proporcional à participação na controlada no exterior;\nII - deve estar limitada ao valor do lucro auferido pela controlada no exterior; e\nIV - deve ser limitada ao imposto devido no Brasil em razão dos ajustes previstos no caput . $ 2º O disposto neste artigo aplica-se à hipótese prevista no art. 82. Ant. 87, A pessoa jurídica poderá deduzir, na proporção de sua participação, o imposto sobre a renda pago no exterior pela controlada direta ou indireta, incidente sobre as parcelas positivas computadas na determinação do lucro real da controladora no Brasil, até o limite dos tributos sobre a renda incidentes no Brasil sobre as referidas parcelas. (Vigência) $ 1º Para efeitos do disposto no caput deste artigo, considera-se imposto sobre a renda o tributo que incida sobre lucros, independentemente da denominação oficial adotada, inclusive imposto a título de tributação mínima, bem como do fato de ser este de competência de unidade da federação do país de origem e de o pagamento ser exigido em dinheiro ou outros bens, desde que comprovado por documento oficial emitido pela administração tributária estrangeira, inclusive quanto ao imposto retido na fonte sobre o lucro distribuído para a controladora brasileira. (Redação dada pela Lei nº 15.079, de 2024) (Produção de efeitos) $ 1º-A, Para fins da dedução do imposto a título de tributação mínima a que se refere o $ 1º deste artigo, a determinação do montante do imposto pago pela controlada direta ou indireta da pessoa jurídica deverá observar regulamentação a ser editada pela $ 2º No caso de consolidação, deverá ser considerado para efeito da dedução prevista no caput o imposto sobre a renda pago pelas pessoas jurídicas cujos resultados positivos tiverem sido consolidados. $ 3º No caso de não haver consolidação, a dedução de que trata o caput será efetuada de forma individualizada por controlada, direta ou indireta. $ 4º O valor do tributo pago no exterior a ser deduzido não poderá exceder o montante do imposto sobre a renda e adicional, devidos no Brasil, sobre o valor das parcelas positivas dos resultados, incluído na apuração do lucro real. $ 5º O tributo pago no exterior a ser deduzido será convertido em reais, tomando-se por base a taxa de câmbio da moeda do pais de origem fixada para venda pelo Banco Central do Brasil, correspondente à data do balanço apurado ou na data da disponibilização. $ 6º Caso a moeda do país de origem do tributo não tenha cotação no Brasil, o seu valor será convertido em dólares dos Estados Unidos da América e, em seguida, em reais. $ 7º Na hipótese de os lucros da controlada, direta ou indireta, virem a ser tributados no exterior em momento posterior àquele em que tiverem sido tributados pela controladora domiciliada no Brasil, a dedução de que trata este artigo deverá ser efetuada no balanço correspondente ao ano-calendário em que ocorrer a tributação, ou em ano-calendário posterior, e deverá respeitar os limites previstos nos 58 4º e 8º deste artigo. $ 8º O saldo do tributo pago no exterior que exceder o valor passível de dedução do valor do imposto sobre a renda e adicional devidos no Brasil poderá ser deduzido do valor da CSLL, devida em virtude da adição à sua base de cálculo das parcelas positivas dos resultados oriundos do exterior, até o valor devido em decorrência dessa adição. $ 9º Para fins de dedução, o documento relativo ao imposto sobre a renda pago no exterior deverá ser reconhecido pelo respectivo órgão arrecadador e pelo Consulado da Embaixada Brasileira no país em que for devido o imposto. $ 10, Até o ano-calendário de 2029, a controladora no Brasil poderá deduzir até 9% (nove por cento), a título de crédito presumido, sobre a renda incidentes sobre a parcela positiva computada no lucro real, observados o disposto no $ 2º deste artigo e as condições previstas nos incisos | e IV do caput do art. 91 desta Lei, relativos a investimento em pessoas jurídicas no exterior que realizem as atividades de fabricação de bebidas, de fabricação de produtos alimentícios e de construção de edifícios e de obras de infraestrutura, além das demais indústrias em geral. (Redação dada pela Lei nº 15.079, de 2024) (Produção de efeitos) 8 11. O Poder Executivo poderá, desde que não resulte em prejuizo aos investimentos no País, ampliar o rol de atividades com investimento em pessoas jurídicas no exterior de que trata o 8 10. $ 12. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 88",
+      "t": "Art. 88. A pessoa jurídica coligada domiciliada no Brasil poderá deduzir do imposto sobre a renda ou da CSLL devidos o imposto sobre a renda retido na fonte no exterior incidente sobre os dividendos que tenham sido computados na determinação do lucro real e da base de cálculo da CSLL, desde que sua coligada no exterior se enquadre nas condições previstas no art. 81, observados os limites previstos nos 88 4º e 8º do art. 87. (Vigência)\nParágrafo único. Na hipótese de a retenção do imposto sobre a renda no exterior vir a ocorrer em momento posterior àquele em que tiverem sido considerados no resultado da coligada domiciliada no Brasil, a dedução de que trata este artigo somente poderá ser efetuada no balanço correspondente ao ano-calendário em que ocorrer a retenção, e deverá respeitar os limites previstos no caput . ' a h h - , ” \""
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 89",
+      "t": "Art. 89. A matriz e a pessoa jurídica controladora ou a ela equiparada, nos termos do art. 83, domiciliadas no Brasil poderão considerar como imposto pago, para fins da dedução de que trata o art. 87, o imposto sobre a renda retido na fonte no Brasil e no exterior, na proporção de sua participação, decorrente de rendimentos recebidos pela filial, sucursal ou controlada, domiciliadas no exterior. (Redação dada pela Lei nº 13,043, de 2014) $ 1º O disposto no caput somente será permitido se for reconhecida a receita total auferida pela filial, sucursal ou controlada, com a inclusão do imposto retido. (Incluído pela Lei nº 13.043, de 2014) $ 2º Para o imposto sobre a renda retido na fonte no exterior, o valor do imposto a ser considerado está limitado ao valor que o país de domicílio do beneficiário do rendimento permite que seja aproveitado na apuração do imposto devido pela filial, sucursal ou controlada no exterior. (Incluído pela Lei nº 13.043, de 2014)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 90",
+      "t": "Art. 90. À opção da pessoa jurídica, o imposto sobre a renda e a CSLL devidos decorrentes do resultado considerado na apuração da pessoa jurídica domiciliada no Brasil, nos termos dos arts. 77 a 80 e 82, poderão ser pagos na proporção dos lucros distribuídos nos anos subsequentes ao encerramento do período de apuração a que corresponder, observado o 8º (oitavo) ano subsequente ao período de apuração para a distribuição do saldo remanescente dos lucros ainda não oferecidos a tributação, assim como a distribuição mínima de 12,50% (doze inteiros e cinquenta centésimos por cento) no 1º (primeiro) ano subsequente. (Vigência) $ 1º No caso de infração ao art. 91, será aplicada multa isolada de 75% (setenta e cinco por cento) sobre o valor do tributo declarado. $ 2º A opção, na forma prevista neste artigo, aplica-se, exclusivamente, ao valor informado pela pessoa jurídica domiciliada no Brasil em declaração que represente confissão de dívida e constituição do crédito tributário, relativa ao período de apuração dos resultados no exterior, na forma estabelecida pela Receita Federal do Brasil - RFB. $ 3º No caso de fusão, cisão, incorporação, encerramento de atividade ou liquidação da pessoa jurídica domiciliada no Brasil, o pagamento do tributo deverá ser feito até a data do evento ou da extinção da pessoa jurídica, conforme o caso. $ 4º O valor do pagamento, a partir do 2º (segundo) ano subsequente, será acrescido de juros calculados com base na taxa London Interbank Offered Rate - Libor, para depósitos em dólares dos Estados Unidos da América pelo prazo de 12 (doze) meses, referente ao último dia útil do mês civil imediatamente anterior ao vencimento, acrescida da variação cambial dessa moeda, definida pelo Banco Central do Brasil, pro rata tempore , acumulados anualmente, calculados na forma definida em ato do Poder Executivo, sendo os juros dedutíveis na apuração do lucro real e da base de cálculo da CSLL."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 91",
+      "t": "Art. 91. A opção pelo pagamento do imposto sobre a renda e da CSLL, na forma do art. 90, poderá ser realizada somente em relação à parcela dos lucros decorrentes dos resultados considerados na apuração da pessoa jurídica domiciliada no Brasil de controlada, direta ou indireta, no exterior: (Vigência) (Revogado pela Lei nº 15.079, de 2024) Produção de efeitos Il - não localizada em país ou dependência com tributação favorecida, ou não beneficiária de regime fiscal privilegiado, de que tratam os arts, 24 e 24-A da Lei nº 9.430, de 27 de dezembro de 1996 ;\n111 - não controlada, direta ou indiretamente, por pessoa jurídica submetida ao tratamento tributário previsto no inciso Il do caput ; e\nIV - que tenha renda ativa própria igual ou superior a 80% (oitenta por cento) da sua renda total, conforme definido no art. 84."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 92",
+      "t": "Art. 92. Aplica-se o disposto nos arts. 77 a 80 e nos arts. 85 a 91 ao resultado obtido por filial ou sucursal, no exterior. (Vigência)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 93",
+      "t": "Art. 93. A Lei nº 12.865, de 9 de outubro de 2013, passa a vigorar com as seguintes alterações: * Art, 17, O prazo previsto no $ 12 do art. 1º e no art, 7º da Lei nº 11,941, de 27 de maio de 2009, bem como o prazo previsto no 5 18 do art, 65 da Lei nº 12.249, de 11 de junho de 2010, passa a ser o do último dia útil do segundo mês subsequente ao da publicação da Lei decorrente da conversão da Medida Provisória nº 627, de 11 de novembro de 2013, atendidas as condições estabelecidas neste artigo. $.5º Aplica-se aos débitos pagos ou parcelados, na forma do art. 65 da Lei nº 12.249, de 11 de junho de 2010, o disposto no parágrafo único do art. 4º da Lei nº 11.941, de 27 de maio de 2009, bem como o disposto no $ 16 do art. 39 desta Lei, para os pagamentos ou parcelas ocorridos após 1º de janeiro de 2014. $ 6º Os percentuais de redução previstos nos arts. 1º e 3º da Lei nº 11.941, de 27 de maio de 2009, serão aplicados sobre o valor do débito atualizado à época do depósito e somente incidirão sobre o valor das multas de mora e de ofício, das multas isoladas, dos juros de mora e do encargo legal efetivamente depositados. 87º transformação em pagamento definitivo dos valores depositados somente ocorrerá após a aplicação dos percentuais de redução, observado o disposto no 8 6º . $ 8º A pessoa jurídica que, após a transformação dos depósitos em pagamento definitivo, possuir débitos não liquidados pelo depósito poderá obter as reduções para pagamento à vista e liquidar os juros relativos a esses débitos com a utilização de montantes de prejuizo fiscal ou de base de cálculo negativa da CSLL, desde que pague à vista os débitos remanescentes. $ 9º Na hipótese do $ 8º, as reduções serão aplicadas sobre os valores atualizados na data do pagamento. $ 10. Para fins de aplicação do disposto nos $8 6º e 9º, a RFB deverá consolidar o débito, considerando a utilização de montantes de prejuízo fiscal ou de base de cálculo negativa da CSLL de acordo com a aliquota aplicável a cada pessoa jurídica, e informar ao Poder Judiciário o resultado para fins de transformação do depósito em pagamento definitivo ou levantamento de eventual saldo. $ 11.0 montante transformado em pagamento definitivo será o necessário para apropriação aos débitos envolvidos no litígio objeto da desistência, inclusive a débitos referentes ao mesmo litígio que eventualmente estejam sem o correspondente depósito ou com depósito em montante insuficiente a sua quitação. 8 12. Após a transformação em pagamento definitivo de que trata o 8 7º , o sujeito passivo poderá requerer o levantamento do saldo remanescente, se houver, observado o disposto no 13. $ 13. Na hipótese de que trata o $ 12, o saldo remanescente somente poderá ser levantado pelo sujeito passivo após a confirmação pela RFB dos montantes de prejuízo fiscal e de base de cálculo negativa da CSLL utilizados na forma do 5 7º do art. 1º da Lei nº 11.941, de 27 de maio de 2009 $ 14. O saldo remanescente de que trata o $ 12 será corrigido pela taxa Selic. $ 15. Para os sujeitos passivos que aderirem ao parcelamento na forma do caput, nenhum percentual de multa, antes das reduções, será superior a 100% (cem por cento).” (NR) * Art, 39, Os débitos para com a Fazenda Nacional relativos à contribuição para o Programa de Integração Social - PIS e à Contribuição para o Financiamento da Seguridade Social - Cofins, de que trata o Capítulo | da Lei nº 9,718, de 27 de novembro de 1998, devidos por instituições financeiras e equiparadas, vencidos até 31 de dezembro de 2013, poderão ser:\n1- pagos à vista com redução de 100% (cem por cento) das multas de mora e de ofício, de 100% (cem por cento) das multas isoladas, de 100% (cem por cento) dos juros de mora e de 100% (cem por cento) sobre o valor do encargo legal; ou 8.4º A desistência de que trata o 8 3º poderá ser parcial, desde que o débito, objeto de desistência, seja passível de distinção dos demais débitos discutidos na ação judicial ou no processo administrativo. $.9º O pedido de pagamento ou parcelamento deverá ser efetuado até o último dia do segundo mês subsequente ao da publicação da Lei decorrente da conversão da Medida Provisória nº 627, de 11 de novembro de 2013, e independerá de apresentação de garantia, mantidas aquelas decorrentes de débitos transferidos de outras modalidades de parcelamento ou de execução fiscal. 8.16, Não será computada na apuração da base de cálculo do Imposto de Renda, da Contribuição Social sobre o Lucro Líquido - CSLL, da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins a parcela equivalente à redução do valor das multas, dos juros e do encargo legal em decorrência do disposto neste artigo.” (NR) * Art. 40. Os débitos para com a Fazenda Nacional relativos ao Imposto sobre a Renda das Pessoas Jurídicas - IRPJ e à Contribuição Social sobre o Lucro Liquido - CSLL, decorrentes da aplicação do art. 74 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, relativos a fatos geradores ocorridos até 31 de dezembro de 2013, poderão ser:\n11 - parcelados em até 180 (cento e oitenta) prestações, sendo 20% (vinte por cento) de entrada e o restante em parcelas mensais, com redução de 80% (oitenta por cento) das multas de mora e de ofício, de 80% (oitenta por cento) das multas isoladas, de 50% (cinquenta por cento) dos juros de mora e de 100% (cem por cento) sobre o valor do encargo legal. $.7º Os valores correspondentes a multas, de mora ou de ofício ou isoladas, a juros moratórios e até 30% (trinta por cento) do valor do principal do tributo, inclusive relativos a débitos inscritos em dívida ativa e do restante a ser pago em parcelas mensais a que se refere o inciso II do caput, poderão ser liquidados com a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Liquido próprios e de sociedades controladoras e controladas em 31 de dezembro de 2011, domiciliadas no Brasil, desde que se mantenham nesta condição até a data da opção pelo parcelamento. 58 ieetemeteeeeeeeeerseremeersmsersmsers 1L- somente será admitida a utilização de prejuízo fiscal e base de cálculo negativa da Contribuição Social sobre o Lucro Líquido - CSLL próprios ou incorridos pelas sociedades controladoras e controladas e pelas sociedades que estejam sob controle comum, direto e indireto, até 31 de dezembro de 2012; e\nL- aplica-se à controladora e à controlada, para fins de aproveitamento de créditos de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido, o conceito previsto no $ 2º do art. 243 da Lei nº 8.404, de 15 de dezembro de 1976. $.11. O pedido de pagamento ou de parcelamento deverá ser efetuado até o último dia do segundo mês subsequente ao da publicação da Lei decorrente da conversão da Medida Provisória nº 627, de 11 de novembro de 2013, e independerá da apresentação de garantia, mantidas aquelas decorrentes de débitos transferidos de outras modalidades de parcelamento ou de execução fiscal. 8.15. Aplica-se ao parcelamento de que trata este artigo o disposto no caput e nos $$ 2º e 3º do art. 11, no art. 12, no caput do art. 13 e nos incisos V e IX do caput do art. 14 da Lei nº 10.522, de 19 de julho de 2002, e no parágrafo único do art, 4º da Lei nº 11.941, de 27 de maio de 2009. eres” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 94",
+      "t": "Art. 94. Para fins do disposto nesta Lei, as pessoas jurídicas domiciliadas no Brasil deverão manter disponível à autoridade fiscal documentação hábil e idônea que comprove os requisitos nela previstos, enquanto não ocorridos os prazos decadencial e prescricional."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 95",
+      "t": "Art. 95. O art. 25 da Lei nº 9.249, de 26 de dezembro de 1995, passa a vigorar acrescido do seguinte 8 7º: CARDS. erraram 87º Os lucros serão apurados segundo as normas da legislação comercial do país de domicilio.” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 96",
+      "t": "Art. 96. A pessoa jurídica poderá optar pela aplicação das disposições contidas nos arts. 76 a 92 desta Lei para o ano-calendário de 2014. (Vide artigo 11952) $ 1º A opção de que trata o caput será irretratável e acarretará a observância de todas as alterações trazidas pelos arts. 76 a 92 a partir de 1º de janeiro de 2014. $ 2º A Secretaria da Receita Federal do Brasil definirá a forma, o prazo e as condições para a opção de que trata o caput . $ 3º Fica afastado, a partir de 1º de janeiro de 2014, o disposto na alinea “b” do $ 1º e nos $5 2º e 4º do art. 1º da Lei nº 9.532, de 10 de dezembro de 1997, e no art. 74 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, para as pessoas jurídicas que exerceram a opção de que trata o caput."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 97",
+      "t": "Art. 97. Ficam isentos de Imposto sobre a Renda - IR os rendimentos, inclusive ganhos de capital, pagos, creditados, entregues ou remetidos a beneficiário residente ou domiciliado no exterior, exceto em país com tributação favorecida, nos termos do art. 24 da Lei nº 9.430, de 27 de dezembro de 1996, produzidos por fundos de investimentos, cujos cotistas sejam exclusivamente investidores estrangeiros. $ 1º Para fazer jus à isenção de que trata o caput , o regulamento do fundo deverá prever que a aplicação de seus recursos seja realizada exclusivamente em depósito à vista, ou em ativos sujeitos a isenção de Imposto sobre a Renda - IR, ou tributados à alíquota O (zero), nas hipóteses em que o beneficiário dos rendimentos produzidos por esses ativos seja residente ou domiciliado no exterior, exceto em país com tributação favorecida, nos termos do a rt. 24 da Lei nº 9.430, de 27 de dezembro de 1996. $ 2º Incluem-se entre os ativos de que trata o $ 1º aqueles negociados em bolsas de valores, de mercadorias, de futuros e assemelhadas e que sejam isentos de tributação, na forma da alínea “b” do $ 2º do art, 81 da Lei nº 8.981, de 20 de janeiro de 1995, desde que sejam negociados pelos fundos, nas mesmas condições previstas na referida Lei, para gozo do incentivo fiscal. $ 3º Caso o regulamento do fundo restrinja expressamente seus cotistas a investidores estrangeiros pessoas físicas, também se incluirão entre os ativos de que trata o $ 1º os ativos beneficiados pelo disposto no art. 3º da Lei nº 11.033, de 21 de dezembro de 2004, desde que observadas as condições previstas para gozo do benefício fiscal. Vigência encerrada"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 98",
+      "t": "Art. 98. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 99",
+      "t": "Art. 99. O prazo de que trata o 8 4º do art. 1º da Lei nº 9.532. de 10 de dezembro de 1997. não se aplica a partir da entrada em vigor do art. 74 da Medida Provisória nº 2.158-35. de 24 de agosto de 2001. $ 1º Na hipótese de existência de lançamento de ofício sem a observância do disposto no caput , fica assegurado o direito ao aproveitamento do imposto pago no exterior, limitado ao imposto correspondente ao lucro objeto do lançamento. 5 2º Aplica-se o disposto no caput aos débitos ainda não constituídos que vierem a ser incluídos no parcelamento de que trata o art. 40 da Lei nº 12.865, de 9 de outubro de 2013."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 100",
+      "t": "Art. 100. A Lei nº 9,532, de 10 de dezembro de 1997, passa a vigorar com as seguintes alterações: CARGA. ir eeeeesseessasessrssessessessrssessas 8.141. Os órgãos de registro público onde os bens e direitos foram arrolados possuem o prazo de 30 (trinta) dias para liberá-los, contados a partir do protocolo de cópia do documento comprobatório da comunicação aos órgãos fazendários, referido no $ 3º deste artigo.” (NR) “ALMA imersos 8.1º O arrolamento somente poderá alcançar outros bens e direitos para fins de complementar o valor referido no caput. 8 2º Fica a critério do sujeito passivo, a expensas dele, requerer, anualmente, aos órgãos de registro público onde os bens e direitos estiverem arrolados, por petição fundamentada, avaliação dos referidos ativos, por perito indicado pelo próprio órgão de registro, a identificar o valor justo dos bens e direitos arrolados e evitar, deste modo, excesso de garantia.” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 101",
+      "t": "Art. 101. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 102",
+      "t": "Art. 102. O art. 1º da Lei nº 9.826, de 23 de agosto de 1999, passa a vigorar com a seguinte alteração: 83º O crédito presumido poderá ser aproveitado em relação às saídas ocorridas até 31 de dezembro de 2020. arremessar” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 103",
+      "t": "Art. 103. O art. 1º da Lei nº 10.485, de 3 de julho de 2002, passa a vigorar com a seguinte redação: * Art, 4º As pessoas jurídicas fabricantes e as importadoras de máquinas, implementos e veículos classificados nos códigos 73.09, 7310.29, 7612.90.12, 8424.81, 84.29, 8430.69.90, 84.32, 84.33, 84.34, 84.35, 84.36, 84.37, 87.01, 87.02, 87.03, 87.04, 87.05, 87.06 e 8716.20.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi, aprovada pelo Decreto nº 7,660, de 23 de dezembro de 2011, relativamente à receita bruta decorrente de venda desses produtos, ficam sujeitas ao pagamento da contribuição para o Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, às alíquotas de 2% (dois por cento) e 9,6% (nove inteiros e seis décimos por cento), respectivamente. $.1º O disposto no caput, relativamente aos produtos classificados no Capítulo 84 da Tipi, aplica-se aos produtos autopropulsados ou não. 1L- em 48,1% (quarenta e oito inteiros e um décimo por cento), no caso de venda de produtos classificados nos seguintes códigos da Tipi: 73.09, 7310.29.20, 7612.90.12, 8424.81, 84.29, 8430.69.90, 84.32, 84.33, 84.34, 84.35, 84.36, 84.37, 87.01, 8702.10.00 Ex 02, 8702.90.90 Ex 02, 8704.10.00, 87.05, 8716.20.00 e 8706.00.10 Ex 01 (somente os destinados aos produtos classificados nos Ex 02 dos códigos 8702.10.00 e 8702.90.90). carrera” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 104",
+      "t": "Art. 104. Aplica-se ao $ 7º do art. 37-B da Lei nº 10.522, de 19 de julho de 2002, constante do art. 35 da Lei nº 11.941, de 27 de maio de 2009, e ao $ 33 do art. 65 da Lei nº 12.249, de 11 de junho de 2010, no caso de instituições financeiras e assemelhadas, a alíquota de 15% (quinze por cento) sobre a base de cálculo negativa da CSLL, para manter a isonomia de alíquotas."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 105",
+      "t": "Art. 105. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 106",
+      "t": "Art. 106. O art. 3º da Lei nº 11.312, de 27 de junho de 2006, passa a vigorar acrescido do seguinte 8 3º : “AS remessas 8.3º A alíquota O (zero) referida no caput também se aplica aos ganhos de capital auferidos na alienação ou amortização de quotas de fundos de investimentos de que trata este artigo.” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 107",
+      "t": "Art, 107. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 108",
+      "t": "Art. 108. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 109",
+      "t": "Art. 109. As pessoas jurídicas que se encontrem inativas desde o ano-calendário de 2009 ou que estejam em regime de liquidação ordinária, judicial ou extrajudicial, ou em regime de falência, poderão apurar o Imposto de Renda e a CSLL relativos ao ganho de capital resultante da alienação de bens ou direitos, ou qualquer ato que enseje a realização de ganho de capital, sem a aplicação dos limites previstos nos arts. 15 e 16 da Lei nº 9.065, de 20 de junho de 1995, desde que o produto da venda seja utilizado para pagar débitos de qualquer natureza com a União."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 110",
+      "t": "Art. 110. O art. 43 da Leinº 12.431, de 24 de junho de 2011, passa a vigorar acrescido do seguinte parágrafo único: CARAS, ir emesesesresesesesme rsrsrsrsrs\nParágrafo único. O disposto no caput deste artigo aplica-se ao precatório federal de titularidade de pessoa jurídica que, em 31 de dezembro de 2012, seja considerada controlada ou coligada do devedor, nos termos dos arts. 1.097 a 1.099 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil. \" (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 111",
+      "t": "Art. 111. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 112",
+      "t": "Art. 112. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 113",
+      "t": "Art, 113. Os arts. 30-A e 30-B da Lei nº 11,051, de 29 de dezembro de 2004, passam a vigorar com as seguintes alterações: * Art, 30-A, As cooperativas de radiotáxi, bem como aquelas cujos cooperados se dediquem a serviços relacionados a atividades culturais, de música, de cinema, de letras, de artes cênicas (teatro, dança, circo) e de artes plásticas, poderão excluir da base de cálculo da contribuição para PIS/Pasep e Cofins: career” (NR) * Art. 30-B, São remidos os créditos tributários, constituídos ou não, inscritos ou não em divida ativa, bem como anistiados os respectivos encargos legais, multas e juros de mora quando relacionados à falta de pagamento da Cofins e da contribuição para o PIS/Pasep sobre os valores passíveis de exclusão das suas bases de cálculo nos termos do art. 30-A desta Lei das associações civis e das sociedades cooperativas referidas no art. 30-A desta Lei.” (NR)"
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 114",
+      "t": "Art. 114. (VETADO)."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 115",
+      "t": "Art. 115. Aplica-se o disposto no caput do art. 40 da Lei nº 12.865, de 9 de outubro de 2013, constante do art. 93 desta Lei, aos débitos relativos à contribuição à Comissão Coordenadora da Criação do Cavalo Nacional - CCCCN, estabelecida na Lei nº 7.291, de 19 de dezembro de 1984,\nParágrafo único. Fica autorizado o cálculo do valor da contribuição à Comissão Coordenadora da Criação do Cavalo Nacional - CCCCN, vencida até 14 de dezembro de 2011, conforme o disposto no $.4º do art. 11 da Lei nº 7.291, de 19 de dezembro de 1984, vedada qualquer restituição."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 116",
+      "t": "Art. 116. A Secretaria da Receita Federal do Brasil editará os atos necessários à aplicação do disposto nesta Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 117",
+      "t": "Art. 117. Revogam-se, a partir de 1º de janeiro de 2015: |- a alinea “b” do caput e o $ 3º do art. 58 da Lei nº 4.506, de 30 de novembro de 1964 ; l- o art. 15 da Lei nº 6.099, de 12 de setembro de 1974 ; Il - os seguintes dispositivos do Decreto-Lei nº 1.598, de 26 de dezembro de 1977 :\na) o inciso Il do caput do art. 8º ; b)o 8 1ºdoart 15; c)082ºdoart.20;\nd) o inciso Ill do caput do art. 27;\ne) o inciso | do caput do art. 29; foS3doart. 31; goart.32;\nh) o inciso IV do capute o $ 1º do art. 33; Doar.34;e\nj) o inciso Ill do caput do art, 38; IV -o art. 18 da Lei nº 8.218, de 29 de agosto de 1991; V-o art. 31 da Lei nº 8.981, de 20 de janeiro de 1995 ; vi-os $5.2º6 3º do art. 21 e o art. 31 da Lei nº 9.249, de 26 de dezembro de 1995 ; VIl- a alínea “b\" do 8 1º e os $5.2º e 4º do art. 1º da Lei nº 9.532, de 10 de dezembro de 1997;\nVIII - o inciso V do 8 2º do art. 3º da Lei nº 9.718, de 27 de novembro de 1998;\nIX- o art, 74 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001 ; e X-os arts. 15 a 24,59 e 60 da Lei nº 11.941, de 27 de maio de 2009."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 118",
+      "t": "Art. 118. Revoga-se o art. 55 da Lei nº 10.637, de 30 de dezembro de 2002, a partir da data de publicação desta Lei."
+    },
+    {
+      "s": "Lei 12.973/14",
+      "a": "Art. 119",
+      "t": "Art. 119. Esta Lei entra em vigor em 1º de janeiro de 2015, exceto os arts. 3º 72 a 75 e 93 a 119, que entram em vigor na data de sua publicação. $ 1º Aos contribuintes que fizerem a opção prevista no art. 75, aplicam-se, a partir de 1º de janeiro de 2014: I-osarts 1º 226 4a 70 e Il- as revogações previstas nos incisos La VI, Ville X do caput do art. 117. $ 2º Aos contribuintes que fizerem a opção prevista no art. 96, aplicam-se, a partir de 1º de janeiro de 2014: I-osarts. 76292; e ll- as revogações previstas nos incisos VILe IX do caput do art, 117. Brasília, 13 de maio de 2014; 193º da Independência e 126º da República. DILMA ROUSSEFF José Eduardo Cardozo Guido Mantega César Borges Arthur Chioro Miriam Belchior Luís Inácio Lucena Adams Antonio Henrique Pinheiro Silveira Moreira Franco"
     },
     {
       "s": "Lei 15.079/24",
@@ -6407,9 +7517,817 @@ window.IRPRO_DATA = {
         {
           "art": "Art. 1",
           "livro": "",
-          "titulo": "Apuração do IRPJ e da CSLL",
+          "titulo": "",
           "capitulo": "",
           "preview": "Art. 1º A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 2",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 2º. A pessoa jurídica sujeita a tributação com base no lucro real poderá optar pela pagamento do imposto,",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 3",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 3º A adoção da forma de pagamento do imposto prevista no art. 1º, pelas pessoas jurídicas sujeitas ao reg",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 4",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 4º Os 88 1º e 2º do art, 3º da Lei nº 9,249, de 26 de dezembro de 1995, passam a vigorar com a seguinte r",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 5",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 5º O imposto de renda devido, apurado na forma do art. 1º, será pago em quota única, até o último dia úti",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 6",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 6º O imposto devido, apurado na forma do art. 2º, deverá ser pago até o último dia útil do mês subsequent",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 7",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 7º Alternativamente ao disposto no art. 40 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações d",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 8",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 8º As pessoas jurídicas, mesmo as que não tenham optado pela forma de pagamento do art. 2º, deverão calcu",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 9",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 9º As perdas no recebimento de créditos decorrentes das atividades da pessoa jurídica poderão ser deduzid",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 9-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 9º-A. Na hipótese de inadimplência do débito, as exigências de judicialização de que tratam a alínea c do",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 10",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 10. Os registros contábeis das perdas admitidas nesta Lei serão efetuados a débito de conta de resultado ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 11",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art, 11. Após dois meses do vencimento do crédito, sem que tenha havido o seu recebimento, a pessoa jurídica c",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 12",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 12. Deverá ser computado na determinação do lucro real o montante dos créditos deduzidos que tenham sido ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 13",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 13, No balanço levantado para determinação do lucro real em 31 de dezembro de 1996, a pessoa jurídica pod",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 14",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art, 14. A partir do ano-calendário de 1997, ficam revogadas as normas previstas no art. 43 da Lei nº 8.981, d",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 15",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 15. A pessoa jurídica domiciliada no Brasil que auferir, de fonte no exterior, receita decorrente da pres",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 16",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 16. Sem prejuizo do disposto nos arts, 25, 26 e 27 da Lei nº 9.249, de 26 de dezembro de 1995, os lucros ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 17",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 17. Serão computados na determinação do lucro real e na base de cálculo da Contribuição Social sobre o Lu",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 18",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art, 18. (Revogado pela Lei nº 14,596, de 2023) Vigência",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 18-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 18-A. (Revogado pela Lei nº 14.596, de 2023) Vigência Receitas Oriundas de Exportações para o Exterior",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 19",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 19. (Revogado pela Lei nº 14.596, de 2023) Vigência",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 19-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 19-A. (Revogado pela Lei nº 14.596, de 2023) Vigência",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 20",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 20. (Revogado pela Lei nº 14.596, de 2023). Vigência",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 20-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 20-A. (Revogado pela Lei nº 14.596, de 2023). Vigência",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 20-B",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 20-B. (Revogado pela Lei nº 14.596, de 2023) Vigência Apuração dos Preços Médios",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 21",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 21. (Revogado pela Lei nº 14.596, de 2023) Vigência Juros",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 22",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 22. (Revogado pela Lei nº 14.596, de 2023). Vigência Pessoa Vinculada - Conceito",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 23",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 23. (Revogado pela Lei nº 14.596, de 2023). Vigência Países com Tributação Favorecida",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 24",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 24. As disposições previstas nos arts. 1º a 37 da lei decorrente da conversão da Medida Provisória nº 1.1",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 24-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 24-A, As disposições previstas nos arts. 1º a 37 da lei decorrente da conversão da Medida Provisória nº 1",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 24-B",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 24-B. O Poder Executivo poderá reduzir ou restabelecer os percentuais de que tratam o caput do art. 24 e ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 24-C",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 24-C. A qualificação de país ou dependência com tributação favorecida ou de regime fiscal privilegiado pr",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 25",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 25. O lucro presumido será o montante determinado pela soma das seguintes parcelas: 1-0 valor resultante ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 26",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 26. A opção pela tributação com base no lucro presumido será aplicada em relação a todo o período de ativ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 27",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art, 27. O lucro arbitrado será o montante determinado pela soma das seguintes parcelas:\n1- o valor resultante",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 29",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 29. A base de cálculo da contribuição social sobre o lucro líquido, devida pelas pessoas jurídicas tribut",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 30",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção ll — Pagamento do Imposto",
+          "preview": "Art. 30. A pessoa jurídica que houver optado pela pagamento do imposto de renda na forma do art. 2º fica, tamb",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 31",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo 111 — IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS",
+          "preview": "Art. 31. O art. 35 da Lei nº 4,502, de 30 de novembro de 1964, passa a vigorar com a seguinte redação: DN\n11 -",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 32",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 32, A suspensão da imunidade tributária, em virtude de falta de observância de requisitos legais, deve se",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 33",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 33, A Secretaria da Receita Federal pode determinar regime especial para cumprimento de obrigações, pela ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 34",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 34. São também passíveis de exame os documentos do sujeito passivo, mantidos em arquivos magnéticos ou as",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 35",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 35. Os livros e documentos poderão ser examinados fora do estabelecimento do sujeito passivo, desde que l",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 36",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 36. A autoridade fiscal encarregada de diligência ou fiscalização poderá promover a lacração de móveis, c",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 37",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 37. Os comprovantes da escrituração da pessoa jurídica, relativos a fatos que repercutam em lançamentos c",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 38",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 38. O sujeito passivo usuário de sistema de processamento de dados deverá manter documentação técnica com",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 39",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 39. (Revogado pela Lei nº 9.532, de 1997) Falta de Escrituração de Pagamentos",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 40",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 40. A falta de escrituração de pagamentos efetuados pela pessoa jurídica, assim como a manutenção, no pas",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 41",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 41. A omissão de receita poderá, também, ser determinada a partir de levantamento por espécie das quantid",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 42",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 42, Caracterizam-se também omissão de receita ou de rendimento os valores creditados em conta de depósito",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 43",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 43, Poderá ser formalizada exigência de crédito tributário correspondente exclusivamente a multa ou a jur",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 44",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 44. Nos casos de lançamento de ofício, serão aplicadas as seguintes multas: (Vide Lei nº 10.892, de 2004)",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 45",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 45. (Revogado pela Lei nº 11.488, de 2007)",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 46",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art 46. (Revogado pela Lei nº 11.488, de 2007)",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 47",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo IV — PROCEDIMENTOS DE FISCALIZAÇÃO",
+          "preview": "Art. 47, A pessoa física ou jurídica submetida a ação fiscal por parte da Secretaria da Receita Federal poderá",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 48",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 48. No âmbito da Secretaria da Receita Federal, os processos administrativos de consulta serão solucionad",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 49",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 49. Não se aplicam aos processos de consulta no âmbito da Secretaria da Receita Federal as disposições do",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 50",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 50. Aplicam-se aos processos de consulta relativos à classificação de mercadorias as disposições dos arts",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 51",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 51. Os juros de que trata o art. 9º da Lei nº 9.249, de 26 de dezembro de 1995, bem como os rendimentos e",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 52",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 52. Na apuração de ganho de capital de pessoa jurídica tributada pela lucro presumido ou arbitrado, os va",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 53",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 53, Os valores recuperados, correspondentes a custos e despesas, inclusive com perdas no recebimento de c",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 54",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 54. A pessoa jurídica que, até o ano-calendário anterior, houver sido tributada com base no lucro real de",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 55",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 55. As sociedades civis de prestação de serviços profissionais relativos ao exercício de profissão legalm",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 56",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 56. As sociedades civis de prestação de serviços de profissão legalmente regulamentada passam a contribui",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 56-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 56-A. A entidade privada de abrangência nacional e sem fins lucrativos, constituída pela conjunto das coo",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 57",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 57. As Associações de Poupança e Empréstimo pagarão o imposto de renda correspondente aos rendimentos e g",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 58",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 58. Fica incluído no art. 36 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 59",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 59. Considera-se, também, como atividade rural o cultivo de florestas que se destinem ao corte para comer",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 60",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 60. As entidades submetidas aos regimes de liquidação extrajudicial e de falência sujeitam-se às normas d",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 61",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 61. Os débitos para com a União, decorrentes de tributos e contribuições administrados pela Secretaria da",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 62",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 62. Os juros a que se referem o inciso Ill 14 e 0 art. 16, ambos da Lei nº 9.250, de 26 de dezembro de 19",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 63",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 63. Na constituição de crédito tributário destinada a prevenir a decadência, relativo a tributo de compet",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 64",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 64, Os pagamentos efetuados por órgãos, autarquias e fundações da administração pública federal a pessoas",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 65",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 65. O Banco do Brasil S.A. deverá reter, no ato do pagamento ou crédito, a contribuição para o PIS/PASEP ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 66",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 66. As cooperativas que se dedicam a vendas em comum, referidas no art. 82 da Lei nº 5.764, de 16 de deze",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 67",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 67. Fica dispensada a retenção de imposto de renda, de valor igual ou inferior a R$ 10,00 (dez reais), in",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 68",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 68. É vedada a utilização de Documento de Arrecadação de Receitas Federais para o pagamento de tributos e",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 68-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 68-A. O Poder Executivo poderá elevar para até R$ 100,00 (cem reais) os limites e valores de que tratam o",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 69",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 69. É responsável pela retenção e recolhimento do imposto de renda na fonte, incidente sobre os rendiment",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 70",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 70. A multa ou qualquer outra vantagem paga ou creditada por pessoa jurídica, ainda que a título de inden",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 71",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 71. Sem prejuízo do disposto no art. 74 da Lei nº 8.981, de 20 de janeiro de 1995, os ganhos auferidos po",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 72",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 72, Estão sujeitas à incidência do imposto na fonte, à aliquota de quinze por cento, as importâncias paga",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 73",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 73. A restituição e o ressarcimento de tributos administrados pela Secretaria da Receita Federal do Brasi",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 74",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 74. O sujeito passivo que apurar crédito, inclusive os judiciais com trânsito em julgado, relativo a trib",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 74-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 74-A. A compensação de crédito decorrente de decisão judicial transitada em julgado observará o limite me",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 75",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 75. A partir de 1º de janeiro de 1997, a atualização do valor da Unidade Fiscal de Referência - UFIR, de ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 76",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 76. Fica o Poder Executivo autorizado a alterar as competências relativas às matérias objeto de julgament",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 77",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 77. Fica o Poder Executivo autorizado a disciplinar as hipóteses em que a administração tributária federa",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 78",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 78. O 5.1º do art, 9º da Lei nº 9.249, de 26 de dezembro de 1995, passa a vigorar com a seguinte redação:",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 79",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo V — DISPOSIÇÕES GERAIS",
+          "preview": "Art. 79. Os bens admitidos temporariamente no País, para utilização econômica, ficam sujeitos ao pagamento dos",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 80",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 80. As inscrições no Cadastro Nacional da Pessoa Jurídica (CNPJ) serão suspensas quando se enquadrarem na",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 80-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 80-A, (Revogado pela Lei nº 14.195, de 2021)",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 80-B",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 80-B. (Revogado pela Lei nº 14.195, de 2021)",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 80-C",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 80-C. (Revogado pela Lei nº 14,195, de 2021)",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 81",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 81. As inscrições no CNPJ serão declaradas inaptas, nos termos e nas condições definidos pela Secretaria ",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 81-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 81-A. As inscrições no CNPJ serão declaradas baixadas após 180 (cento e oitenta) dias contados da declara",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 82",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art, 82. Além das demais hipóteses de inidoneidade de documentos previstas na legislação, não produzirá efeito",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 83",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 83. A representação fiscal para fins penais relativa aos crimes contra a ordem tributária previstos nos a",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 84",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 84, Nos casos de incorporação, fusão ou cisão de empresa incluída no Programa Nacional de Desestatização,",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 85",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art, 85, Ficam sujeitos ao imposto de renda na fonte, à alíquota de quinze por cento, os rendimentos recebidos",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 86",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 86. Nos casos de pagamento de contraprestação de arrendamento mercantil, do tipo financeiro, a beneficiár",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 87",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 87. Esta Lei entra em vigor na data da sua publicação, produzindo efeitos financeiros a partir de 1º de j",
+          "s": "Lei 9.430/96"
+        },
+        {
+          "art": "Art. 88",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Capítulo VI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 88. Revogam-se: 1-0 82º do art. 97 do Decreto-lei nº 5,844, de 23 de setembro de 1943, o Decreto-lei nº 7",
           "s": "Lei 9.430/96"
         }
       ]
@@ -6418,11 +8336,979 @@ window.IRPRO_DATA = {
       "source": "Lei 12.973/14",
       "articles": [
         {
-          "art": "(a preencher)",
+          "art": "Art. 1",
           "livro": "",
-          "titulo": "Lei nº 12.973/2014",
+          "titulo": "",
           "capitulo": "",
-          "preview": "Conteúdo ainda não importado — rode build_data.py.",
+          "preview": "Art. 1º O Imposto sobre a Renda das Pessoas Jurídicas - IRPJ, a Contribuição Social sobre o Lucro Líquido - CS",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 24-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 24-A, A contrapartida do ajuste positivo, na participação societária, mensurada pelo patrimônio líquido, ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 25",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 25. A contrapartida da redução dos valores de que tratam os incisos Il e III do caput do art. 20 não será",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 38-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 38-A, Os custos associados às transações destinadas à obtenção de recursos próprios, mediante a distribui",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 3",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 3º Ficam isentos do Imposto sobre a Renda das Pessoas Físicas os rendimentos recebidos pelos condomínios ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 4",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 4º Os valores decorrentes do ajuste a valor presente, de que trata o inciso VIII do caput do art, 183 da ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 5",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 5º Os valores decorrentes do ajuste a valor presente, de que trata o inciso III do caput do art, 184 da L",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 6",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "",
+          "preview": "Art. 6º A Lei nº 9.430, de 27 de dezembro de 1996, passa a vigorar com as seguintes alterações: (Vigência) * A",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 7",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 7º Para fins de determinação do ganho de capital previsto no inciso Il do caput do art. 25 da Lei nº 9.43",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 8",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 8º No caso de pessoa jurídica tributada com base no lucro presumido ou arbitrado, as receitas financeiras",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 9",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 9º A Lei nº 9.249, de 26 de dezembro de 1995, passa a vigorar com as seguintes alterações: (Vigência) A m",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 20",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art, 20, A base de cálculo da Contribuição Social sobre o Lucro Liquido devida pelas pessoas jurídicas que efe",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 21",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art, 21. A pessoa jurídica que tiver parte ou todo o seu patrimônio absorvido em virtude de incorporação, fusã",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 10",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 10. A Lei nº 8.981, de 20 de janeiro de 1995, passa a vigorar com as seguintes alterações: (Vigência) CAR",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 11",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 11. Para fins de determinação do lucro real, não serão computadas, no período de apuração em que incorrid",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 12",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 12. As variações monetárias em razão da taxa de câmbio referentes aos saldos de valores a apropriar decor",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 13",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 13. O ganho decorrente de avaliação de ativo ou passivo com base no valor justo não será computado na det",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 14",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 14. A perda decorrente de avaliação de ativo ou passivo com base no valor justo somente poderá ser comput",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 15",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 15. A Secretaria da Receita Federal do Brasil irá disciplinar o controle em subcontas previsto nos arts. ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 16",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 16. A pessoa jurídica tributada pelo lucro presumido que, em período de apuração imediatamente posterior,",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 17",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 17. O ganho decorrente de avaliação com base no valor justo de bem do ativo incorporado ao patrimônio de ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 18",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 18. A perda decorrente de avaliação com base no valor justo de bem do ativo incorporado ao patrimônio de ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 19",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 19. A Secretaria da Receita Federal do Brasil irá disciplinar o controle em subcontas de que tratam os ar",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 20",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 20. Nos casos de incorporação, fusão ou cisão, o saldo existente na contabilidade, na data da aquisição d",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 21",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 21. Nos casos de incorporação, fusão ou cisão, o saldo existente na contabilidade, na data da aquisição d",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 22",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 22. A pessoa jurídica que absorver patrimônio de outra, em virtude de incorporação, fusão ou cisão, na qu",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 23",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 23, A pessoa jurídica que absorver patrimônio de outra, em virtude de incorporação, fusão ou cisão, na qu",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 24",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 24. O disposto nos arts. 20, 21, 22 e 23 aplica-se inclusive quando a empresa incorporada, fusionada ou c",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 25",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 25. Para fins do disposto nos aris. 20 e 22, consideram-se partes dependentes quando: (Vigência) | - o ad",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 26",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 26. Nos casos de incorporação, fusão ou cisão, os ganhos decorrentes de avaliação com base no valor justo",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 27",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 27. O ganho decorrente do excesso do valor líquido dos ativos identificáveis adquiridos e dos passivos as",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 28",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 28. A contrapartida da redução do ágio por rentabilidade futura ( goodwill ), inclusive mediante redução ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 29",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 29. Na hipótese de a pessoa jurídica utilizar critério, para determinação da porcentagem do contrato ou d",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 31",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 31. O prêmio na emissão de debêntures não será computado na determinação do lucro real, desde que: (Vigên",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 32",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 32, O contribuinte poderá reconhecer na apuração do lucro real somente os valores contabilizados como red",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 33",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 33. O valor da remuneração dos serviços prestados por empregados ou similares, efetuada por meio de acord",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 34",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 34, As aquisições de serviços, na forma do art. 33 e liquidadas com instrumentos patrimoniais, terão efei",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 35",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 35. No caso de contrato de concessão de serviços públicos em que a concessionária reconhece como receita ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 36",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 36. No caso de contrato de concessão de serviços públicos, o lucro decorrente da receita reconhecida pela",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 37",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 37. No caso de aquisição de controle de outra empresa na qual se detinha participação societária anterior",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 38",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 38. Na hipótese tratada no art. 37, caso ocorra incorporação, fusão ou cisão: (Vigência) | - deve ocorrer",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 39",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 39. Nas incorporações, fusões ou cisões de empresa não controlada na qual se detinha participação societá",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 40",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 40. O art. 57 da Lei nº 4.506, de 30 de novembro de 1964, passa a vigorar com as seguintes alterações: (V",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 41",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 41. A amortização de direitos classificados no ativo não circulante intangível é considerada dedutível na",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 42",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 42. Poderão ser excluídos, para fins de apuração do lucro real, os gastos com desenvolvimento de inovação",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 43",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 43. Os prejuízos decorrentes da alienação de bens e direitos do ativo imobilizado, investimento e intangí",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 44",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 44, No caso de contratos de concessão de serviços públicos, a receita reconhecida pela construção, recupe",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 45",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 45. Os gastos de desmontagem e retirada de item de ativo imobilizado ou restauração do local em que está ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 46",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 46. Na hipótese de operações de arrendamento mercantil que não estejam sujeitas ao tratamento tributário ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 47",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 47, Poderão ser computadas na determinação do lucro real da pessoa jurídica arrendatária as contraprestaç",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 48",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 48. São indedutíveis na determinação do lucro real as despesas financeiras incorridas pela arrendatária e",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 49",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 49. Aos contratos não tipificados como arrendamento mercantil que contenham elementos contabilizados como",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 50",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 50. Aplicam-se à apuração da base de cálculo da CSLL as disposições contidas nos arts. 2º a 8º, 10 a 42 e",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 51",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "Seção II — Custo de Empréstimos - Lucro Presumido e Arbitrado",
+          "preview": "Art. 51. O art. 2º da Lei nº 7.689, de 15 de dezembro de 1988, passa a vigorar com a seguinte redação: (Vigênc",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 52",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO II — DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS",
+          "preview": "Art. 52. A Lei nº 9.718, de 27 de novembro de 1998, passa a vigorar com as seguintes alterações: (Vigência) * ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 53",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO II — DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS",
+          "preview": "Art. 53. A Lei nº 10.865, de 30 de abril de 2004, passa a vigorar com as seguintes alterações: (Vigência) CAMA",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 54",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO II — DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS",
+          "preview": "Art. 54. A Lei nº 10.637, de 30 de dezembro de 2002, passa a vigorar com as seguintes alterações: (Vigência) *",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 55",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO II — DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS",
+          "preview": "Art, 55. A Lei nº 10.833, de 29 de dezembro de 2003, passa a vigorar com as seguintes alterações: (Vigência) “",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 56",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO II — DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS",
+          "preview": "Art. 56. No caso de contrato de concessão de serviços públicos, a receita decorrente da construção, recuperaçã",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 57",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO II — DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA COFINS",
+          "preview": "Art. 57. No caso de operação de arrendamento mercantil não sujeita ao tratamento tributário previsto na Lei nº",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 58",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IN — DAS DEMAIS DISPOSIÇÕES RELATIVAS À LEGISLAÇÃO TRIBUTÁRIA",
+          "preview": "Art. 58. A modificação ou a adoção de métodos e critérios contábeis, por meio de atos administrativos emitidos",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 59",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IN — DAS DEMAIS DISPOSIÇÕES RELATIVAS À LEGISLAÇÃO TRIBUTÁRIA",
+          "preview": "Art. 59. Para fins da legislação tributária federal, as referências a provisões alcançam as perdas estimadas n",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 60",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IN — DAS DEMAIS DISPOSIÇÕES RELATIVAS À LEGISLAÇÃO TRIBUTÁRIA",
+          "preview": "Art. 60. As disposições contidas na legislação tributária sobre reservas de reavaliação aplicam-se somente aos",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 61",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IN — DAS DEMAIS DISPOSIÇÕES RELATIVAS À LEGISLAÇÃO TRIBUTÁRIA",
+          "preview": "Art. 61. A falta de registro na escrituração comercial das receitas e despesas relativas aos resultados não re",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 62",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IN — DAS DEMAIS DISPOSIÇÕES RELATIVAS À LEGISLAÇÃO TRIBUTÁRIA",
+          "preview": "Art. 62. O contribuinte do imposto sobre a renda deverá, para fins tributários, reconhecer e mensurar os seus ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 63",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IN — DAS DEMAIS DISPOSIÇÕES RELATIVAS À LEGISLAÇÃO TRIBUTÁRIA",
+          "preview": "Art. 63, Para fins de avaliação a valor justo de instrumentos financeiros, no caso de operações realizadas em ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 64",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 64. Para as operações ocorridas até 31 de dezembro de 2013, para os optantes conforme o art. 75, ou até 3",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 65",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 65. As disposições contidas nos arts. 7º e 8º da Lei nº 9.532, de 10 de dezembro de 1997, e nos arts. 35 ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 66",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 66. Para fins do disposto no art. 64, a diferença positiva, verificada em 31 de dezembro de 2013, para os",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 67",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 67. Para fins do disposto no art. 64, a diferença negativa, verificada em 31 de dezembro de 2013, para os",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 68",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 68. O disposto nos arts. 64 a 67 será disciplinado pela Secretaria da Receita Federal do Brasil, que pode",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 69",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 69. No caso de contrato de concessão de serviços públicos, o contribuinte deverá: (Vigência) 1 calcular o",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 70",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IV — DAADOÇÃO INICIAL",
+          "preview": "Art. 70. O saldo de prejuizos não operacionais de que trata o art. 31 da Lei nº 9.249, de 26 de dezembro de 19",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 71",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO V",
+          "preview": "Art. 71. A escrituração de que trata o art. 177 da Lei nº 6.404, de 15 de dezembro de 1976, quando realizada p",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 72",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO VI — DAS DISPOSIÇÕES RELATIVAS AO REGIME DE TRIBUTAÇÃO TRANSITÓRIO",
+          "preview": "Art. 72. Os lucros ou dividendos calculados com base nos resultados apurados entre 1º de janeiro de 2008 e 31 ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 73",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO VI — DAS DISPOSIÇÕES RELATIVAS AO REGIME DE TRIBUTAÇÃO TRANSITÓRIO",
+          "preview": "Art. 73. Para os anos-calendário de 2008 a 2014, para fins do cálculo do limite previsto no art. 9º da Lei nº ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 74",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO VI — DAS DISPOSIÇÕES RELATIVAS AO REGIME DE TRIBUTAÇÃO TRANSITÓRIO",
+          "preview": "Art. 74. Para os anos-calendário de 2008 a 2014, o contribuinte poderá avaliar o investimento pelo valor de pa",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 75",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO Vil — DA OPÇÃO PELOS EFEITOS EM 2014",
+          "preview": "Art. 75. A pessoa jurídica poderá optar pela aplicação das disposições contidas nos arts. 1º e 2º e 4º a 70 de",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 76",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO VIII — DISPOSIÇÕES GERAIS SOBRE A TRIBUTAÇÃO EM BASES UNIVERSAIS",
+          "preview": "Art. 76. A pessoa jurídica controladora domiciliada no Brasil ou a ela equiparada, nos termos do art. 83, deve",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 77",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 77. A parcela do ajuste do valor do investimento em controlada, direta ou indireta, domiciliada no exteri",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 78",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 78. Até o ano-calendário de 2029, as parcelas de que trata o art. 77 desta Lei poderão ser consideradas d",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 79",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 79. Quando não houver consolidação, nos termos do art. 78, a parcela do ajuste do valor do investimento e",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 80",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art 80. O disposto nesta Seção aplica-se à coligada equiparada à controladora nos termos do art. 83. (Vigência",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 81",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 81. Os lucros auferidos por intermédio de coligada domiciliada no exterior serão computados na determinaç",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 82",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 82. Na hipótese em que se verifique o descumprimento de pelo menos uma das condições previstas no caput d",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 82-A",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 82-A. Opcionalmente, a pessoa jurídica domiciliada no Brasil poderá oferecer à tributação os lucros aufer",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 83",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 83, Para fins do disposto nesta Lei, equipara-se à condição de controladora a pessoa jurídica domiciliada",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 84",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 84. Para fins do disposto nesta Lei, considera-se: (Vigência) |- renda ativa própria - aquela obtida dire",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 85",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 85. Para fins de apuração do imposto sobre a renda e da CSLL devida pela controladora no Brasil, poderá s",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 86",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 86. Poderão ser deduzidos do lucro real e da base de cálculo da CSLL os valores referentes às adições, es",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 88",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 88. A pessoa jurídica coligada domiciliada no Brasil poderá deduzir do imposto sobre a renda ou da CSLL d",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 89",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 89. A matriz e a pessoa jurídica controladora ou a ela equiparada, nos termos do art. 83, domiciliadas no",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 90",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 90. À opção da pessoa jurídica, o imposto sobre a renda e a CSLL devidos decorrentes do resultado conside",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 91",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 91. A opção pelo pagamento do imposto sobre a renda e da CSLL, na forma do art. 90, poderá ser realizada ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 92",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO IX — DA TRIBUTAÇÃO EM BASES UNIVERSAIS DAS PESSOAS JURÍDICAS",
+          "preview": "Art. 92. Aplica-se o disposto nos arts. 77 a 80 e nos arts. 85 a 91 ao resultado obtido por filial ou sucursal",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 93",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO X — DO PARCELAMENTO ESPECIAL",
+          "preview": "Art. 93. A Lei nº 12.865, de 9 de outubro de 2013, passa a vigorar com as seguintes alterações: * Art, 17, O p",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 94",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 94. Para fins do disposto nesta Lei, as pessoas jurídicas domiciliadas no Brasil deverão manter disponíve",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 95",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 95. O art. 25 da Lei nº 9.249, de 26 de dezembro de 1995, passa a vigorar acrescido do seguinte 8 7º: CAR",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 96",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 96. A pessoa jurídica poderá optar pela aplicação das disposições contidas nos arts. 76 a 92 desta Lei pa",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 97",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 97. Ficam isentos de Imposto sobre a Renda - IR os rendimentos, inclusive ganhos de capital, pagos, credi",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 98",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 98. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 99",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 99. O prazo de que trata o 8 4º do art. 1º da Lei nº 9.532. de 10 de dezembro de 1997. não se aplica a pa",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 100",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 100. A Lei nº 9,532, de 10 de dezembro de 1997, passa a vigorar com as seguintes alterações: CARGA. ir ee",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 101",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 101. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 102",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 102. O art. 1º da Lei nº 9.826, de 23 de agosto de 1999, passa a vigorar com a seguinte alteração: 83º O ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 103",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 103. O art. 1º da Lei nº 10.485, de 3 de julho de 2002, passa a vigorar com a seguinte redação: * Art, 4º",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 104",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 104. Aplica-se ao $ 7º do art. 37-B da Lei nº 10.522, de 19 de julho de 2002, constante do art. 35 da Lei",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 105",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 105. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 106",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 106. O art. 3º da Lei nº 11.312, de 27 de junho de 2006, passa a vigorar acrescido do seguinte 8 3º : “AS",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 107",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art, 107. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 108",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 108. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 109",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 109. As pessoas jurídicas que se encontrem inativas desde o ano-calendário de 2009 ou que estejam em regi",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 110",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 110. O art. 43 da Leinº 12.431, de 24 de junho de 2011, passa a vigorar acrescido do seguinte parágrafo ú",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 111",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 111. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 112",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 112. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 113",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art, 113. Os arts. 30-A e 30-B da Lei nº 11,051, de 29 de dezembro de 2004, passam a vigorar com as seguintes ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 114",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 114. (VETADO).",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 115",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 115. Aplica-se o disposto no caput do art. 40 da Lei nº 12.865, de 9 de outubro de 2013, constante do art",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 116",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 116. A Secretaria da Receita Federal do Brasil editará os atos necessários à aplicação do disposto nesta ",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 117",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 117. Revogam-se, a partir de 1º de janeiro de 2015: |- a alinea “b” do caput e o $ 3º do art. 58 da Lei n",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 118",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 118. Revoga-se o art. 55 da Lei nº 10.637, de 30 de dezembro de 2002, a partir da data de publicação dest",
+          "s": "Lei 12.973/14"
+        },
+        {
+          "art": "Art. 119",
+          "livro": "",
+          "titulo": "",
+          "capitulo": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "preview": "Art. 119. Esta Lei entra em vigor em 1º de janeiro de 2015, exceto os arts. 3º 72 a 75 e 93 a 119, que entram ",
           "s": "Lei 12.973/14"
         }
       ]
