@@ -528,18 +528,20 @@ body.dark .mob-nav-btn{background:var(--wh);border-color:var(--bo)}
   <div style="flex:1;display:flex;flex-direction:column;overflow:hidden;position:relative">
     <div class="big-srch-wrap">
       <h3>Buscar nos <span>Artigos</span></h3>
-      <input class="big-srch" type="text" id="bSrchInput" placeholder="Ex: crédito fiscal, split payment, alíquota..." oninput="bDo(this.value)">
+      <input class="big-srch" type="text" id="bSrchInput" placeholder="Ex: lucro real, juros sobre capital próprio, prejuízo fiscal..." oninput="bDo(this.value)">
       <div class="hints">
-        <span class="hint" onclick="bSet('split payment')">split payment</span>
-        <span class="hint" onclick="bSet('base de cálculo')">base de cálculo</span>
-        <span class="hint" onclick="bSet('crédito fiscal')">crédito fiscal</span>
+        <span class="hint" onclick="bSet('lucro real')">lucro real</span>
+        <span class="hint" onclick="bSet('lucro presumido')">lucro presumido</span>
+        <span class="hint" onclick="bSet('juros sobre o capital próprio')">juros sobre capital próprio</span>
+        <span class="hint" onclick="bSet('lucros e dividendos')">lucros e dividendos</span>
+        <span class="hint" onclick="bSet('ganho de capital')">ganho de capital</span>
+        <span class="hint" onclick="bSet('compensação de prejuízos')">compensação de prejuízos</span>
+        <span class="hint" onclick="bSet('preços de transferência')">preços de transferência</span>
+        <span class="hint" onclick="bSet('adicional')">adicional do IRPJ</span>
         <span class="hint" onclick="bSet('imunidade')">imunidade</span>
-        <span class="hint" onclick="bSet('alíquota')">alíquota</span>
-        <span class="hint" onclick="bSet('contribuinte')">contribuinte</span>
-        <span class="hint" onclick="bSet('imposto seletivo')">imposto seletivo</span>
-        <span class="hint" onclick="bSet('comitê gestor')">comitê gestor</span>
-        <span class="hint" onclick="bSet('fato gerador')">fato gerador</span>
-        <span class="hint" onclick="bSet('responsável tributário')">responsável tributário</span>
+        <span class="hint" onclick="bSet('disponibilidade econômica')">disponibilidade econômica</span>
+        <span class="hint" onclick="bSet('CSLL')">CSLL</span>
+        <span class="hint" onclick="bSet('período de apuração')">período de apuração</span>
       </div>
     </div>
     <div class="filter-bar" id="bFilterBar">
