@@ -42,7 +42,7 @@ import urllib.request, urllib.error
 # ─────────────────────────────────────────────────────────────────────────────
 SOURCES = [
     ("CF/88", "CF/88", "Constituição Federal de 1988",
-     "Dispositivos sobre o imposto de renda (arts. 145, §1º e 153, III/§2º)",
+     "Texto integral — 250 artigos + ADCT (fonte: base comunitária Vade-Mecum)",
      "📕", "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"),
     ("CTN", "CTN", "Código Tributário Nacional",
      "Lei nº 5.172/1966 — texto integral",
