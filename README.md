@@ -25,9 +25,17 @@ Módulos:
 ## Arquivos
 
 ```
-index.html      App (HTML + CSS + JS, tudo embutido; carrega os dados de data.js)
-data.js         Base de dados das legislações (window.IRPRO_DATA)
-build_data.py   Gera o data.js baixando o texto oficial das normas
+index.html            App (HTML + CSS + JS embutido; carrega os dados de data.js)
+data.js               Base de dados das legislações (window.IRPRO_DATA) — GERADO
+data/<fonte>.json     Texto integral já extraído de cada norma (fonte da verdade)
+build_data.py         Monta o data.js a partir de data/, sementes e/ou download
+tools/pdf_to_json.py  Converte o PDF oficial de uma norma em data/<fonte>.json
+```
+
+Pipeline dos dados:
+
+```
+PDF oficial ──tools/pdf_to_json.py──▶ data/<fonte>.json ──build_data.py──▶ data.js ──▶ app
 ```
 
 > As anotações ficam no `localStorage` do domínio. Como IRCSPro e ReformaPro
@@ -55,8 +63,30 @@ basta editar o catálogo e regerar o `data.js`.
 
 ## Populando as legislações
 
-O `data.js` versionado já traz **texto real, conferido à mão**, dos dispositivos
-fundamentais do arcabouço de IR/CSLL:
+### Texto integral já importado (de PDFs oficiais → `data/`)
+
+| Fonte | Artigos |
+|-------|---------|
+| **CTN** (Lei 5.172/66) | 211 (texto integral) |
+| **DL 1.598/77** | 89 (texto integral) |
+| **Lei 15.079/24** | 43 (texto integral) |
+| **IN RFB 2.329/26** | 2 (altera a IN RFB 2.228/2024) |
+
+Para adicionar uma norma a partir do PDF oficial:
+
+```bash
+pip install pymupdf
+python3 tools/pdf_to_json.py caminho/da/lei.pdf --key "Lei 9.430/96"
+python3 build_data.py --offline          # regenera o data.js
+```
+
+> ⚠️ PDFs **escaneados (imagem)** não têm camada de texto e não podem ser
+> extraídos sem OCR — foi o caso do PDF da Lei 12.973/14 enviado.
+
+### Dispositivos-chave conferidos à mão (semente)
+
+Para as fontes ainda sem PDF, o `data.js` traz **texto real, conferido à mão**,
+dos dispositivos fundamentais:
 
 | Fonte | Artigos com texto verificado |
 |-------|------------------------------|

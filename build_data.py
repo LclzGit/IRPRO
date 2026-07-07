@@ -33,7 +33,7 @@ Notas:
     são baixados automaticamente (evita puxar a Constituição/o Código inteiros).
   * Confira sempre o texto oficial vigente. Ferramenta de estudo, não fonte oficial.
 """
-import sys, re, json, html, io, time, argparse
+import sys, os, re, json, html, io, time, argparse
 import urllib.request, urllib.error
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -45,7 +45,7 @@ SOURCES = [
      "Dispositivos sobre o imposto de renda (arts. 145, §1º e 153, III/§2º)",
      "📕", "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"),
     ("CTN", "CTN", "Código Tributário Nacional",
-     "Lei nº 5.172/1966 — arts. 43 a 45: imposto sobre a renda",
+     "Lei nº 5.172/1966 — texto integral",
      "📕", "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"),
     ("DL 1.598/77", "DL 1.598", "Decreto-Lei nº 1.598/1977",
      "Base do IRPJ / lucro real e escrituração", "📜",
@@ -77,6 +77,8 @@ SOURCES = [
     ("IN RFB 1.700/17", "IN 1.700", "Instrução Normativa RFB nº 1.700/2017",
      "Regulamenta a apuração do IRPJ e da CSLL", "📋",
      "https://www.normaslegais.com.br/legislacao/instrucao-normativa-rfb-1700-2017.htm"),
+    ("IN RFB 2.329/26", "IN 2.329", "Instrução Normativa RFB nº 2.329/2026",
+     "Altera a IN RFB 2.228/2024 (Adicional da CSLL / regras GloBE)", "📋", ""),
     ("LegisWeb 496991", "LegisWeb", "Norma a identificar (LegisWeb 496991)",
      "Confirmar a norma na importação", "🔖",
      "https://www.legisweb.com.br/legislacao/?id=496991"),
@@ -280,6 +282,26 @@ def seed_or_placeholder(key, name, sub, url):
     return from_seed(key) if key in SEED else placeholder(key, name, sub, url)
 
 
+# ── Conteúdo local já extraído (data/<slug>.json) ────────────────────────────
+# Prioridade máxima: quando existe o JSON da fonte, ele é a base do app.
+# Cada registro: {art, livro, titulo, capitulo, text, preview}.
+# Estes arquivos foram gerados a partir dos PDFs oficiais (ver tools/pdf_to_json.py).
+def _slug(key):
+    return re.sub(r'[^A-Za-z0-9]+', '_', key).strip('_')
+
+def local_json(key):
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "data", _slug(key) + ".json")
+    if not os.path.exists(path):
+        return None
+    recs = json.load(io.open(path, encoding="utf-8"))
+    chunks = [{"s": key, "a": r["art"], "t": r["text"]} for r in recs]
+    arts = [{"art": r["art"], "livro": r.get("livro", ""),
+             "titulo": r.get("titulo", ""), "capitulo": r.get("capitulo", ""),
+             "preview": r.get("preview", r["text"][:110]), "s": key} for r in recs]
+    return chunks, arts
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--offline", action="store_true", help="não baixa nada")
@@ -290,9 +312,13 @@ def main():
 
     chunks, structure = [], []
     for key, short, name, sub, icon, url in SOURCES:
+        lj = local_json(key)
         fetchable = (not args.offline) and (key not in SEED_ONLY) and \
                     (not only or key in only)
-        if fetchable:
+        if lj is not None:
+            c, a = lj
+            print(f"• {key}: {len(c)} artigos (data/{_slug(key)}.json)", file=sys.stderr)
+        elif fetchable:
             try:
                 print(f"↓ {key}: {url}", file=sys.stderr)
                 c, a = parse(html_to_text(fetch(url)), key)
