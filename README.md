@@ -1,0 +1,90 @@
+# IR Pro
+
+Plataforma de estudos da legislação do **Imposto de Renda** (IRPF / IRPJ / IRRF)
+e da **Contribuição Social sobre o Lucro Líquido (CSLL)**.
+
+App estático (roda direto no navegador, sem servidor), construído sobre o mesmo
+framework do [ReformaPro](https://lclzgit.github.io/reformapro/): busca por
+relevância, mapa da estrutura das normas (Livro › Título › Capítulo), leitor com
+anotações que ficam salvas no navegador, glossário e modo escuro.
+
+## Como usar
+
+Abra o `index.html` no navegador — ou publique no GitHub Pages e acesse
+`https://lclzgit.github.io/irpro/`.
+
+Módulos:
+
+| Módulo | O que faz |
+|--------|-----------|
+| 🔍 **Busca** | Busca por palavras‑chave em todas as fontes, ranqueada por relevância, com filtro por norma. |
+| 🗺️ **Mapa** | Navega pela estrutura (Livro / Título / Capítulo / artigos). |
+| 📖 **Leitor** | Lê o texto integral e adiciona anotações pessoais (`localStorage`). |
+| 📌 **Anotações** | Reúne todas as anotações; exporta/importa em JSON. |
+
+## Arquivos
+
+```
+index.html      App (HTML + CSS + JS, tudo embutido; carrega os dados de data.js)
+data.js         Base de dados das legislações (window.IRPRO_DATA)
+build_data.py   Gera o data.js baixando o texto oficial das normas
+```
+
+> As anotações ficam no `localStorage` do domínio. Como IR Pro e ReformaPro
+> compartilhariam o mesmo domínio (`lclzgit.github.io`), as chaves aqui usam o
+> prefixo `irp_` (o ReformaPro usa `rp_`), então as anotações **não colidem**.
+
+## Formato dos dados (`data.js`)
+
+```js
+window.IRPRO_DATA = {
+  meta: { date, app, note },
+  sources: [ { key, short, name, sub, icon, url } ],   // catálogo de normas
+  chunks:  [ { s, a, t } ],                            // s=fonte(key), a=artigo, t=texto
+  structure: [ { source, articles: [ { art, livro, titulo, capitulo, preview, s } ] } ]
+};
+```
+
+- `chunks` é o que a **Busca** e o **Leitor** exibem.
+- `structure` é o que o **Mapa** e a navegação do Leitor usam.
+- `sources[].key` deve ser igual ao `chunk.s` correspondente.
+
+Toda a interface (pills do menu, filtros de fonte, cards do leitor, filtros das
+anotações) é montada **a partir de `SOURCES`** — para incluir/remover uma norma,
+basta editar o catálogo e regerar o `data.js`.
+
+## Populando as legislações
+
+O `data.js` versionado já traz:
+
+- **CTN — arts. 43 a 45** (fato gerador, base de cálculo e contribuinte do IR):
+  texto **verificado manualmente**.
+- Todas as demais normas com um **placeholder** e o link oficial, aguardando
+  importação.
+
+Para importar o texto real, rode num ambiente **com acesso à internet**:
+
+```bash
+python3 build_data.py            # baixa todas as fontes e regenera data.js
+python3 build_data.py --offline  # regenera só com placeholders + semente CTN
+python3 build_data.py --only "CTN,Lei 9.249/95"
+```
+
+O parser é orientado ao HTML do **Planalto** (a maior parte das fontes). Fontes
+de outros sites (`normaslegais`, `legisweb`) podem exigir ajuste manual —
+**revise o resultado** antes de publicar. Se o download de uma fonte falhar, ela
+volta ao placeholder e o app continua funcionando.
+
+> ⚠️ **Nota sobre este ambiente.** O `build_data.py` **não** pôde ser executado
+> aqui: a política de rede desta sessão bloqueia o acesso a `planalto.gov.br` e
+> aos demais sites (403). Por isso o `data.js` foi entregue com a semente do CTN
+> + placeholders. Rode o script na sua máquina para baixar o texto completo.
+
+## Normas incluídas no catálogo
+
+Constituição Federal/88 · CTN (Lei 5.172/66) · DL 1.598/77 · Lei 7.689/88 (CSLL) ·
+Lei 8.981/95 · Lei 9.249/95 · Lei 9.316/96 · Lei 9.430/96 · Lei 12.973/14 ·
+Lei 15.079/24 · LC 224 · IN RFB 1.700/17 · (LegisWeb 496991 — a identificar).
+
+> Sempre confira o **texto oficial vigente** no Planalto / Receita Federal. Este
+> app é ferramenta de estudo, não fonte oficial.
